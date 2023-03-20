@@ -1,0 +1,7 @@
+consistency,packaging,chocolate,isSticky
+soft,individuallyWrapped,yes,yes
+soft,box,yes,no
+hard,individuallyWrapped,no,yes
+hard,box,no,yes
+hard,box,yes,no
+soft,individuallyWrapped,no,yes

@@ -1,0 +1,1702 @@
+=== Run information ===
+
+Scheme:       weka.classifiers.meta.Stacking -X 10 -M "weka.classifiers.trees.J48 -C 0.25 -M 2" -S 1 -num-slots 1 -B "weka.classifiers.rules.DecisionTable -X 1 -S \"weka.attributeSelection.BestFirst -D 1 -N 5\"" -B "weka.classifiers.rules.Prism " -B "weka.classifiers.bayes.NaiveBayes "
+Relation:     cleaned_credit-weka.filters.unsupervised.attribute.Remove-R1-2,20,24-weka.filters.unsupervised.attribute.Discretize-B10-M-1.0-Rfirst-last-precision6-weka.filters.unsupervised.attribute.Discretize-B40-M-1.0-Rfirst-last-precision6-weka.filters.unsupervised.attribute.Remove-R1-3
+Instances:    1004
+Attributes:   17
+              purpose
+              credit_amount
+              savings
+              employment
+              installment_commitment
+              personal_status
+              other_parties
+              residence_since
+              property_magnitude
+              age
+              other_payment_plans
+              housing
+              existing_credits
+              job
+              own_telephone
+              foreign_worker
+              class
+Test mode:    evaluate on training data
+
+=== Classifier model (full training set) ===
+
+Stacking
+
+Base classifiers
+
+Decision Table:
+
+Number of training instances: 1004
+Number of Rules : 41
+Non matches covered by Majority class.
+	Best first.
+	Start set: no attributes
+	Search direction: forward
+	Stale search after 5 node expansions
+	Total number of subsets evaluated: 101
+	Merit of best subset found:   60.458
+Evaluation (for feature selection): CV (leave one out) 
+Feature set: 10,13,17
+
+Prism rules
+----------
+If age = '(69.4-inf)'
+   and other_parties = none then Bad
+If existing_credits = '(3.6-inf)'
+   and housing = own then Bad
+If purpose = domestic appliance
+   and credit_amount = '(2067.4-3884.8]' then Bad
+If purpose = retraining
+   and employment = 4<=X<7 then Bad
+If purpose = domestic appliance
+   and installment_commitment = '(0.8-1.2]' then Bad
+If age = '(63.8-69.4]'
+   and own_telephone = yes then Bad
+If credit_amount = '(12971.8-14789.2]'
+   and installment_commitment = '(-inf-0.4]' then Bad
+If credit_amount = '(14789.2-16606.6]'
+   and age = '(-inf-24.6]' then Bad
+If savings = '(7438.464-8368.272]'
+   and employment = <1 then Bad
+If savings = '(5578.848-6508.656]'
+   and purpose = new car then Bad
+If savings = '(6508.656-7438.464]'
+   and purpose = used car then Bad
+If credit_amount = '(5702.2-7519.6]'
+   and personal_status = male mar/wid then Bad
+If credit_amount = '(5702.2-7519.6]'
+   and purpose = Unknown then Bad
+If credit_amount = '(7519.6-9337]'
+   and purpose = education then Bad
+If purpose = radio/tv
+   and credit_amount = '(9337-11154.4]' then Bad
+If credit_amount = '(5702.2-7519.6]'
+   and age = '(52.6-58.2]' then Bad
+If purpose = radio/tv
+   and credit_amount = '(11154.4-12971.8]' then Bad
+If age = '(47-52.6]'
+   and installment_commitment = '(-inf-0.4]' then Bad
+If purpose = radio/tv
+   and personal_status = male div/sep
+   and property_magnitude = car then Bad
+If purpose = radio/tv
+   and credit_amount = '(3884.8-5702.2]'
+   and own_telephone = yes then Bad
+If credit_amount = '(5702.2-7519.6]'
+   and age = '(24.6-30.2]'
+   and employment = 1<=X<4 then Bad
+If job = unemp/unskilled non res
+   and age = '(-inf-24.6]' then Bad
+If purpose = domestic appliance
+   and age = '(24.6-30.2]' then Bad
+If other_parties = guarantor
+   and personal_status = Unknown then Bad
+If age = '(47-52.6]'
+   and other_payment_plans = stores then Bad
+If purpose = radio/tv
+   and property_magnitude = no known property
+   and employment = <1 then Bad
+If residence_since = '(0.8-1.2]'
+   and other_payment_plans = Other
+   and property_magnitude = life insurance then Bad
+If credit_amount = '(7519.6-9337]'
+   and other_parties = co applicant then Bad
+If purpose = retraining
+   and employment = unemployed then Bad
+If purpose = radio/tv
+   and employment = 4<=X<7
+   and residence_since = '(0.8-1.2]' then Bad
+If credit_amount = '(5702.2-7519.6]'
+   and other_parties = Unknown
+   and age = '(30.2-35.8]' then Bad
+If credit_amount = '(2067.4-3884.8]'
+   and other_payment_plans = stores
+   and age = '(35.8-41.4]' then Bad
+If credit_amount = '(7519.6-9337]'
+   and age = '(58.2-63.8]' then Bad
+If housing = rent
+   and age = '(58.2-63.8]' then Bad
+If age = '(47-52.6]'
+   and purpose = repairs then Bad
+If purpose = radio/tv
+   and credit_amount = '(3884.8-5702.2]'
+   and employment = 4<=X<7 then Bad
+If credit_amount = '(5702.2-7519.6]'
+   and age = '(24.6-30.2]'
+   and residence_since = '(1.6-2]' then Bad
+If housing = rent
+   and personal_status = male div/sep
+   and installment_commitment = '(0.8-1.2]' then Bad
+If credit_amount = '(2067.4-3884.8]'
+   and purpose = repairs
+   and property_magnitude = car then Bad
+If purpose = radio/tv
+   and personal_status = male div/sep
+   and credit_amount = '(-inf-2067.4]' then Bad
+If credit_amount = '(2067.4-3884.8]'
+   and age = '(58.2-63.8]'
+   and purpose = used car then Bad
+If housing = rent
+   and purpose = business
+   and credit_amount = '(2067.4-3884.8]' then Bad
+If purpose = radio/tv
+   and personal_status = Unknown
+   and installment_commitment = '(0.8-1.2]' then Bad
+If purpose = furniture/equipment
+   and other_parties = guarantor
+   and other_payment_plans = none then Bad
+If purpose = radio/tv
+   and age = '(47-52.6]'
+   and property_magnitude = Other then Bad
+If own_telephone = yes
+   and employment = Unknown
+   and job = Other then Bad
+If purpose = furniture/equipment
+   and installment_commitment = '(0.8-1.2]'
+   and employment = >=7 then Bad
+If purpose = radio/tv
+   and housing = for free
+   and age = '(24.6-30.2]' then Bad
+If own_telephone = yes
+   and credit_amount = '(5702.2-7519.6]'
+   and employment = <1 then Bad
+If existing_credits = '(2.8-3.2]'
+   and personal_status = male mar/wid then Bad
+If purpose = radio/tv
+   and other_parties = Unknown
+   and age = '(24.6-30.2]' then Bad
+If employment = 1<=X<4
+   and property_magnitude = no known property
+   and housing = Other then Bad
+If installment_commitment = '(3.6-inf)'
+   and purpose = other then Bad
+If installment_commitment = '(3.6-inf)'
+   and existing_credits = '(2.8-3.2]'
+   and employment = >=7 then Bad
+If credit_amount = '(7519.6-9337]'
+   and existing_credits = '(2.8-3.2]' then Bad
+If employment = 1<=X<4
+   and purpose = domestic appliance
+   and installment_commitment = '(3.6-inf)' then Bad
+If age = '(30.2-35.8]'
+   and personal_status = male mar/wid
+   and employment = Unknown then Bad
+If employment = 1<=X<4
+   and purpose = retraining
+   and credit_amount = '(2067.4-3884.8]' then Bad
+If purpose = furniture/equipment
+   and other_payment_plans = stores
+   and property_magnitude = life insurance then Bad
+If housing = rent
+   and employment = 4<=X<7
+   and age = '(35.8-41.4]' then Bad
+If employment = 1<=X<4
+   and credit_amount = '(9337-11154.4]'
+   and purpose = used car then Bad
+If age = '(-inf-24.6]'
+   and other_payment_plans = bank
+   and employment = <1 then Bad
+If employment = 1<=X<4
+   and credit_amount = '(5702.2-7519.6]'
+   and purpose = used car then Bad
+If job = skilled
+   and credit_amount = '(9337-11154.4]'
+   and purpose = used car then Bad
+If employment = 1<=X<4
+   and property_magnitude = no known property
+   and purpose = business then Bad
+If purpose = radio/tv
+   and age = '(-inf-24.6]'
+   and credit_amount = '(5702.2-7519.6]' then Bad
+If age = '(24.6-30.2]'
+   and personal_status = Unknown
+   and purpose = used car then Bad
+If job = skilled
+   and purpose = radio/tv
+   and age = '(52.6-58.2]'
+   and installment_commitment = '(3.6-inf)' then Bad
+If property_magnitude = real estate
+   and age = '(47-52.6]'
+   and installment_commitment = '(3.6-inf)' then Bad
+If age = '(24.6-30.2]'
+   and employment = 4<=X<7
+   and job = Other then Bad
+If age = '(30.2-35.8]'
+   and installment_commitment = '(2.8-3.2]'
+   and credit_amount = '(3884.8-5702.2]' then Bad
+If credit_amount = '(2067.4-3884.8]'
+   and installment_commitment = '(0.8-1.2]'
+   and employment = Unknown then Bad
+If purpose = radio/tv
+   and installment_commitment = '(0.8-1.2]'
+   and employment = 4<=X<7 then Bad
+If employment = >=7
+   and credit_amount = '(7519.6-9337]'
+   and purpose = new car then Bad
+If employment = 1<=X<4
+   and purpose = furniture/equipment
+   and age = '(35.8-41.4]'
+   and other_payment_plans = none then Bad
+If age = '(24.6-30.2]'
+   and personal_status = Unknown
+   and other_payment_plans = Other then Bad
+If age = '(-inf-24.6]'
+   and employment = >=7
+   and purpose = furniture/equipment then Bad
+If job = unskilled resident
+   and property_magnitude = Other
+   and age = '(35.8-41.4]' then Bad
+If age = '(30.2-35.8]'
+   and personal_status = male mar/wid
+   and purpose = Unknown then Bad
+If purpose = radio/tv
+   and job = skilled
+   and other_payment_plans = stores
+   and residence_since = '(0.8-1.2]' then Bad
+If age = '(30.2-35.8]'
+   and existing_credits = '(1.6-2]'
+   and housing = for free
+   and employment = >=7 then Bad
+If age = '(24.6-30.2]'
+   and installment_commitment = '(-inf-0.4]'
+   and residence_since = '(2.8-3.2]' then Bad
+If credit_amount = '(2067.4-3884.8]'
+   and other_parties = guarantor
+   and age = '(24.6-30.2]' then Bad
+If age = '(30.2-35.8]'
+   and existing_credits = '(1.6-2]'
+   and property_magnitude = Other
+   and employment = >=7 then Bad
+If job = skilled
+   and purpose = radio/tv
+   and employment = unemployed
+   and installment_commitment = '(1.6-2]' then Bad
+If credit_amount = '(2067.4-3884.8]'
+   and age = '(-inf-24.6]'
+   and residence_since = '(-inf-0.4]' then Bad
+If age = '(30.2-35.8]'
+   and purpose = used car
+   and credit_amount = '(3884.8-5702.2]' then Bad
+If purpose = new car
+   and other_payment_plans = Other
+   and employment = unemployed then Bad
+If job = skilled
+   and employment = Unknown
+   and credit_amount = '(7519.6-9337]' then Bad
+If purpose = Unknown
+   and personal_status = male mar/wid
+   and employment = 1<=X<4 then Bad
+If job = skilled
+   and installment_commitment = '(0.8-1.2]'
+   and credit_amount = '(11154.4-12971.8]' then Bad
+If property_magnitude = car
+   and installment_commitment = '(-inf-0.4]'
+   and housing = Other then Bad
+If property_magnitude = real estate
+   and purpose = education
+   and credit_amount = '(2067.4-3884.8]' then Bad
+If existing_credits = '(1.6-2]'
+   and job = unemp/unskilled non res
+   and employment = <1 then Bad
+If installment_commitment = '(3.6-inf)'
+   and existing_credits = '(1.6-2]'
+   and other_payment_plans = stores
+   and residence_since = '(1.6-2]' then Bad
+If job = skilled
+   and purpose = radio/tv
+   and existing_credits = '(1.6-2]'
+   and personal_status = Unknown then Bad
+If job = skilled
+   and installment_commitment = '(0.8-1.2]'
+   and employment = 4<=X<7 then Bad
+If employment = >=7
+   and purpose = education
+   and age = '(35.8-41.4]' then Bad
+If job = skilled
+   and purpose = radio/tv
+   and residence_since = '(3.6-inf)'
+   and age = '(41.4-47]' then Bad
+If age = '(30.2-35.8]'
+   and housing = rent
+   and personal_status = male div/sep then Bad
+If job = skilled
+   and employment = Unknown
+   and purpose = used car
+   and credit_amount = '(3884.8-5702.2]' then Bad
+If age = '(30.2-35.8]'
+   and personal_status = male mar/wid
+   and installment_commitment = '(2.8-3.2]' then Bad
+If purpose = new car
+   and credit_amount = '(9337-11154.4]'
+   and residence_since = '(1.6-2]' then Bad
+If age = '(30.2-35.8]'
+   and housing = rent
+   and residence_since = '(-inf-0.4]'
+   and credit_amount = '(-inf-2067.4]' then Bad
+If employment = 1<=X<4
+   and purpose = furniture/equipment
+   and other_payment_plans = bank
+   and job = skilled then Bad
+If property_magnitude = real estate
+   and employment = 4<=X<7
+   and personal_status = male mar/wid then Bad
+If installment_commitment = '(3.6-inf)'
+   and property_magnitude = real estate
+   and credit_amount = '(3884.8-5702.2]' then Bad
+If purpose = new car
+   and personal_status = male mar/wid
+   and existing_credits = '(-inf-0.4]' then Bad
+If own_telephone = yes
+   and employment = Unknown
+   and foreign_worker = Unknown then Bad
+If credit_amount = '(2067.4-3884.8]'
+   and residence_since = '(3.6-inf)'
+   and personal_status = Unknown
+   and installment_commitment = '(0.8-1.2]' then Bad
+If installment_commitment = '(3.6-inf)'
+   and foreign_worker = Unknown
+   and residence_since = '(1.6-2]' then Bad
+If age = '(24.6-30.2]'
+   and residence_since = '(3.6-inf)'
+   and employment = Unknown
+   and existing_credits = '(0.8-1.2]' then Bad
+If existing_credits = '(1.6-2]'
+   and age = '(41.4-47]'
+   and personal_status = Unknown then Bad
+If own_telephone = yes
+   and other_parties = co applicant
+   and credit_amount = '(-inf-2067.4]' then Bad
+If personal_status = female div/dep/mar
+   and age = '(35.8-41.4]'
+   and installment_commitment = '(1.6-2]' then Bad
+If employment = 1<=X<4
+   and other_parties = co applicant
+   and purpose = used car then Bad
+If installment_commitment = '(3.6-inf)'
+   and residence_since = '(0.8-1.2]'
+   and other_parties = guarantor then Bad
+If own_telephone = yes
+   and purpose = radio/tv
+   and age = '(35.8-41.4]'
+   and other_parties = none then Bad
+If personal_status = female div/dep/mar
+   and age = '(24.6-30.2]'
+   and other_parties = Unknown then Bad
+If age = '(30.2-35.8]'
+   and personal_status = male single
+   and other_parties = Unknown
+   and purpose = Unknown then Bad
+If purpose = new car
+   and credit_amount = '(3884.8-5702.2]'
+   and residence_since = '(1.6-2]' then Bad
+If age = '(30.2-35.8]'
+   and personal_status = male single
+   and purpose = new car
+   and residence_since = '(-inf-0.4]' then Bad
+If purpose = furniture/equipment
+   and employment = 1<=X<4
+   and residence_since = '(0.8-1.2]'
+   and credit_amount = '(-inf-2067.4]' then Bad
+If personal_status = female div/dep/mar
+   and residence_since = '(2.8-3.2]'
+   and credit_amount = '(3884.8-5702.2]' then Bad
+If age = '(30.2-35.8]'
+   and personal_status = male single
+   and other_parties = Unknown
+   and employment = unemployed then Bad
+If job = skilled
+   and purpose = radio/tv
+   and other_parties = guarantor
+   and installment_commitment = '(-inf-0.4]' then Bad
+If job = skilled
+   and age = '(30.2-35.8]'
+   and purpose = Unknown
+   and own_telephone = yes then Bad
+If personal_status = female div/dep/mar
+   and residence_since = '(2.8-3.2]'
+   and other_parties = Unknown
+   and property_magnitude = real estate then Bad
+If purpose = radio/tv
+   and property_magnitude = car
+   and housing = rent
+   and personal_status = female div/dep/mar then Bad
+If employment = >=7
+   and purpose = used car
+   and installment_commitment = '(-inf-0.4]' then Bad
+If job = skilled
+   and purpose = radio/tv
+   and existing_credits = '(1.6-2]'
+   and credit_amount = '(5702.2-7519.6]' then Bad
+If installment_commitment = '(3.6-inf)'
+   and property_magnitude = real estate
+   and residence_since = '(0.8-1.2]'
+   and age = '(30.2-35.8]' then Bad
+If age = '(24.6-30.2]'
+   and other_parties = co applicant
+   and purpose = furniture/equipment then Bad
+If job = skilled
+   and purpose = radio/tv
+   and existing_credits = '(1.6-2]'
+   and property_magnitude = Other then Bad
+If residence_since = '(3.6-inf)'
+   and age = '(24.6-30.2]'
+   and purpose = radio/tv
+   and personal_status = female div/dep/mar then Bad
+If age = '(-inf-24.6]'
+   and personal_status = male single
+   and installment_commitment = '(0.8-1.2]' then Bad
+If existing_credits = '(1.6-2]'
+   and age = '(41.4-47]'
+   and other_payment_plans = bank then Bad
+If purpose = new car
+   and property_magnitude = life insurance
+   and employment = 4<=X<7
+   and other_parties = none then Bad
+If purpose = furniture/equipment
+   and employment = 1<=X<4
+   and age = '(-inf-24.6]'
+   and installment_commitment = '(2.8-3.2]' then Bad
+If installment_commitment = '(3.6-inf)'
+   and job = unemp/unskilled non res
+   and purpose = business then Bad
+If personal_status = male single
+   and housing = rent
+   and credit_amount = '(3884.8-5702.2]' then Bad
+If installment_commitment = '(3.6-inf)'
+   and existing_credits = '(1.6-2]'
+   and housing = Other
+   and property_magnitude = life insurance then Bad
+If purpose = furniture/equipment
+   and employment = 1<=X<4
+   and existing_credits = '(-inf-0.4]'
+   and property_magnitude = real estate then Bad
+If age = '(30.2-35.8]'
+   and purpose = education
+   and other_payment_plans = Other then Bad
+If credit_amount = '(2067.4-3884.8]'
+   and age = '(-inf-24.6]'
+   and existing_credits = '(-inf-0.4]'
+   and purpose = new car then Bad
+If job = skilled
+   and employment = Unknown
+   and purpose = used car
+   and installment_commitment = '(3.6-inf)' then Bad
+If age = '(30.2-35.8]'
+   and installment_commitment = '(1.6-2]'
+   and employment = <1
+   and credit_amount = '(2067.4-3884.8]' then Bad
+If employment = >=7
+   and purpose = used car
+   and property_magnitude = life insurance then Bad
+If installment_commitment = '(3.6-inf)'
+   and property_magnitude = real estate
+   and age = '(58.2-63.8]'
+   and existing_credits = '(1.6-2]' then Bad
+If job = skilled
+   and purpose = Unknown
+   and property_magnitude = Other
+   and employment = >=7 then Bad
+If job = skilled
+   and employment = Unknown
+   and residence_since = '(-inf-0.4]'
+   and property_magnitude = life insurance then Bad
+If job = skilled
+   and purpose = radio/tv
+   and residence_since = '(2.8-3.2]'
+   and age = '(30.2-35.8]' then Bad
+If age = '(24.6-30.2]'
+   and employment = 4<=X<7
+   and personal_status = female div/dep/mar
+   and property_magnitude = life insurance then Bad
+If employment = 1<=X<4
+   and age = '(52.6-58.2]'
+   and purpose = business then Bad
+If property_magnitude = real estate
+   and age = '(-inf-24.6]'
+   and residence_since = '(-inf-0.4]' then Bad
+If personal_status = male single
+   and housing = rent
+   and age = '(52.6-58.2]' then Bad
+If job = skilled
+   and property_magnitude = real estate
+   and employment = Unknown
+   and personal_status = male single then Bad
+If job = skilled
+   and age = '(-inf-24.6]'
+   and other_payment_plans = stores
+   and foreign_worker = no then Bad
+If employment = >=7
+   and property_magnitude = real estate
+   and purpose = new car
+   and own_telephone = none then Bad
+If age = '(24.6-30.2]'
+   and property_magnitude = no known property
+   and purpose = Unknown then Bad
+If property_magnitude = car
+   and installment_commitment = '(2.8-3.2]'
+   and personal_status = Unknown then Bad
+If employment = 1<=X<4
+   and purpose = other
+   and age = '(35.8-41.4]' then Bad
+If age = '(24.6-30.2]'
+   and purpose = business
+   and installment_commitment = '(3.6-inf)'
+   and credit_amount = '(-inf-2067.4]' then Bad
+If employment = 1<=X<4
+   and credit_amount = '(7519.6-9337]'
+   and property_magnitude = car then Bad
+If credit_amount = '(2067.4-3884.8]'
+   and installment_commitment = '(1.6-2]'
+   and age = '(-inf-24.6]'
+   and personal_status = male mar/wid then Bad
+If age = '(30.2-35.8]'
+   and purpose = education
+   and residence_since = '(1.6-2]'
+   and installment_commitment = '(3.6-inf)' then Bad
+If credit_amount = '(2067.4-3884.8]'
+   and purpose = new car
+   and employment = >=7
+   and personal_status = female div/dep/mar then Bad
+If purpose = radio/tv
+   and other_parties = Unknown
+   and employment = 4<=X<7 then Bad
+If credit_amount = '(2067.4-3884.8]'
+   and installment_commitment = '(1.6-2]'
+   and personal_status = male div/sep
+   and purpose = new car then Bad
+If age = '(24.6-30.2]'
+   and residence_since = '(-inf-0.4]'
+   and employment = Unknown then Bad
+If purpose = furniture/equipment
+   and age = '(47-52.6]'
+   and housing = rent then Bad
+If employment = 1<=X<4
+   and purpose = furniture/equipment
+   and residence_since = '(2.8-3.2]'
+   and personal_status = female div/dep/mar then Bad
+If age = '(30.2-35.8]'
+   and installment_commitment = '(2.8-3.2]'
+   and other_parties = Unknown then Bad
+If employment = 1<=X<4
+   and purpose = furniture/equipment
+   and property_magnitude = Other
+   and installment_commitment = '(0.8-1.2]' then Bad
+If age = '(30.2-35.8]'
+   and purpose = furniture/equipment
+   and job = unskilled resident
+   and installment_commitment = '(1.6-2]' then Bad
+If purpose = radio/tv
+   and housing = Other
+   and age = '(30.2-35.8]'
+   and personal_status = male single then Bad
+If credit_amount = '(5702.2-7519.6]'
+   and other_payment_plans = Other
+   and purpose = used car then Bad
+If residence_since = '(3.6-inf)'
+   and credit_amount = '(2067.4-3884.8]'
+   and age = '(35.8-41.4]'
+   and employment = Unknown then Bad
+If property_magnitude = real estate
+   and age = '(-inf-24.6]'
+   and employment = Unknown
+   and residence_since = '(1.6-2]' then Bad
+If employment = 1<=X<4
+   and property_magnitude = no known property
+   and personal_status = female div/dep/mar then Bad
+If residence_since = '(3.6-inf)'
+   and employment = 4<=X<7
+   and installment_commitment = '(2.8-3.2]'
+   and purpose = Unknown then Bad
+If employment = 1<=X<4
+   and installment_commitment = '(0.8-1.2]'
+   and purpose = radio/tv
+   and personal_status = female div/dep/mar then Bad
+If purpose = new car
+   and housing = Other
+   and installment_commitment = '(2.8-3.2]' then Bad
+If residence_since = '(3.6-inf)'
+   and age = '(41.4-47]'
+   and personal_status = female div/dep/mar then Bad
+If personal_status = male single
+   and housing = rent
+   and purpose = furniture/equipment
+   and installment_commitment = '(3.6-inf)' then Bad
+If employment = 1<=X<4
+   and installment_commitment = '(1.6-2]'
+   and age = '(30.2-35.8]'
+   and purpose = radio/tv then Bad
+If purpose = new car
+   and residence_since = '(1.6-2]'
+   and installment_commitment = '(1.6-2]'
+   and own_telephone = yes then Bad
+If age = '(24.6-30.2]'
+   and installment_commitment = '(-inf-0.4]'
+   and purpose = new car
+   and credit_amount = '(-inf-2067.4]' then Bad
+If installment_commitment = '(3.6-inf)'
+   and purpose = used car
+   and property_magnitude = life insurance then Bad
+If installment_commitment = '(3.6-inf)'
+   and purpose = used car
+   and property_magnitude = real estate
+   and credit_amount = '(2067.4-3884.8]' then Bad
+If employment = 1<=X<4
+   and existing_credits = '(-inf-0.4]'
+   and credit_amount = '(3884.8-5702.2]' then Bad
+If installment_commitment = '(3.6-inf)'
+   and employment = <1
+   and age = '(52.6-58.2]'
+   and purpose = Unknown then Bad
+If property_magnitude = car
+   and other_parties = Unknown
+   and installment_commitment = '(-inf-0.4]' then Bad
+If installment_commitment = '(3.6-inf)'
+   and purpose = radio/tv
+   and employment = <1
+   and other_parties = Unknown then Bad
+If purpose = new car
+   and job = unskilled resident
+   and own_telephone = yes
+   and savings = '(-inf-929.808]' then Bad
+If installment_commitment = '(3.6-inf)'
+   and age = '(35.8-41.4]'
+   and other_payment_plans = bank
+   and purpose = used car then Bad
+If installment_commitment = '(3.6-inf)'
+   and purpose = radio/tv
+   and employment = 4<=X<7
+   and housing = rent then Bad
+If purpose = new car
+   and age = '(35.8-41.4]'
+   and employment = 1<=X<4
+   and other_payment_plans = bank then Bad
+If residence_since = '(1.6-2]'
+   and installment_commitment = '(0.8-1.2]'
+   and credit_amount = '(2067.4-3884.8]'
+   and personal_status = male single then Bad
+If installment_commitment = '(3.6-inf)'
+   and purpose = education
+   and employment = >=7
+   and personal_status = female div/dep/mar
+   and property_magnitude = no known property then Bad
+If purpose = new car
+   and property_magnitude = real estate
+   and employment = >=7
+   and credit_amount = '(2067.4-3884.8]' then Bad
+If residence_since = '(1.6-2]'
+   and employment = 4<=X<7
+   and age = '(-inf-24.6]'
+   and installment_commitment = '(3.6-inf)' then Bad
+If employment = 1<=X<4
+   and housing = for free
+   and existing_credits = '(1.6-2]'
+   and credit_amount = '(-inf-2067.4]' then Bad
+If purpose = new car
+   and housing = Other
+   and age = '(24.6-30.2]' then Bad
+If residence_since = '(1.6-2]'
+   and purpose = new car
+   and employment = 4<=X<7
+   and credit_amount = '(-inf-2067.4]' then Bad
+If employment = 1<=X<4
+   and purpose = new car
+   and foreign_worker = Unknown
+   and property_magnitude = car then Bad
+If residence_since = '(1.6-2]'
+   and purpose = radio/tv
+   and other_parties = Unknown
+   and housing = own then Bad
+If purpose = furniture/equipment
+   and residence_since = '(3.6-inf)'
+   and employment = 4<=X<7
+   and credit_amount = '(-inf-2067.4]' then Bad
+If employment = 1<=X<4
+   and installment_commitment = '(1.6-2]'
+   and residence_since = '(3.6-inf)'
+   and purpose = business then Bad
+If residence_since = '(1.6-2]'
+   and housing = rent
+   and purpose = new car
+   and installment_commitment = '(1.6-2]'
+   and age = '(30.2-35.8]' then Bad
+If personal_status = male mar/wid
+   and housing = Other
+   and property_magnitude = real estate then Bad
+If purpose = furniture/equipment
+   and employment = >=7
+   and credit_amount = '(-inf-2067.4]'
+   and installment_commitment = '(3.6-inf)' then Bad
+If installment_commitment = '(0.8-1.2]'
+   and job = unskilled resident
+   and credit_amount = '(2067.4-3884.8]'
+   and purpose = new car
+   and employment = 1<=X<4 then Bad
+If age = '(-inf-24.6]'
+   and installment_commitment = '(1.6-2]'
+   and residence_since = '(3.6-inf)'
+   and purpose = furniture/equipment
+   and credit_amount = '(2067.4-3884.8]' then Bad
+If employment = <1
+   and purpose = radio/tv
+   and existing_credits = '(1.6-2]'
+   and credit_amount = '(2067.4-3884.8]'
+   and installment_commitment = '(3.6-inf)' then Bad
+If savings = '(2789.424-3719.232]' then Good
+If savings = '(8368.272-inf)' then Good
+If credit_amount = '(16606.6-inf)' then Good
+If savings = '(929.808-1859.616]' then Good
+If savings = '(4649.04-5578.848]' then Good
+If purpose = other
+   and other_parties = none then Good
+If credit_amount = '(11154.4-12971.8]'
+   and housing = rent then Good
+If savings = '(1859.616-2789.424]'
+   and credit_amount = '(-inf-2067.4]' then Good
+If own_telephone = no
+   and other_parties = co applicant then Good
+If existing_credits = '(-inf-0.4]'
+   and employment = <1 then Good
+If job = Other
+   and employment = <1 then Good
+If credit_amount = '(9337-11154.4]'
+   and other_payment_plans = none then Good
+If credit_amount = '(11154.4-12971.8]'
+   and installment_commitment = '(-inf-0.4]' then Good
+If own_telephone = no
+   and purpose = repairs then Good
+If own_telephone = no
+   and purpose = other then Good
+If existing_credits = '(-inf-0.4]'
+   and age = '(47-52.6]' then Good
+If purpose = Unknown
+   and employment = unemployed then Good
+If own_telephone = no
+   and credit_amount = '(11154.4-12971.8]' then Good
+If foreign_worker = Unknown
+   and property_magnitude = Other then Good
+If age = '(58.2-63.8]'
+   and housing = for free then Good
+If own_telephone = no
+   and credit_amount = '(14789.2-16606.6]' then Good
+If own_telephone = no
+   and existing_credits = '(2.8-3.2]' then Good
+If residence_since = '(2.8-3.2]'
+   and credit_amount = '(9337-11154.4]' then Good
+If purpose = new car
+   and savings = '(6508.656-7438.464]' then Good
+If own_telephone = no
+   and existing_credits = '(3.6-inf)' then Good
+If existing_credits = '(-inf-0.4]'
+   and age = '(63.8-69.4]' then Good
+If purpose = new car
+   and savings = '(7438.464-8368.272]' then Good
+If personal_status = male div/sep
+   and other_parties = Unknown then Good
+If residence_since = '(2.8-3.2]'
+   and purpose = repairs then Good
+If purpose = new car
+   and other_parties = co applicant
+   and housing = own then Good
+If own_telephone = no
+   and other_payment_plans = bank
+   and purpose = new car then Good
+If credit_amount = '(-inf-2067.4]'
+   and purpose = used car
+   and other_parties = none then Good
+If job = unskilled resident
+   and employment = unemployed then Good
+If installment_commitment = '(2.8-3.2]'
+   and other_payment_plans = stores then Good
+If age = '(35.8-41.4]'
+   and purpose = domestic appliance then Good
+If purpose = Unknown
+   and credit_amount = '(7519.6-9337]' then Good
+If purpose = new car
+   and other_parties = guarantor
+   and credit_amount = '(-inf-2067.4]' then Good
+If residence_since = '(2.8-3.2]'
+   and credit_amount = '(14789.2-16606.6]' then Good
+If age = '(35.8-41.4]'
+   and purpose = repairs then Good
+If residence_since = '(2.8-3.2]'
+   and age = '(58.2-63.8]' then Good
+If own_telephone = no
+   and credit_amount = '(-inf-2067.4]'
+   and age = '(35.8-41.4]' then Good
+If purpose = business
+   and housing = Other then Good
+If purpose = furniture/equipment
+   and age = '(52.6-58.2]' then Good
+If purpose = Unknown
+   and other_payment_plans = stores then Good
+If residence_since = '(2.8-3.2]'
+   and personal_status = Unknown
+   and own_telephone = none then Good
+If purpose = new car
+   and residence_since = '(0.8-1.2]'
+   and credit_amount = '(7519.6-9337]' then Good
+If purpose = furniture/equipment
+   and savings = '(5578.848-6508.656]' then Good
+If purpose = furniture/equipment
+   and job = unemp/unskilled non res then Good
+If credit_amount = '(-inf-2067.4]'
+   and purpose = repairs
+   and job = skilled then Good
+If purpose = new car
+   and property_magnitude = car
+   and other_payment_plans = bank then Good
+If installment_commitment = '(2.8-3.2]'
+   and age = '(69.4-inf)' then Good
+If purpose = Unknown
+   and age = '(58.2-63.8]' then Good
+If purpose = furniture/equipment
+   and personal_status = male mar/wid
+   and property_magnitude = life insurance then Good
+If job = unskilled resident
+   and employment = Unknown
+   and property_magnitude = real estate then Good
+If age = '(30.2-35.8]'
+   and purpose = domestic appliance then Good
+If installment_commitment = '(2.8-3.2]'
+   and property_magnitude = Other
+   and foreign_worker = yes then Good
+If age = '(41.4-47]'
+   and purpose = repairs then Good
+If age = '(30.2-35.8]'
+   and purpose = repairs then Good
+If age = '(30.2-35.8]'
+   and savings = '(7438.464-8368.272]' then Good
+If purpose = Unknown
+   and other_payment_plans = Other
+   and property_magnitude = car then Good
+If age = '(30.2-35.8]'
+   and existing_credits = '(2.8-3.2]'
+   and property_magnitude = real estate then Good
+If age = '(41.4-47]'
+   and purpose = retraining then Good
+If residence_since = '(2.8-3.2]'
+   and age = '(-inf-24.6]'
+   and employment = 1<=X<4 then Good
+If purpose = new car
+   and other_parties = co applicant
+   and employment = unemployed then Good
+If age = '(41.4-47]'
+   and residence_since = '(-inf-0.4]'
+   and purpose = radio/tv then Good
+If age = '(30.2-35.8]'
+   and personal_status = female div/dep/mar
+   and housing = Other then Good
+If purpose = new car
+   and other_payment_plans = stores
+   and installment_commitment = '(3.6-inf)' then Good
+If installment_commitment = '(1.6-2]'
+   and purpose = retraining then Good
+If purpose = new car
+   and employment = <1
+   and installment_commitment = '(0.8-1.2]' then Good
+If installment_commitment = '(1.6-2]'
+   and credit_amount = '(12971.8-14789.2]' then Good
+If purpose = furniture/equipment
+   and property_magnitude = car
+   and employment = <1 then Good
+If purpose = education
+   and credit_amount = '(3884.8-5702.2]' then Good
+If residence_since = '(2.8-3.2]'
+   and employment = >=7
+   and property_magnitude = car then Good
+If housing = for free
+   and personal_status = male div/sep then Good
+If age = '(30.2-35.8]'
+   and personal_status = Unknown
+   and property_magnitude = car then Good
+If age = '(35.8-41.4]'
+   and other_parties = Unknown
+   and personal_status = male single then Good
+If installment_commitment = '(1.6-2]'
+   and foreign_worker = Unknown
+   and property_magnitude = car then Good
+If age = '(41.4-47]'
+   and other_parties = guarantor
+   and credit_amount = '(2067.4-3884.8]' then Good
+If credit_amount = '(-inf-2067.4]'
+   and purpose = business
+   and installment_commitment = '(2.8-3.2]' then Good
+If purpose = new car
+   and credit_amount = '(5702.2-7519.6]'
+   and installment_commitment = '(0.8-1.2]' then Good
+If residence_since = '(-inf-0.4]'
+   and personal_status = male div/sep then Good
+If purpose = used car
+   and credit_amount = '(11154.4-12971.8]' then Good
+If housing = for free
+   and property_magnitude = real estate then Good
+If purpose = education
+   and employment = unemployed then Good
+If credit_amount = '(-inf-2067.4]'
+   and installment_commitment = '(1.6-2]'
+   and property_magnitude = life insurance then Good
+If purpose = used car
+   and personal_status = male div/sep then Good
+If housing = for free
+   and employment = 4<=X<7
+   and age = '(30.2-35.8]' then Good
+If purpose = furniture/equipment
+   and residence_since = '(-inf-0.4]'
+   and credit_amount = '(-inf-2067.4]' then Good
+If residence_since = '(2.8-3.2]'
+   and employment = >=7
+   and personal_status = female div/dep/mar then Good
+If purpose = new car
+   and installment_commitment = '(3.6-inf)'
+   and credit_amount = '(12971.8-14789.2]' then Good
+If job = Other
+   and purpose = repairs then Good
+If purpose = new car
+   and installment_commitment = '(3.6-inf)'
+   and personal_status = male div/sep then Good
+If purpose = education
+   and personal_status = male mar/wid then Good
+If purpose = used car
+   and other_parties = guarantor then Good
+If purpose = new car
+   and installment_commitment = '(3.6-inf)'
+   and property_magnitude = car
+   and residence_since = '(2.8-3.2]' then Good
+If age = '(35.8-41.4]'
+   and personal_status = male div/sep
+   and other_payment_plans = none then Good
+If purpose = furniture/equipment
+   and property_magnitude = car
+   and job = unskilled resident then Good
+If purpose = used car
+   and residence_since = '(-inf-0.4]'
+   and existing_credits = '(0.8-1.2]' then Good
+If own_telephone = no
+   and credit_amount = '(3884.8-5702.2]'
+   and employment = 1<=X<4 then Good
+If purpose = education
+   and age = '(52.6-58.2]' then Good
+If credit_amount = '(-inf-2067.4]'
+   and own_telephone = no
+   and other_parties = Unknown then Good
+If job = Other
+   and credit_amount = '(7519.6-9337]' then Good
+If age = '(-inf-24.6]'
+   and job = high qualif/self emp/mgmt then Good
+If credit_amount = '(-inf-2067.4]'
+   and age = '(58.2-63.8]'
+   and employment = 4<=X<7 then Good
+If purpose = Unknown
+   and residence_since = '(0.8-1.2]'
+   and employment = >=7 then Good
+If purpose = furniture/equipment
+   and job = Other
+   and existing_credits = '(0.8-1.2]' then Good
+If age = '(35.8-41.4]'
+   and existing_credits = '(2.8-3.2]'
+   and personal_status = male single then Good
+If existing_credits = '(1.6-2]'
+   and purpose = retraining then Good
+If existing_credits = '(1.6-2]'
+   and age = '(52.6-58.2]'
+   and other_payment_plans = none then Good
+If existing_credits = '(-inf-0.4]'
+   and age = '(52.6-58.2]' then Good
+If age = '(-inf-24.6]'
+   and personal_status = male div/sep then Good
+If credit_amount = '(-inf-2067.4]'
+   and other_payment_plans = stores
+   and employment = 4<=X<7 then Good
+If own_telephone = none
+   and purpose = used car
+   and property_magnitude = life insurance then Good
+If purpose = new car
+   and residence_since = '(0.8-1.2]'
+   and installment_commitment = '(2.8-3.2]' then Good
+If age = '(-inf-24.6]'
+   and purpose = education
+   and credit_amount = '(-inf-2067.4]' then Good
+If personal_status = male mar/wid
+   and purpose = business
+   and job = skilled then Good
+If age = '(41.4-47]'
+   and residence_since = '(2.8-3.2]'
+   and credit_amount = '(2067.4-3884.8]' then Good
+If installment_commitment = '(3.6-inf)'
+   and purpose = new car
+   and employment = Unknown
+   and credit_amount = '(-inf-2067.4]' then Good
+If purpose = Unknown
+   and property_magnitude = no known property
+   and credit_amount = '(-inf-2067.4]' then Good
+If credit_amount = '(2067.4-3884.8]'
+   and purpose = education
+   and property_magnitude = life insurance then Good
+If purpose = radio/tv
+   and existing_credits = '(-inf-0.4]'
+   and residence_since = '(1.6-2]' then Good
+If employment = >=7
+   and installment_commitment = '(1.6-2]'
+   and credit_amount = '(-inf-2067.4]' then Good
+If installment_commitment = '(3.6-inf)'
+   and purpose = new car
+   and property_magnitude = car
+   and employment = <1 then Good
+If housing = for free
+   and credit_amount = '(3884.8-5702.2]'
+   and employment = >=7 then Good
+If credit_amount = '(2067.4-3884.8]'
+   and age = '(52.6-58.2]'
+   and purpose = new car then Good
+If credit_amount = '(2067.4-3884.8]'
+   and existing_credits = '(2.8-3.2]'
+   and purpose = new car then Good
+If purpose = furniture/equipment
+   and credit_amount = '(5702.2-7519.6]'
+   and personal_status = male single then Good
+If age = '(-inf-24.6]'
+   and other_parties = co applicant
+   and personal_status = female div/dep/mar then Good
+If credit_amount = '(2067.4-3884.8]'
+   and age = '(35.8-41.4]'
+   and residence_since = '(-inf-0.4]' then Good
+If installment_commitment = '(3.6-inf)'
+   and age = '(41.4-47]'
+   and personal_status = female div/dep/mar then Good
+If existing_credits = '(1.6-2]'
+   and age = '(-inf-24.6]'
+   and employment = 1<=X<4 then Good
+If residence_since = '(2.8-3.2]'
+   and housing = for free
+   and other_parties = none then Good
+If purpose = Unknown
+   and job = Other
+   and age = '(30.2-35.8]' then Good
+If purpose = radio/tv
+   and job = unskilled resident
+   and age = '(35.8-41.4]' then Good
+If existing_credits = '(1.6-2]'
+   and installment_commitment = '(-inf-0.4]'
+   and job = unskilled resident then Good
+If property_magnitude = life insurance
+   and employment = Unknown
+   and residence_since = '(2.8-3.2]' then Good
+If credit_amount = '(2067.4-3884.8]'
+   and existing_credits = '(1.6-2]'
+   and installment_commitment = '(2.8-3.2]'
+   and other_parties = none then Good
+If installment_commitment = '(3.6-inf)'
+   and other_parties = guarantor
+   and property_magnitude = car then Good
+If property_magnitude = life insurance
+   and other_payment_plans = bank
+   and residence_since = '(2.8-3.2]' then Good
+If job = skilled
+   and employment = unemployed
+   and installment_commitment = '(-inf-0.4]' then Good
+If installment_commitment = '(3.6-inf)'
+   and purpose = new car
+   and property_magnitude = Other
+   and personal_status = male single then Good
+If job = skilled
+   and purpose = business
+   and installment_commitment = '(0.8-1.2]' then Good
+If job = skilled
+   and age = '(24.6-30.2]'
+   and employment = <1
+   and own_telephone = yes then Good
+If employment = >=7
+   and credit_amount = '(5702.2-7519.6]'
+   and purpose = new car then Good
+If personal_status = Unknown
+   and credit_amount = '(5702.2-7519.6]' then Good
+If purpose = radio/tv
+   and age = '(63.8-69.4]'
+   and employment = 1<=X<4 then Good
+If job = skilled
+   and age = '(41.4-47]'
+   and purpose = business then Good
+If job = skilled
+   and residence_since = '(0.8-1.2]'
+   and purpose = used car then Good
+If job = skilled
+   and own_telephone = no
+   and purpose = Unknown then Good
+If age = '(-inf-24.6]'
+   and purpose = business
+   and employment = 4<=X<7 then Good
+If purpose = other
+   and age = '(24.6-30.2]' then Good
+If job = skilled
+   and personal_status = male mar/wid
+   and installment_commitment = '(2.8-3.2]'
+   and age = '(-inf-24.6]' then Good
+If installment_commitment = '(3.6-inf)'
+   and purpose = new car
+   and age = '(58.2-63.8]'
+   and residence_since = '(-inf-0.4]' then Good
+If residence_since = '(1.6-2]'
+   and purpose = furniture/equipment
+   and other_parties = Unknown then Good
+If installment_commitment = '(3.6-inf)'
+   and age = '(-inf-24.6]'
+   and property_magnitude = Other then Good
+If property_magnitude = life insurance
+   and employment = Unknown
+   and credit_amount = '(3884.8-5702.2]' then Good
+If purpose = new car
+   and residence_since = '(0.8-1.2]'
+   and employment = 4<=X<7 then Good
+If job = skilled
+   and property_magnitude = life insurance
+   and installment_commitment = '(2.8-3.2]'
+   and age = '(-inf-24.6]' then Good
+If installment_commitment = '(3.6-inf)'
+   and age = '(24.6-30.2]'
+   and purpose = furniture/equipment
+   and credit_amount = '(3884.8-5702.2]' then Good
+If purpose = new car
+   and age = '(35.8-41.4]'
+   and employment = <1 then Good
+If job = skilled
+   and purpose = new car
+   and employment = unemployed then Good
+If installment_commitment = '(3.6-inf)'
+   and purpose = new car
+   and age = '(41.4-47]'
+   and foreign_worker = no then Good
+If job = skilled
+   and age = '(41.4-47]'
+   and residence_since = '(-inf-0.4]' then Good
+If employment = >=7
+   and own_telephone = no
+   and installment_commitment = '(2.8-3.2]' then Good
+If job = skilled
+   and purpose = new car
+   and other_payment_plans = bank
+   and age = '(30.2-35.8]' then Good
+If installment_commitment = '(3.6-inf)'
+   and employment = Unknown
+   and residence_since = '(0.8-1.2]'
+   and age = '(24.6-30.2]' then Good
+If personal_status = Unknown
+   and installment_commitment = '(-inf-0.4]'
+   and property_magnitude = real estate then Good
+If installment_commitment = '(3.6-inf)'
+   and property_magnitude = car
+   and housing = Other
+   and credit_amount = '(2067.4-3884.8]' then Good
+If job = skilled
+   and purpose = business
+   and age = '(58.2-63.8]' then Good
+If job = skilled
+   and age = '(41.4-47]'
+   and purpose = used car
+   and personal_status = male single then Good
+If purpose = radio/tv
+   and job = unskilled resident
+   and other_parties = Unknown then Good
+If installment_commitment = '(3.6-inf)'
+   and personal_status = Unknown
+   and purpose = furniture/equipment then Good
+If job = skilled
+   and property_magnitude = real estate
+   and purpose = education then Good
+If purpose = radio/tv
+   and residence_since = '(1.6-2]'
+   and employment = unemployed then Good
+If job = skilled
+   and property_magnitude = real estate
+   and purpose = Unknown
+   and age = '(24.6-30.2]' then Good
+If purpose = radio/tv
+   and property_magnitude = life insurance
+   and personal_status = female div/dep/mar then Good
+If job = skilled
+   and purpose = business
+   and property_magnitude = life insurance
+   and employment = 4<=X<7 then Good
+If installment_commitment = '(3.6-inf)'
+   and purpose = domestic appliance
+   and employment = <1 then Good
+If purpose = radio/tv
+   and residence_since = '(1.6-2]'
+   and employment = >=7
+   and existing_credits = '(1.6-2]' then Good
+If age = '(35.8-41.4]'
+   and installment_commitment = '(1.6-2]'
+   and property_magnitude = life insurance then Good
+If age = '(52.6-58.2]'
+   and employment = unemployed then Good
+If installment_commitment = '(3.6-inf)'
+   and purpose = new car
+   and residence_since = '(-inf-0.4]'
+   and housing = own then Good
+If purpose = radio/tv
+   and residence_since = '(1.6-2]'
+   and employment = 1<=X<4
+   and installment_commitment = '(2.8-3.2]' then Good
+If installment_commitment = '(3.6-inf)'
+   and employment = Unknown
+   and age = '(-inf-24.6]'
+   and credit_amount = '(2067.4-3884.8]' then Good
+If installment_commitment = '(3.6-inf)'
+   and property_magnitude = car
+   and purpose = new car
+   and employment = 4<=X<7 then Good
+If installment_commitment = '(3.6-inf)'
+   and property_magnitude = car
+   and personal_status = male mar/wid
+   and employment = 1<=X<4 then Good
+If employment = >=7
+   and age = '(35.8-41.4]'
+   and installment_commitment = '(0.8-1.2]' then Good
+If job = skilled
+   and employment = >=7
+   and age = '(24.6-30.2]'
+   and residence_since = '(1.6-2]' then Good
+If job = skilled
+   and employment = >=7
+   and purpose = education
+   and age = '(47-52.6]' then Good
+If purpose = furniture/equipment
+   and employment = 4<=X<7
+   and credit_amount = '(3884.8-5702.2]' then Good
+If installment_commitment = '(3.6-inf)'
+   and personal_status = female div/dep/mar
+   and other_parties = co applicant then Good
+If installment_commitment = '(3.6-inf)'
+   and age = '(41.4-47]'
+   and residence_since = '(0.8-1.2]' then Good
+If installment_commitment = '(3.6-inf)'
+   and personal_status = female div/dep/mar
+   and own_telephone = no
+   and foreign_worker = no then Good
+If age = '(30.2-35.8]'
+   and installment_commitment = '(0.8-1.2]'
+   and employment = <1 then Good
+If installment_commitment = '(3.6-inf)'
+   and property_magnitude = car
+   and residence_since = '(2.8-3.2]'
+   and purpose = radio/tv then Good
+If installment_commitment = '(1.6-2]'
+   and age = '(35.8-41.4]'
+   and purpose = used car then Good
+If own_telephone = none
+   and purpose = used car
+   and credit_amount = '(2067.4-3884.8]'
+   and other_parties = none then Good
+If purpose = furniture/equipment
+   and credit_amount = '(7519.6-9337]'
+   and other_parties = none then Good
+If credit_amount = '(-inf-2067.4]'
+   and other_parties = guarantor
+   and residence_since = '(1.6-2]' then Good
+If purpose = Unknown
+   and age = '(47-52.6]'
+   and credit_amount = '(2067.4-3884.8]' then Good
+If purpose = new car
+   and age = '(58.2-63.8]'
+   and credit_amount = '(-inf-2067.4]'
+   and existing_credits = '(0.8-1.2]' then Good
+If purpose = furniture/equipment
+   and installment_commitment = '(-inf-0.4]'
+   and employment = <1 then Good
+If age = '(30.2-35.8]'
+   and property_magnitude = life insurance
+   and purpose = education then Good
+If purpose = new car
+   and age = '(63.8-69.4]'
+   and credit_amount = '(5702.2-7519.6]' then Good
+If own_telephone = none
+   and job = high qualif/self emp/mgmt
+   and purpose = furniture/equipment then Good
+If job = skilled
+   and purpose = business
+   and personal_status = male div/sep
+   and credit_amount = '(5702.2-7519.6]' then Good
+If purpose = radio/tv
+   and installment_commitment = '(0.8-1.2]'
+   and employment = >=7 then Good
+If installment_commitment = '(3.6-inf)'
+   and age = '(41.4-47]'
+   and existing_credits = '(-inf-0.4]'
+   and credit_amount = '(2067.4-3884.8]' then Good
+If purpose = new car
+   and property_magnitude = no known property
+   and existing_credits = '(1.6-2]' then Good
+If purpose = radio/tv
+   and property_magnitude = life insurance
+   and residence_since = '(0.8-1.2]' then Good
+If own_telephone = none
+   and employment = Unknown
+   and job = unskilled resident
+   and credit_amount = '(-inf-2067.4]' then Good
+If property_magnitude = Other
+   and job = high qualif/self emp/mgmt
+   and employment = 1<=X<4 then Good
+If own_telephone = none
+   and purpose = Unknown
+   and residence_since = '(2.8-3.2]'
+   and employment = 4<=X<7 then Good
+If job = skilled
+   and age = '(35.8-41.4]'
+   and other_payment_plans = Other then Good
+If job = skilled
+   and purpose = new car
+   and age = '(35.8-41.4]'
+   and foreign_worker = yes then Good
+If job = skilled
+   and installment_commitment = '(3.6-inf)'
+   and age = '(24.6-30.2]'
+   and housing = rent
+   and credit_amount = '(2067.4-3884.8]' then Good
+If age = '(-inf-24.6]'
+   and housing = for free
+   and purpose = radio/tv then Good
+If own_telephone = none
+   and purpose = radio/tv
+   and age = '(35.8-41.4]'
+   and property_magnitude = life insurance then Good
+If purpose = furniture/equipment
+   and residence_since = '(1.6-2]'
+   and personal_status = male div/sep then Good
+If job = skilled
+   and housing = Other
+   and credit_amount = '(5702.2-7519.6]' then Good
+If age = '(-inf-24.6]'
+   and housing = Other
+   and employment = 4<=X<7 then Good
+If job = skilled
+   and employment = >=7
+   and age = '(35.8-41.4]'
+   and foreign_worker = Unknown then Good
+If age = '(24.6-30.2]'
+   and property_magnitude = real estate
+   and purpose = furniture/equipment then Good
+If credit_amount = '(2067.4-3884.8]'
+   and age = '(52.6-58.2]'
+   and property_magnitude = Other then Good
+If job = skilled
+   and purpose = business
+   and residence_since = '(-inf-0.4]'
+   and credit_amount = '(2067.4-3884.8]' then Good
+If job = skilled
+   and employment = >=7
+   and residence_since = '(1.6-2]'
+   and credit_amount = '(3884.8-5702.2]' then Good
+If residence_since = '(3.6-inf)'
+   and age = '(30.2-35.8]'
+   and property_magnitude = life insurance
+   and employment = >=7 then Good
+If age = '(24.6-30.2]'
+   and employment = <1
+   and foreign_worker = no
+   and property_magnitude = real estate then Good
+If purpose = education
+   and residence_since = '(0.8-1.2]'
+   and credit_amount = '(5702.2-7519.6]' then Good
+If residence_since = '(3.6-inf)'
+   and employment = Unknown
+   and age = '(41.4-47]' then Good
+If employment = 1<=X<4
+   and other_payment_plans = stores
+   and foreign_worker = yes then Good
+If employment = 1<=X<4
+   and residence_since = '(0.8-1.2]'
+   and other_payment_plans = bank then Good
+If residence_since = '(3.6-inf)'
+   and age = '(30.2-35.8]'
+   and employment = Unknown
+   and purpose = radio/tv then Good
+If foreign_worker = Unknown
+   and employment = 4<=X<7
+   and own_telephone = yes then Good
+If residence_since = '(1.6-2]'
+   and property_magnitude = Other
+   and purpose = furniture/equipment
+   and employment = <1 then Good
+If employment = 1<=X<4
+   and purpose = business
+   and installment_commitment = '(3.6-inf)'
+   and other_payment_plans = none
+   and housing = own then Good
+If purpose = new car
+   and personal_status = male div/sep
+   and credit_amount = '(2067.4-3884.8]'
+   and employment = 1<=X<4 then Good
+If personal_status = female div/dep/mar
+   and existing_credits = '(1.6-2]'
+   and installment_commitment = '(-inf-0.4]'
+   and credit_amount = '(2067.4-3884.8]' then Good
+If credit_amount = '(-inf-2067.4]'
+   and installment_commitment = '(1.6-2]'
+   and purpose = furniture/equipment then Good
+If employment = >=7
+   and age = '(35.8-41.4]'
+   and personal_status = female div/dep/mar
+   and purpose = new car then Good
+If installment_commitment = '(2.8-3.2]'
+   and age = '(41.4-47]'
+   and credit_amount = '(-inf-2067.4]' then Good
+If purpose = radio/tv
+   and employment = >=7
+   and installment_commitment = '(1.6-2]'
+   and personal_status = male single then Good
+If housing = for free
+   and employment = 4<=X<7
+   and purpose = new car then Good
+If purpose = education
+   and housing = for free
+   and credit_amount = '(-inf-2067.4]'
+   and personal_status = male single then Good
+If purpose = radio/tv
+   and age = '(24.6-30.2]'
+   and employment = >=7
+   and personal_status = male single then Good
+If personal_status = female div/dep/mar
+   and residence_since = '(0.8-1.2]'
+   and installment_commitment = '(2.8-3.2]' then Good
+If installment_commitment = '(0.8-1.2]'
+   and credit_amount = '(3884.8-5702.2]'
+   and purpose = furniture/equipment
+   and employment = Unknown then Good
+If purpose = radio/tv
+   and age = '(35.8-41.4]'
+   and property_magnitude = real estate
+   and residence_since = '(3.6-inf)' then Good
+If employment = 1<=X<4
+   and residence_since = '(0.8-1.2]'
+   and housing = Other then Good
+If job = unskilled resident
+   and existing_credits = '(1.6-2]'
+   and employment = 1<=X<4
+   and age = '(30.2-35.8]' then Good
+If installment_commitment = '(2.8-3.2]'
+   and property_magnitude = no known property
+   and purpose = new car
+   and credit_amount = '(2067.4-3884.8]' then Good
+If employment = <1
+   and purpose = furniture/equipment
+   and housing = own
+   and residence_since = '(3.6-inf)' then Good
+If employment = 4<=X<7
+   and residence_since = '(1.6-2]'
+   and credit_amount = '(2067.4-3884.8]'
+   and installment_commitment = '(3.6-inf)' then Good
+
+
+Naive Bayes Classifier
+
+                              Class
+Attribute                       Bad  Good
+                              (0.4) (0.6)
+==========================================
+purpose
+  radio/tv                     116.0 135.0
+  education                     20.0  27.0
+  furniture/equipment           66.0 103.0
+  Unknown                       37.0  70.0
+  used car                      38.0  55.0
+  new car                       78.0 136.0
+  business                      33.0  53.0
+  domestic appliance             8.0   5.0
+  repairs                        9.0  14.0
+  other                          3.0  11.0
+  retraining                     5.0   4.0
+  [total]                      413.0 613.0
+
+credit_amount
+  '(-inf-2067.4]'              146.0 251.0
+  '(2067.4-3884.8]'            160.0 225.0
+  '(3884.8-5702.2]'             35.0  53.0
+  '(5702.2-7519.6]'             34.0  33.0
+  '(7519.6-9337]'               18.0  19.0
+  '(9337-11154.4]'               6.0  11.0
+  '(11154.4-12971.8]'            4.0  10.0
+  '(12971.8-14789.2]'            5.0   5.0
+  '(14789.2-16606.6]'            3.0   3.0
+  '(16606.6-inf)'                1.0   2.0
+  [total]                      412.0 612.0
+
+savings
+  '(-inf-929.808]'             398.0 589.0
+  '(929.808-1859.616]'           1.0   2.0
+  '(1859.616-2789.424]'          2.0   4.0
+  '(2789.424-3719.232]'          1.0   4.0
+  '(3719.232-4649.04]'           1.0   1.0
+  '(4649.04-5578.848]'           1.0   2.0
+  '(5578.848-6508.656]'          2.0   2.0
+  '(6508.656-7438.464]'          2.0   2.0
+  '(7438.464-8368.272]'          3.0   3.0
+  '(8368.272-inf)'               1.0   3.0
+  [total]                      412.0 612.0
+
+employment
+  >=7                           88.0 135.0
+  1<=X<4                       125.0 180.0
+  4<=X<7                        71.0  90.0
+  Unknown                       45.0  68.0
+  unemployed                    22.0  37.0
+  <1                            57.0  98.0
+  [total]                      408.0 608.0
+
+installment_commitment
+  '(-inf-0.4]'                  50.0  65.0
+  '(0.4-0.8]'                    1.0   1.0
+  '(0.8-1.2]'                   54.0  73.0
+  '(1.2-1.6]'                    1.0   1.0
+  '(1.6-2]'                     82.0 133.0
+  '(2-2.4]'                      1.0   1.0
+  '(2.4-2.8]'                    1.0   1.0
+  '(2.8-3.2]'                   47.0  88.0
+  '(3.2-3.6]'                    1.0   1.0
+  '(3.6-inf)'                  174.0 248.0
+  [total]                      412.0 612.0
+
+personal_status
+  male single                  203.0 295.0
+  female div/dep/mar           111.0 171.0
+  male div/sep                  18.0  30.0
+  male mar/wid                  36.0  50.0
+  Unknown                       39.0  61.0
+  [total]                      407.0 607.0
+
+other_parties
+  none                         325.0 479.0
+  Unknown                       47.0  76.0
+  guarantor                     19.0  26.0
+  co applicant                  15.0  25.0
+  [total]                      406.0 606.0
+
+residence_since
+  '(-inf-0.4]'                  43.0  76.0
+  '(0.4-0.8]'                    1.0   1.0
+  '(0.8-1.2]'                   50.0  66.0
+  '(1.2-1.6]'                    1.0   1.0
+  '(1.6-2]'                    111.0 168.0
+  '(2-2.4]'                      1.0   1.0
+  '(2.4-2.8]'                    1.0   1.0
+  '(2.8-3.2]'                   50.0  86.0
+  '(3.2-3.6]'                    1.0   1.0
+  '(3.6-inf)'                  153.0 211.0
+  [total]                      412.0 612.0
+
+property_magnitude
+  real estate                  107.0 157.0
+  Other                         39.0  60.0
+  life insurance                86.0 127.0
+  no known property             58.0  81.0
+  car                          117.0 182.0
+  [total]                      407.0 607.0
+
+age
+  '(-inf-24.6]'                 57.0  80.0
+  '(24.6-30.2]'                 99.0 136.0
+  '(30.2-35.8]'                109.0 171.0
+  '(35.8-41.4]'                 52.0  90.0
+  '(41.4-47]'                   35.0  56.0
+  '(47-52.6]'                   22.0  26.0
+  '(52.6-58.2]'                 13.0  24.0
+  '(58.2-63.8]'                  9.0  17.0
+  '(63.8-69.4]'                 11.0  10.0
+  '(69.4-inf)'                   5.0   2.0
+  [total]                      412.0 612.0
+
+other_payment_plans
+  none                         298.0 449.0
+  Other                         42.0  51.0
+  bank                          48.0  78.0
+  stores                        18.0  28.0
+  [total]                      406.0 606.0
+
+housing
+  own                          251.0 376.0
+  Other                         49.0  74.0
+  for free                      38.0  65.0
+  rent                          68.0  91.0
+  [total]                      406.0 606.0
+
+existing_credits
+  '(-inf-0.4]'                  27.0  57.0
+  '(0.4-0.8]'                    1.0   1.0
+  '(0.8-1.2]'                  242.0 346.0
+  '(1.2-1.6]'                    1.0   1.0
+  '(1.6-2]'                    121.0 186.0
+  '(2-2.4]'                      1.0   1.0
+  '(2.4-2.8]'                    1.0   1.0
+  '(2.8-3.2]'                   12.0  16.0
+  '(3.2-3.6]'                    1.0   1.0
+  '(3.6-inf)'                    5.0   2.0
+  [total]                      412.0 612.0
+
+job
+  skilled                      241.0 335.0
+  unskilled resident            69.0 115.0
+  high qualif/self emp/mgmt     56.0  81.0
+  Other                         30.0  63.0
+  unemp/unskilled non res       11.0  13.0
+  [total]                      407.0 607.0
+
+own_telephone
+  yes                          158.0 201.0
+  none                         207.0 321.0
+  no                            40.0  83.0
+  [total]                      405.0 605.0
+
+foreign_worker
+  no                           187.0 278.0
+  yes                          181.0 256.0
+  Unknown                       37.0  71.0
+  [total]                      405.0 605.0
+
+
+
+
+
+Meta classifier
+
+J48 pruned tree
+------------------
+: Good (1004.0/402.0)
+
+Number of Leaves  : 	1
+
+Size of the tree : 	1
+
+
+Time taken to build model: 1.05 seconds
+
+=== Evaluation on training set ===
+
+Time taken to test model on training data: 0.01 seconds
+
+=== Summary ===
+
+Correctly Classified Instances         602               59.9602 %
+Incorrectly Classified Instances       402               40.0398 %
+Kappa statistic                          0     
+Mean absolute error                      0.4802
+Root mean squared error                  0.49  
+Relative absolute error                 99.9918 %
+Root relative squared error            100      %
+Total Number of Instances             1004     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.000    0.000    ?          0.000    ?          ?        0.500     0.400     Bad
+                 1.000    1.000    0.600      1.000    0.750      ?        0.500     0.600     Good
+Weighted Avg.    0.600    0.600    ?          0.600    ?          ?        0.500     0.520     
+
+=== Confusion Matrix ===
+
+   a   b   <-- classified as
+   0 402 |   a = Bad
+   0 602 |   b = Good
+

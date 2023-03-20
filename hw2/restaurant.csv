@@ -1,0 +1,11 @@
+ageGroup,gender,married,restaurant
+young,m,yes,mcdonals
+senior,m,no,wendys
+middle,f,no,burgerKing
+senior,m,no,wendys
+middle,m,yes,mcdonals
+young,f,no,burgerKing
+young,f,yes,mcdonals
+middle,f,yes,mcdonals
+middle,m,no,burgerKing
+middle,m,yes,mcdonals

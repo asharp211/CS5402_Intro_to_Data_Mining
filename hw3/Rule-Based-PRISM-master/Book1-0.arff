@@ -1,0 +1,12 @@
+@relation Book1
+
+@attribute age {young}
+@attribute spectacle-prescrip {myope}
+@attribute astigmatism {no,yes}
+@attribute tear-prod-rate {reduced,normal}
+@attribute contect-lenses {none,soft}
+
+@data
+young,myope,no,reduced,none
+young,myope,no,normal,soft
+young,myope,yes,reduced,none

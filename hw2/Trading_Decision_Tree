@@ -1,0 +1,13 @@
+digraph Tree {
+node [shape=box, style="filled, rounded", color="black", fontname=helvetica] ;
+edge [fontname=helvetica] ;
+0 [label=<PastTrend &le; 0.0<br/>gini = 0.48<br/>samples = 10<br/>value = [6, 4]<br/>class = Up>, fillcolor="#f6d5bd"] ;
+1 [label=<gini = 0.0<br/>samples = 4<br/>value = [4, 0]<br/>class = Up>, fillcolor="#e58139"] ;
+0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
+2 [label=<TradingVol &le; 0.5<br/>gini = 0.444<br/>samples = 6<br/>value = [2, 4]<br/>class = Down>, fillcolor="#9ccef2"] ;
+0 -> 2 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+3 [label=<gini = 0.0<br/>samples = 2<br/>value = [2, 0]<br/>class = Up>, fillcolor="#e58139"] ;
+2 -> 3 ;
+4 [label=<gini = 0.0<br/>samples = 4<br/>value = [0, 4]<br/>class = Down>, fillcolor="#399de5"] ;
+2 -> 4 ;
+}

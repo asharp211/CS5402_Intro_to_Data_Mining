@@ -1,0 +1,322 @@
+state = Pennsylvania
+|   own_telephone = yes
+|   |   savings <= 10.02: Good (6.0/2.0)
+|   |   savings > 10.02: Bad (2.0)
+|   own_telephone = none: Good (18.0/6.0)
+|   own_telephone = no: Bad (4.0)
+state = Rhodes Island: Bad (2.0)
+state = South Carolina: Good (37.0/12.0)
+state = South Dakota
+|   credit_history = critical/other existing credit: Bad (2.0)
+|   credit_history = existing paid: Good (3.0/1.0)
+|   credit_history = delayed previously: Bad (0.0)
+|   credit_history = no credit history: Bad (0.0)
+|   credit_history = no credits/all paid: Bad (0.0)
+|   credit_history = all paid: Bad (0.0)
+state = Tennessee: Good (26.0/7.0)
+state = Texas
+|   credit_history = critical/other existing credit: Good (29.0/7.0)
+|   credit_history = existing paid
+|   |   savings <= 36.75
+|   |   |   purpose = radio/tv
+|   |   |   |   duration <= 30: Good (12.0/3.0)
+|   |   |   |   duration > 30: Bad (2.0)
+|   |   |   purpose = education: Bad (1.0)
+|   |   |   purpose = furniture/equipment
+|   |   |   |   credit_amount <= 1851: Bad (2.0)
+|   |   |   |   credit_amount > 1851: Good (6.0/1.0)
+|   |   |   purpose = Unknown: Bad (3.0/1.0)
+|   |   |   purpose = used car: Bad (4.0/1.0)
+|   |   |   purpose = new car
+|   |   |   |   checking_amt <= 28.6: Good (4.0/1.0)
+|   |   |   |   checking_amt > 28.6: Bad (3.0)
+|   |   |   purpose = business: Bad (3.0)
+|   |   |   purpose = domestic appliance: Bad (1.0)
+|   |   |   purpose = repairs: Bad (2.0)
+|   |   |   purpose = other: Bad (0.0)
+|   |   |   purpose = retraining: Bad (1.0)
+|   |   savings > 36.75: Good (15.0/2.0)
+|   credit_history = delayed previously
+|   |   duration <= 16: Bad (2.0)
+|   |   duration > 16: Good (6.0)
+|   credit_history = no credit history
+|   |   duration <= 21: Good (5.0)
+|   |   duration > 21: Bad (5.0/1.0)
+|   credit_history = no credits/all paid: Good (4.0)
+|   credit_history = all paid: Good (5.0/1.0)
+state = Utah: Bad (3.0/1.0)
+state = Virginia
+|   housing = own
+|   |   other_parties = none
+|   |   |   property_magnitude = real estate
+|   |   |   |   duration <= 27: Bad (4.0)
+|   |   |   |   duration > 27: Good (3.0)
+|   |   |   property_magnitude = Other: Bad (1.0)
+|   |   |   property_magnitude = life insurance: Good (1.0)
+|   |   |   property_magnitude = no known property: Good (1.0)
+|   |   |   property_magnitude = car: Good (7.0/1.0)
+|   |   other_parties = Unknown: Good (1.0)
+|   |   other_parties = guarantor: Good (0.0)
+|   |   other_parties = co applicant: Bad (2.0)
+|   housing = Other: Good (7.0)
+|   housing = for free: Good (1.0)
+|   housing = rent
+|   |   own_telephone = yes: Good (3.0/1.0)
+|   |   own_telephone = none: Bad (4.0)
+|   |   own_telephone = no: Bad (0.0)
+state = Vermont: Good (2.0)
+state = Washington
+|   personal_status = male single
+|   |   checking_amt <= 1789.83: Bad (7.0/1.0)
+|   |   checking_amt > 1789.83: Good (2.0)
+|   personal_status = female div/dep/mar: Good (8.0/2.0)
+|   personal_status = male div/sep: Good (1.0)
+|   personal_status = male mar/wid: Good (1.0)
+|   personal_status = Unknown: Good (1.0)
+state = Wisconsin
+|   property_magnitude = real estate: Good (3.0)
+|   property_magnitude = Other: Bad (2.0)
+|   property_magnitude = life insurance: Bad (0.0)
+|   property_magnitude = no known property: Bad (0.0)
+|   property_magnitude = car
+|   |   installment_commitment <= 3: Bad (3.0)
+|   |   installment_commitment > 3: Good (2.0)
+state = West Virginia
+|   credit_amount <= 2848: Good (2.0)
+|   credit_amount > 2848: Bad (3.0)
+state = Wyoming: Good (1.0)
+state = Alaska: Bad (2.0/1.0)
+state = Arkansas: Good (13.0/1.0)
+state = Arizona
+|   savings <= 11.79: Good (12.0/3.0)
+|   savings > 11.79: Bad (9.0/1.0)
+state = California
+|   purpose = radio/tv
+|   |   personal_status = male single
+|   |   |   job = skilled: Bad (10.0/4.0)
+|   |   |   job = unskilled resident: Good (4.0/1.0)
+|   |   |   job = high qualif/self emp/mgmt: Bad (2.0)
+|   |   |   job = Other: Bad (0.0)
+|   |   |   job = unemp/unskilled non res: Bad (0.0)
+|   |   personal_status = female div/dep/mar
+|   |   |   savings <= 41.34: Bad (5.0)
+|   |   |   savings > 41.34: Good (3.0)
+|   |   personal_status = male div/sep: Bad (0.0)
+|   |   personal_status = male mar/wid: Good (1.0)
+|   |   personal_status = Unknown: Good (3.0)
+|   purpose = education: Bad (10.0/3.0)
+|   purpose = furniture/equipment
+|   |   property_magnitude = real estate: Bad (6.0/1.0)
+|   |   property_magnitude = Other: Good (2.0)
+|   |   property_magnitude = life insurance
+|   |   |   other_payment_plans = none: Good (8.0/1.0)
+|   |   |   other_payment_plans = Other: Bad (3.0/1.0)
+|   |   |   other_payment_plans = bank: Good (0.0)
+|   |   |   other_payment_plans = stores: Good (0.0)
+|   |   property_magnitude = no known property: Good (1.0)
+|   |   property_magnitude = car
+|   |   |   own_telephone = yes: Bad (3.0)
+|   |   |   own_telephone = none: Good (6.0/1.0)
+|   |   |   own_telephone = no: Good (0.0)
+|   purpose = Unknown
+|   |   foreign_worker = no
+|   |   |   residence_since <= 3: Bad (4.0)
+|   |   |   residence_since > 3: Good (3.0)
+|   |   foreign_worker = yes: Good (4.0)
+|   |   foreign_worker = Unknown: Good (4.0)
+|   purpose = used car
+|   |   other_payment_plans = none
+|   |   |   foreign_worker = no: Bad (4.0/1.0)
+|   |   |   foreign_worker = yes: Good (8.0/1.0)
+|   |   |   foreign_worker = Unknown: Good (0.0)
+|   |   other_payment_plans = Other: Good (0.0)
+|   |   other_payment_plans = bank: Bad (2.0)
+|   |   other_payment_plans = stores: Good (0.0)
+|   purpose = new car
+|   |   housing = own
+|   |   |   age <= 40: Good (18.0)
+|   |   |   age > 40: Bad (3.0/1.0)
+|   |   housing = Other
+|   |   |   installment_commitment <= 2: Good (3.0)
+|   |   |   installment_commitment > 2: Bad (3.0)
+|   |   housing = for free: Bad (5.0/1.0)
+|   |   housing = rent
+|   |   |   checking_amt <= -6772.88: Good (2.0)
+|   |   |   checking_amt > -6772.88: Bad (3.0)
+|   purpose = business: Good (7.0/1.0)
+|   purpose = domestic appliance: Bad (2.0/1.0)
+|   purpose = repairs: Good (4.0/1.0)
+|   purpose = other: Good (2.0)
+|   purpose = retraining: Good (1.0)
+state = Colorado: Good (8.0/3.0)
+state = Connecticut
+|   checking_amt <= 35.33: Bad (2.0)
+|   checking_amt > 35.33: Good (2.0)
+state = District of Columbia: Good (6.0/1.0)
+state = Delaware: Bad (3.0)
+state = Georgia
+|   installment_commitment <= 1: Bad (9.0/2.0)
+|   installment_commitment > 1: Good (38.0/11.0)
+state = Hawaii: Bad (2.0/1.0)
+state = Illinois
+|   job = skilled
+|   |   purpose = radio/tv
+|   |   |   residence_since <= 3
+|   |   |   |   other_payment_plans = none: Good (6.0)
+|   |   |   |   other_payment_plans = Other: Good (0.0)
+|   |   |   |   other_payment_plans = bank: Good (0.0)
+|   |   |   |   other_payment_plans = stores: Bad (2.0)
+|   |   |   residence_since > 3: Bad (4.0)
+|   |   purpose = education: Bad (0.0)
+|   |   purpose = furniture/equipment
+|   |   |   savings <= 95.08: Bad (6.0/1.0)
+|   |   |   savings > 95.08: Good (3.0)
+|   |   purpose = Unknown: Bad (4.0)
+|   |   purpose = used car: Good (1.0)
+|   |   purpose = new car
+|   |   |   personal_status = male single: Bad (4.0/1.0)
+|   |   |   personal_status = female div/dep/mar: Good (2.0)
+|   |   |   personal_status = male div/sep: Bad (0.0)
+|   |   |   personal_status = male mar/wid: Bad (0.0)
+|   |   |   personal_status = Unknown: Bad (0.0)
+|   |   purpose = business: Good (4.0/1.0)
+|   |   purpose = domestic appliance: Good (1.0)
+|   |   purpose = repairs: Bad (0.0)
+|   |   purpose = other: Bad (0.0)
+|   |   purpose = retraining: Bad (0.0)
+|   job = unskilled resident
+|   |   installment_commitment <= 3: Good (3.0/1.0)
+|   |   installment_commitment > 3: Bad (3.0)
+|   job = high qualif/self emp/mgmt
+|   |   other_parties = none: Good (2.0)
+|   |   other_parties = Unknown: Bad (0.0)
+|   |   other_parties = guarantor: Bad (0.0)
+|   |   other_parties = co applicant: Bad (2.0)
+|   job = Other: Good (6.0)
+|   job = unemp/unskilled non res: Good (1.0)
+state = Indiana
+|   employment = >=7: Good (6.0/1.0)
+|   employment = 1<=X<4: Bad (6.0/1.0)
+|   employment = 4<=X<7: Bad (5.0)
+|   employment = Unknown: Good (5.0)
+|   employment = unemployed: Bad (0.0)
+|   employment = <1
+|   |   other_payment_plans = none: Bad (2.0)
+|   |   other_payment_plans = Other: Bad (0.0)
+|   |   other_payment_plans = bank: Good (2.0)
+|   |   other_payment_plans = stores: Bad (0.0)
+state = Kentucky
+|   job = skilled
+|   |   own_telephone = yes: Bad (8.0/1.0)
+|   |   own_telephone = none
+|   |   |   foreign_worker = no: Bad (2.0)
+|   |   |   foreign_worker = yes: Good (4.0/1.0)
+|   |   |   foreign_worker = Unknown: Good (3.0)
+|   |   own_telephone = no: Bad (1.0)
+|   job = unskilled resident
+|   |   credit_amount <= 3414: Bad (2.0)
+|   |   credit_amount > 3414: Good (3.0)
+|   job = high qualif/self emp/mgmt: Good (4.0)
+|   job = Other
+|   |   duration <= 16: Good (3.0)
+|   |   duration > 16: Bad (2.0)
+|   job = unemp/unskilled non res: Good (0.0)
+state = Louisiana: Good (37.0/14.0)
+state = Massachusetts
+|   employment = >=7: Good (9.0/3.0)
+|   employment = 1<=X<4: Good (5.0)
+|   employment = 4<=X<7: Good (0.0)
+|   employment = Unknown: Bad (3.0)
+|   employment = unemployed: Good (0.0)
+|   employment = <1: Good (0.0)
+state = Maryland
+|   credit_history = critical/other existing credit: Bad (7.3/0.3)
+|   credit_history = existing paid: Good (10.43/3.0)
+|   credit_history = delayed previously: Good (0.0)
+|   credit_history = no credit history: Good (3.13/1.0)
+|   credit_history = no credits/all paid: Good (1.04)
+|   credit_history = all paid: Good (2.09)
+state = Michigan
+|   purpose = radio/tv
+|   |   other_parties = none: Bad (4.0)
+|   |   other_parties = Unknown: Bad (0.0)
+|   |   other_parties = guarantor: Good (2.0)
+|   |   other_parties = co applicant: Good (1.0)
+|   purpose = education: Bad (1.0)
+|   purpose = furniture/equipment: Good (9.0/1.0)
+|   purpose = Unknown: Good (2.0)
+|   purpose = used car: Good (2.0)
+|   purpose = new car
+|   |   checking_amt <= 3.64: Bad (3.0)
+|   |   checking_amt > 3.64: Good (5.0)
+|   purpose = business: Bad (8.0/3.0)
+|   purpose = domestic appliance: Bad (1.0)
+|   purpose = repairs: Good (0.0)
+|   purpose = other: Good (0.0)
+|   purpose = retraining: Good (0.0)
+state = Missouri
+|   personal_status = male single
+|   |   credit_amount <= 3161: Good (7.0/1.0)
+|   |   credit_amount > 3161: Bad (4.0)
+|   personal_status = female div/dep/mar: Good (10.0/2.0)
+|   personal_status = male div/sep: Good (2.0)
+|   personal_status = male mar/wid: Bad (1.0)
+|   personal_status = Unknown: Good (3.0)
+state = Mississippi
+|   other_payment_plans = none: Bad (3.0/1.0)
+|   other_payment_plans = Other: Good (0.0)
+|   other_payment_plans = bank: Good (3.0)
+|   other_payment_plans = stores: Good (0.0)
+state = North Carolina
+|   savings <= 5.02
+|   |   age <= 28: Bad (2.0)
+|   |   age > 28: Good (5.0)
+|   savings > 5.02: Bad (3.0)
+state = New Hampshire: Bad (2.0)
+state = New Jersey
+|   existing_credits <= 0: Good (3.0)
+|   existing_credits > 0
+|   |   job = skilled
+|   |   |   checking_amt <= 41.55: Bad (9.0/1.0)
+|   |   |   checking_amt > 41.55: Good (2.0)
+|   |   job = unskilled resident
+|   |   |   residence_since <= 1: Bad (2.0)
+|   |   |   residence_since > 1: Good (2.0)
+|   |   job = high qualif/self emp/mgmt: Good (4.0)
+|   |   job = Other: Good (3.0/1.0)
+|   |   job = unemp/unskilled non res: Bad (1.0)
+state = New Mexico: Good (8.0/3.0)
+state = Nevada: Good (14.0/3.0)
+state = New York
+|   foreign_worker = no
+|   |   property_magnitude = real estate
+|   |   |   savings <= 2.68: Bad (7.0/2.0)
+|   |   |   savings > 2.68: Good (2.0)
+|   |   property_magnitude = Other
+|   |   |   duration <= 24: Bad (3.0)
+|   |   |   duration > 24: Good (2.0)
+|   |   property_magnitude = life insurance: Bad (2.0)
+|   |   property_magnitude = no known property: Bad (5.0)
+|   |   property_magnitude = car: Good (5.0)
+|   foreign_worker = yes: Bad (10.0/3.0)
+|   foreign_worker = Unknown: Good (4.0)
+state = Ohio: Good (23.0/7.0)
+state = Oregon: Good (3.0/1.0)
+state = Alabama
+|   own_telephone = yes: Bad (7.0/2.0)
+|   own_telephone = none: Good (5.0/1.0)
+|   own_telephone = no: Good (3.0)
+state = Florida
+|   other_payment_plans = none: Good (30.0/11.0)
+|   other_payment_plans = Other: Bad (5.0/1.0)
+|   other_payment_plans = bank
+|   |   residence_since <= 2: Good (2.0)
+|   |   residence_since > 2: Bad (4.0/1.0)
+|   other_payment_plans = stores: Good (1.0)
+state = Iowa
+|   foreign_worker = no: Good (5.0/1.0)
+|   foreign_worker = yes: Bad (2.0)
+|   foreign_worker = Unknown: Good (0.0)
+state = Idaho: Bad (2.0/1.0)
+state = Kansas: Good (4.0/1.0)
+state = Maine: Good (1.0)

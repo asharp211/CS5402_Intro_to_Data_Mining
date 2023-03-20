@@ -1,0 +1,17 @@
+sandwich,gender,sideOrder,drink,wouldOrderAgain
+hamburger,M,fries,coke,Y
+hamburger,M,fries,pepsi,Y
+hamburger,F,fries,coke,Y
+hamburger,M,salad,coke,Y
+hamburger,M,none,pepsi,Y
+hamburger,F,fries,mtDew,N
+hamburger,F,none,sprite,N
+hamburger,M,salad,coke,N
+hamburger,M,fries,sprite,N
+hamburger,F,salad,mtDew,N
+hamburger,M,beans,sprite,N
+fish,F,coleslaw,coke,Y
+fish,M,fries,pepsi,N
+chicken,F,fries,coke,Y
+chicken,M,coleslaw,pepsi,N
+chicken,M,beans,coke,N

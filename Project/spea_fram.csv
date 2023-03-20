@@ -1,0 +1,6 @@
+,checking_amt,duration,credit_amount,savings,age
+checking_amt,,I,I,I,I
+duration,,,I,I,I
+credit_amount,,,,I,I
+savings,,,,,I
+age,,,,,

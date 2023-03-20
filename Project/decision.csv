@@ -1,0 +1,1005 @@
+﻿state,age,housing,job,foreign_worker,class
+Pennsylvania,67,own,skilled,no,Bad
+Pennsylvania,22,own,skilled,no,Bad
+Pennsylvania,49,Other,'unskilled resident',no,Bad
+Pennsylvania,45,'for free',skilled,no,Bad
+Pennsylvania,53,'for free',skilled,no,Good
+Pennsylvania,35,'for free','unskilled resident',yes,Bad
+Pennsylvania,31,Other,skilled,no,Good
+Pennsylvania,35,Other,'high qualif/self emp/mgmt',yes,Bad
+Pennsylvania,61,own,'unskilled resident',yes,Good
+Rhodes Island,28,own,'high qualif/self emp/mgmt',no,Bad
+South Carolina,31,rent,skilled,yes,Bad
+South Carolina,24,rent,skilled,Unknown,Good
+South Carolina,22,own,skilled,Unknown,Bad
+South Carolina,60,own,'unskilled resident',no,Good
+South Carolina,31,rent,skilled,yes,Good
+South Carolina,32,own,'unskilled resident',Unknown,Good
+South Carolina,31,own,skilled,yes,Good
+South Carolina,25,own,skilled,yes,Bad
+South Carolina,31,'for free','high qualif/self emp/mgmt',Unknown,Bad
+South Carolina,31,own,skilled,yes,Bad
+South Carolina,48,own,skilled,yes,Good
+South Carolina,44,rent,skilled,yes,Good
+South Carolina,48,rent,Other,Unknown,Bad
+South Carolina,44,own,skilled,Unknown,Good
+South Carolina,26,own,skilled,yes,Bad
+South Carolina,36,own,'unskilled resident',no,Good
+South Carolina,39,own,'unskilled resident',no,Good
+South Carolina,42,rent,Other,no,Good
+South Carolina,34,own,Other,no,Good
+South Carolina,63,own,skilled,yes,Good
+South Carolina,36,own,skilled,no,Good
+South Carolina,27,own,skilled,Unknown,Good
+South Carolina,31,own,skilled,no,Bad
+South Dakota,57,rent,'unskilled resident',yes,Bad
+South Dakota,33,Other,'high qualif/self emp/mgmt',yes,Good
+Tennessee,25,own,Other,no,Good
+Tennessee,31,'for free',skilled,yes,Good
+Tennessee,37,own,skilled,yes,Bad
+Tennessee,37,own,skilled,yes,Good
+Tennessee,24,own,skilled,no,Good
+Tennessee,30,own,'high qualif/self emp/mgmt',no,Good
+Tennessee,26,own,skilled,no,Bad
+Tennessee,44,own,'unskilled resident',yes,Good
+Tennessee,24,rent,skilled,yes,Bad
+Tennessee,58,'for free','unskilled resident',yes,Bad
+Tennessee,35,own,'high qualif/self emp/mgmt',no,Good
+Tennessee,39,own,skilled,Unknown,Good
+Tennessee,23,rent,'unemp/unskilled non res',yes,Bad
+Texas,39,Other,'unskilled resident',no,Good
+Texas,28,own,skilled,no,Good
+Texas,29,own,'unskilled resident',yes,Good
+Texas,30,own,'high qualif/self emp/mgmt',no,Bad
+Texas,25,own,skilled,no,Good
+Texas,31,own,skilled,no,Good
+Texas,57,'for free',skilled,yes,Good
+Texas,26,own,'unskilled resident',Unknown,Good
+Texas,52,own,'high qualif/self emp/mgmt',no,Good
+Texas,31,own,Other,no,Bad
+Texas,23,own,'high qualif/self emp/mgmt',yes,Good
+Texas,23,rent,'unskilled resident',yes,Good
+Texas,31,own,skilled,Unknown,Good
+Texas,50,own,skilled,yes,Bad
+Texas,61,'for free','high qualif/self emp/mgmt',no,Good
+Texas,25,own,skilled,no,Good
+Texas,26,own,skilled,no,Good
+Texas,48,own,skilled,yes,Bad
+Texas,29,own,skilled,no,Bad
+Texas,31,own,skilled,yes,Bad
+Texas,31,'for free',Other,yes,Good
+Texas,25,own,skilled,yes,Bad
+Texas,30,own,skilled,no,Bad
+Texas,31,rent,'unskilled resident',no,Good
+Texas,51,'for free','high qualif/self emp/mgmt',yes,Good
+Texas,41,own,'unskilled resident',yes,Bad
+Texas,40,Other,'high qualif/self emp/mgmt',yes,Bad
+Texas,66,'for free','high qualif/self emp/mgmt',no,Good
+Texas,34,Other,skilled,yes,Bad
+Texas,51,own,skilled,yes,Bad
+Texas,39,own,'unskilled resident',yes,Good
+Texas,22,own,Other,yes,Good
+Texas,44,own,skilled,no,Good
+Texas,47,Other,skilled,yes,Good
+Texas,24,rent,'unskilled resident',no,Bad
+Texas,58,own,Other,yes,Good
+Texas,52,own,'unskilled resident',no,Good
+Texas,29,own,'high qualif/self emp/mgmt',yes,Good
+Texas,27,own,skilled,yes,Good
+Texas,47,'for free',skilled,no,Good
+Texas,30,own,'high qualif/self emp/mgmt',no,Good
+Texas,28,own,skilled,no,Good
+Texas,56,own,skilled,no,Bad
+Texas,31,own,skilled,no,Good
+Utah,33,own,'unskilled resident',yes,Good
+Utah,20,rent,skilled,yes,Bad
+Virginia,54,own,skilled,no,Bad
+Virginia,58,Other,skilled,yes,Good
+Virginia,61,own,skilled,no,Good
+Virginia,34,own,skilled,yes,Good
+Virginia,36,own,skilled,no,Good
+Virginia,31,rent,'high qualif/self emp/mgmt',Unknown,Good
+Virginia,41,rent,'unskilled resident',Unknown,Bad
+Virginia,24,rent,skilled,yes,Bad
+Virginia,24,Other,skilled,yes,Good
+Virginia,35,Other,Other,yes,Good
+Virginia,26,rent,skilled,no,Good
+Virginia,39,own,'high qualif/self emp/mgmt',yes,Bad
+Virginia,39,own,'high qualif/self emp/mgmt',no,Good
+Virginia,31,Other,skilled,no,Good
+Virginia,31,Other,Other,Unknown,Good
+Virginia,30,own,skilled,no,Good
+Virginia,35,own,skilled,yes,Good
+Virginia,31,own,skilled,no,Good
+Virginia,23,Other,skilled,yes,Good
+Virginia,28,rent,'unskilled resident',no,Bad
+Virginia,25,own,skilled,yes,Good
+Virginia,35,own,skilled,no,Bad
+Virginia,47,own,skilled,no,Good
+Vermont,30,own,'high qualif/self emp/mgmt',no,Good
+Vermont,31,rent,skilled,no,Good
+Washington,23,own,skilled,no,Good
+Washington,36,own,'high qualif/self emp/mgmt',Unknown,Good
+Washington,25,own,skilled,yes,Good
+Washington,41,rent,'high qualif/self emp/mgmt',no,Good
+Washington,24,rent,'unskilled resident',yes,Bad
+Washington,63,'for free',skilled,yes,Good
+Washington,31,rent,Other,no,Good
+Washington,30,own,skilled,Unknown,Bad
+Washington,40,own,'unskilled resident',yes,Good
+Washington,30,own,skilled,no,Bad
+Washington,34,own,'high qualif/self emp/mgmt',yes,Bad
+Washington,29,own,Other,yes,Good
+Washington,24,own,skilled,no,Bad
+Washington,29,own,skilled,Unknown,Bad
+Washington,27,own,'unskilled resident',no,Good
+Washington,47,'for free',skilled,yes,Bad
+Washington,21,own,skilled,yes,Bad
+Wisconsin,38,own,skilled,yes,Bad
+Wisconsin,27,own,skilled,no,Bad
+Wisconsin,31,own,'unskilled resident',no,Good
+Wisconsin,35,own,skilled,yes,Good
+Wisconsin,44,rent,'unskilled resident',no,Bad
+Wisconsin,27,own,'unemp/unskilled non res',yes,Good
+West Virginia,31,own,'high qualif/self emp/mgmt',no,Bad
+West Virginia,27,own,'high qualif/self emp/mgmt',yes,Bad
+West Virginia,31,own,Other,no,Good
+West Virginia,23,own,skilled,no,Good
+West Virginia,30,Other,skilled,yes,Bad
+Wyoming,39,own,Other,yes,Good
+Alaska,51,own,skilled,no,Good
+Arkansas,28,own,skilled,no,Good
+Arizona,46,own,skilled,yes,Bad
+Arizona,42,Other,skilled,no,Good
+Arizona,38,own,skilled,no,Bad
+California,24,own,skilled,no,Bad
+California,29,rent,skilled,yes,Bad
+California,36,rent,'high qualif/self emp/mgmt',yes,Bad
+California,20,rent,skilled,no,Good
+California,48,own,skilled,yes,Bad
+California,45,own,'unskilled resident',no,Good
+California,38,own,skilled,no,Good
+California,34,own,'unskilled resident',no,Good
+California,31,own,skilled,no,Good
+California,30,own,skilled,no,Good
+California,31,own,skilled,no,Good
+California,70,'for free','high qualif/self emp/mgmt',no,Bad
+California,36,own,skilled,no,Good
+California,32,own,skilled,no,Bad
+California,33,own,skilled,no,Good
+California,20,own,skilled,Unknown,Bad
+California,25,rent,skilled,no,Good
+California,31,Other,skilled,yes,Good
+California,33,rent,skilled,yes,Bad
+California,31,own,skilled,Unknown,Bad
+California,34,own,'high qualif/self emp/mgmt',yes,Good
+California,33,own,skilled,yes,Good
+California,26,own,skilled,Unknown,Good
+California,53,own,Other,yes,Bad
+California,31,own,skilled,yes,Good
+California,52,own,skilled,yes,Bad
+California,31,Other,'high qualif/self emp/mgmt',yes,Bad
+Colorado,65,own,skilled,yes,Good
+Colorado,28,own,skilled,no,Good
+Connecticut,30,own,'high qualif/self emp/mgmt',yes,Good
+District of Columbia,40,Other,'unskilled resident',no,Bad
+Delaware,50,own,skilled,yes,Bad
+Georgia,36,own,skilled,yes,Good
+Georgia,31,own,skilled,yes,Bad
+Georgia,31,'for free','high qualif/self emp/mgmt',no,Good
+Georgia,68,'for free','unemp/unskilled non res',no,Bad
+Georgia,20,own,skilled,yes,Good
+Georgia,33,own,skilled,Unknown,Bad
+Georgia,54,own,Other,yes,Bad
+Georgia,34,Other,'unskilled resident',Unknown,Good
+Georgia,36,own,skilled,yes,Good
+Georgia,29,Other,skilled,Unknown,Bad
+Hawaii,21,rent,skilled,yes,Bad
+Illinois,34,own,'high qualif/self emp/mgmt',yes,Good
+Indiana,28,own,skilled,yes,Bad
+Indiana,27,rent,skilled,yes,Good
+Kentucky,36,'for free',skilled,no,Bad
+Kentucky,40,own,'high qualif/self emp/mgmt',no,Good
+Kentucky,31,own,skilled,yes,Bad
+Louisiana,27,own,'unskilled resident',yes,Bad
+Louisiana,31,own,skilled,Unknown,Bad
+Louisiana,21,rent,skilled,no,Bad
+Louisiana,38,own,'unskilled resident',no,Bad
+Massachusetts,38,'for free',Other,no,Good
+Massachusetts,43,Other,Other,no,Bad
+Maryland,26,own,Other,no,Bad
+Maryland,21,own,'unskilled resident',Unknown,Good
+Maryland,55,own,skilled,no,Good
+Michigan,33,Other,skilled,no,Bad
+Michigan,45,own,'unskilled resident',yes,Bad
+Michigan,31,Other,skilled,no,Good
+Michigan,66,own,'high qualif/self emp/mgmt',no,Bad
+Missouri,31,own,skilled,yes,Good
+Missouri,39,own,'unskilled resident',no,Good
+Missouri,31,own,skilled,no,Good
+Missouri,23,own,skilled,no,Bad
+Missouri,24,rent,'unskilled resident',no,Good
+Missouri,64,own,skilled,yes,Bad
+Missouri,26,own,'unskilled resident',yes,Bad
+Mississippi,23,rent,skilled,yes,Good
+Mississippi,30,own,skilled,yes,Good
+North Carolina,32,own,Other,yes,Good
+North Carolina,30,own,skilled,yes,Good
+North Carolina,27,own,skilled,no,Bad
+North Carolina,27,own,skilled,no,Bad
+North Carolina,53,Other,'high qualif/self emp/mgmt',no,Good
+New Hampshire,22,own,skilled,no,Bad
+New Jersey,22,'for free',skilled,no,Bad
+New Jersey,26,own,skilled,no,Good
+New Jersey,51,'for free','unskilled resident',no,Good
+New Jersey,35,own,skilled,no,Bad
+New Jersey,25,own,'unskilled resident',no,Good
+New Jersey,42,own,'unskilled resident',yes,Bad
+New Jersey,30,Other,'high qualif/self emp/mgmt',yes,Good
+New Jersey,23,own,'unemp/unskilled non res',no,Bad
+New Mexico,61,rent,'unskilled resident',no,Bad
+New Mexico,31,own,Other,yes,Good
+New Mexico,39,own,skilled,no,Good
+Nevada,31,own,skilled,no,Good
+California,31,Other,Other,Unknown,Good
+New York,51,own,skilled,no,Bad
+New York,24,'for free',skilled,yes,Good
+New York,27,own,skilled,Unknown,Good
+New York,35,own,'unskilled resident',no,Bad
+New York,25,own,skilled,no,Bad
+Ohio,52,Other,Other,Unknown,Bad
+Ohio,35,rent,skilled,no,Good
+Ohio,26,own,skilled,yes,Good
+Ohio,22,rent,skilled,yes,Good
+Ohio,39,own,'unskilled resident',Unknown,Good
+Ohio,46,own,'unskilled resident',no,Good
+Ohio,24,own,Other,yes,Bad
+Ohio,35,own,skilled,yes,Bad
+Ohio,24,Other,skilled,no,Good
+Ohio,27,own,'unskilled resident',yes,Bad
+Oregon,35,own,'unskilled resident',no,Good
+Pennsylvania,29,'for free',Other,yes,Bad
+Pennsylvania,23,own,skilled,no,Good
+Pennsylvania,57,own,'unskilled resident',no,Good
+Pennsylvania,31,own,skilled,yes,Good
+Rhodes Island,55,own,skilled,yes,Bad
+South Carolina,36,'for free','high qualif/self emp/mgmt',no,Good
+South Carolina,57,'for free','unskilled resident',yes,Good
+South Carolina,32,own,'unskilled resident',no,Bad
+South Carolina,37,own,skilled,no,Good
+South Carolina,36,own,skilled,no,Good
+South Carolina,38,own,skilled,yes,Good
+South Carolina,45,own,'high qualif/self emp/mgmt',no,Bad
+South Dakota,31,own,skilled,yes,Good
+South Dakota,32,Other,skilled,yes,Bad
+South Dakota,37,rent,skilled,no,Bad
+Tennessee,36,'for free','high qualif/self emp/mgmt',no,Good
+Tennessee,28,Other,skilled,yes,Good
+Tennessee,34,own,'unskilled resident',no,Good
+Tennessee,32,own,skilled,yes,Good
+Texas,26,own,skilled,no,Good
+Texas,49,own,'unskilled resident',no,Good
+Texas,32,own,skilled,no,Good
+Texas,29,rent,'high qualif/self emp/mgmt',no,Bad
+Texas,23,rent,skilled,yes,Good
+Texas,50,own,skilled,no,Bad
+Texas,31,own,'unskilled resident',no,Good
+Texas,63,own,skilled,no,Good
+Texas,31,Other,skilled,yes,Good
+Texas,35,own,'unskilled resident',no,Good
+Texas,26,own,skilled,yes,Bad
+Texas,31,'for free','high qualif/self emp/mgmt',no,Good
+Texas,31,own,skilled,no,Good
+Texas,48,own,skilled,Unknown,Bad
+Texas,26,own,skilled,no,Bad
+Texas,28,rent,'high qualif/self emp/mgmt',yes,Good
+Utah,44,'for free','high qualif/self emp/mgmt',no,Bad
+Virginia,56,'for free',skilled,no,Good
+Virginia,46,own,'high qualif/self emp/mgmt',no,Bad
+Virginia,26,own,skilled,yes,Good
+Virginia,20,rent,skilled,no,Bad
+Virginia,45,Other,'unskilled resident',yes,Good
+Virginia,43,own,skilled,yes,Bad
+Virginia,32,own,skilled,Unknown,Good
+Washington,54,own,'unemp/unskilled non res',no,Good
+Washington,42,own,skilled,yes,Good
+Washington,37,own,'unskilled resident',no,Good
+Wisconsin,49,Other,skilled,yes,Bad
+Alaska,44,Other,skilled,yes,Bad
+Arizona,33,own,skilled,yes,Good
+Arizona,24,rent,'unskilled resident',no,Good
+Arizona,33,own,'unskilled resident',yes,Bad
+California,24,own,skilled,no,Bad
+California,31,rent,'unskilled resident',no,Bad
+California,40,'for free','unemp/unskilled non res',no,Good
+California,25,Other,skilled,no,Good
+California,26,own,skilled,yes,Bad
+California,25,own,'unskilled resident',yes,Good
+California,29,own,'unskilled resident',yes,Good
+California,31,own,Other,no,Good
+California,38,own,'unskilled resident',no,Good
+California,48,own,Other,Unknown,Good
+California,32,own,skilled,yes,Bad
+Colorado,27,own,'unskilled resident',yes,Bad
+Colorado,28,Other,'high qualif/self emp/mgmt',yes,Good
+Connecticut,32,Other,skilled,yes,Bad
+District of Columbia,34,'for free','high qualif/self emp/mgmt',no,Good
+Georgia,28,Other,skilled,yes,Good
+Georgia,36,own,skilled,no,Bad
+Georgia,39,own,'unskilled resident',no,Bad
+Georgia,49,rent,skilled,no,Bad
+Georgia,34,own,skilled,yes,Good
+Illinois,31,own,skilled,yes,Good
+Indiana,31,Other,Other,Unknown,Good
+Kentucky,28,own,skilled,yes,Good
+Louisiana,75,Other,'high qualif/self emp/mgmt',no,Bad
+Louisiana,30,own,skilled,yes,Good
+Louisiana,24,own,'high qualif/self emp/mgmt',no,Good
+Louisiana,24,rent,'unskilled resident',yes,Good
+Massachusetts,31,Other,skilled,no,Bad
+Maryland,44,rent,'high qualif/self emp/mgmt',yes,Bad
+Maryland,23,own,'unskilled resident',yes,Good
+Michigan,24,rent,skilled,no,Bad
+Michigan,28,own,skilled,no,Good
+Missouri,31,own,'unskilled resident',yes,Good
+Missouri,31,'for free',skilled,yes,Bad
+Missouri,31,rent,'unskilled resident',no,Good
+Mississippi,25,rent,skilled,no,Good
+Mississippi,33,own,'high qualif/self emp/mgmt',yes,Good
+North Carolina,37,own,Other,no,Good
+North Carolina,43,own,'unskilled resident',yes,Good
+North Carolina,23,own,skilled,yes,Bad
+New Hampshire,23,rent,'unemp/unskilled non res',no,Bad
+New Jersey,34,Other,'unskilled resident',yes,Good
+New Jersey,32,'for free',Other,no,Good
+New Jersey,23,rent,skilled,yes,Bad
+New Jersey,29,own,skilled,yes,Bad
+New Jersey,38,Other,'high qualif/self emp/mgmt',yes,Good
+New Mexico,28,rent,skilled,no,Good
+Nevada,31,'for free',skilled,yes,Good
+Nevada,23,own,'unskilled resident',yes,Good
+New York,49,own,skilled,no,Good
+New York,31,own,'high qualif/self emp/mgmt',no,Good
+New York,28,Other,skilled,no,Bad
+New York,23,Other,skilled,no,Good
+New York,61,Other,skilled,no,Bad
+New York,37,own,'high qualif/self emp/mgmt',Unknown,Good
+Ohio,36,own,skilled,no,Bad
+Ohio,21,rent,skilled,yes,Good
+Ohio,25,Other,'unemp/unskilled non res',yes,Good
+Ohio,36,own,skilled,no,Good
+Ohio,27,own,skilled,Unknown,Good
+Ohio,31,rent,skilled,no,Good
+Pennsylvania,31,own,skilled,yes,Good
+Pennsylvania,40,rent,skilled,no,Bad
+South Carolina,36,own,skilled,yes,Good
+South Carolina,33,own,skilled,no,Bad
+South Carolina,23,rent,skilled,no,Good
+South Carolina,63,'for free','high qualif/self emp/mgmt',Unknown,Good
+South Carolina,60,'for free','high qualif/self emp/mgmt',yes,Good
+Tennessee,37,rent,skilled,no,Bad
+Tennessee,34,own,skilled,Unknown,Bad
+Texas,36,'for free',skilled,Unknown,Bad
+Texas,57,'for free','high qualif/self emp/mgmt',yes,Bad
+Texas,31,own,'unskilled resident',yes,Good
+Texas,39,own,skilled,no,Good
+Texas,38,'for free','high qualif/self emp/mgmt',no,Bad
+Texas,25,rent,skilled,Unknown,Bad
+Texas,26,own,skilled,no,Good
+Texas,26,own,'unskilled resident',no,Good
+Virginia,25,own,Other,Unknown,Good
+Virginia,21,rent,skilled,no,Bad
+Virginia,40,own,Other,yes,Bad
+Wisconsin,27,own,skilled,yes,Bad
+Arizona,27,own,skilled,no,Good
+California,30,own,'high qualif/self emp/mgmt',no,Good
+California,19,rent,'unskilled resident',yes,Bad
+California,39,'for free','high qualif/self emp/mgmt',yes,Good
+California,31,own,skilled,yes,Bad
+California,31,own,'high qualif/self emp/mgmt',Unknown,Good
+California,32,rent,skilled,yes,Good
+California,55,'for free','high qualif/self emp/mgmt',yes,Good
+California,46,own,skilled,no,Good
+California,46,rent,skilled,yes,Bad
+District of Columbia,43,own,'unskilled resident',no,Good
+Georgia,39,own,Other,yes,Good
+Georgia,28,own,skilled,no,Good
+Georgia,31,Other,Other,no,Good
+Georgia,27,own,'unskilled resident',yes,Good
+Georgia,43,own,skilled,yes,Good
+Illinois,22,own,skilled,no,Good
+Indiana,43,own,skilled,no,Bad
+Kentucky,27,own,Other,no,Good
+Louisiana,26,own,'high qualif/self emp/mgmt',no,Bad
+Louisiana,28,own,skilled,yes,Bad
+Massachusetts,20,own,skilled,yes,Good
+Maryland,31,own,'high qualif/self emp/mgmt',no,Bad
+Michigan,42,own,'high qualif/self emp/mgmt',no,Bad
+Missouri,40,Other,Other,yes,Bad
+Missouri,35,own,skilled,no,Good
+Mississippi,35,own,skilled,no,Bad
+North Carolina,33,own,'unskilled resident',no,Bad
+New Jersey,23,rent,skilled,yes,Bad
+New Jersey,31,own,'high qualif/self emp/mgmt',no,Good
+New Jersey,33,own,skilled,no,Good
+New Jersey,20,rent,skilled,Unknown,Good
+Nevada,31,own,skilled,yes,Good
+New York,47,own,Other,no,Good
+New York,34,own,'high qualif/self emp/mgmt',no,Good
+Ohio,25,own,skilled,yes,Bad
+Ohio,21,rent,skilled,Unknown,Good
+Oregon,29,Other,skilled,yes,Good
+Pennsylvania,46,own,skilled,no,Bad
+Pennsylvania,20,own,Other,yes,Bad
+South Carolina,55,'for free','unemp/unskilled non res',Unknown,Good
+South Carolina,74,own,'unskilled resident',no,Bad
+Tennessee,29,own,'high qualif/self emp/mgmt',no,Good
+Tennessee,36,'for free','high qualif/self emp/mgmt',no,Good
+Texas,33,own,skilled,no,Good
+Texas,25,own,skilled,no,Good
+Texas,25,own,skilled,no,Bad
+Texas,23,rent,'unskilled resident',yes,Bad
+Texas,37,own,skilled,no,Good
+Virginia,65,own,'unemp/unskilled non res',yes,Bad
+Virginia,26,own,'unemp/unskilled non res',yes,Bad
+Wisconsin,39,own,'high qualif/self emp/mgmt',Unknown,Good
+Arizona,30,own,skilled,yes,Bad
+California,29,own,skilled,no,Good
+California,41,own,'unskilled resident',no,Bad
+California,30,own,'high qualif/self emp/mgmt',yes,Bad
+California,31,rent,'unskilled resident',no,Good
+California,34,own,skilled,yes,Good
+California,35,own,skilled,no,Bad
+District of Columbia,31,own,'high qualif/self emp/mgmt',yes,Good
+Georgia,61,Other,skilled,no,Good
+Georgia,30,own,'high qualif/self emp/mgmt',yes,Bad
+Georgia,29,own,skilled,yes,Good
+Illinois,34,own,skilled,yes,Good
+Indiana,35,Other,'high qualif/self emp/mgmt',no,Good
+Louisiana,31,own,skilled,no,Good
+Maryland,29,own,'high qualif/self emp/mgmt',yes,Bad
+Michigan,31,rent,skilled,yes,Bad
+Missouri,35,'for free',skilled,no,Bad
+Missouri,27,own,skilled,yes,Good
+Mississippi,32,own,skilled,yes,Bad
+North Carolina,37,own,skilled,yes,Bad
+New Jersey,36,own,skilled,yes,Good
+New Jersey,34,rent,'high qualif/self emp/mgmt',yes,Good
+Nevada,38,own,skilled,yes,Good
+New York,34,own,skilled,no,Good
+New York,63,Other,Other,no,Bad
+Oregon,29,rent,'unskilled resident',no,Bad
+Pennsylvania,32,own,Other,yes,Good
+Tennessee,26,own,skilled,Unknown,Good
+Tennessee,35,own,'unskilled resident',yes,Good
+Texas,22,rent,skilled,yes,Good
+Texas,23,own,skilled,no,Good
+Texas,28,own,'unskilled resident',no,Good
+Texas,36,own,'high qualif/self emp/mgmt',no,Bad
+Wisconsin,33,Other,skilled,no,Good
+Arizona,26,Other,skilled,Unknown,Bad
+California,31,own,skilled,yes,Good
+California,25,own,skilled,Unknown,Bad
+California,31,own,'unskilled resident',yes,Good
+California,31,own,skilled,yes,Bad
+California,23,own,'unskilled resident',yes,Bad
+Georgia,26,Other,skilled,yes,Bad
+Illinois,57,rent,skilled,no,Good
+Indiana,30,own,skilled,yes,Bad
+Louisiana,44,own,skilled,Unknown,Good
+Maryland,47,own,'high qualif/self emp/mgmt',no,Good
+Michigan,52,own,skilled,yes,Good
+Missouri,62,'for free',skilled,no,Good
+New Jersey,35,rent,'unskilled resident',yes,Bad
+New Jersey,26,rent,skilled,no,Bad
+Nevada,31,own,skilled,yes,Good
+New York,31,'for free','high qualif/self emp/mgmt',no,Bad
+Pennsylvania,27,own,skilled,no,Good
+Tennessee,38,own,skilled,yes,Good
+Texas,31,rent,'unskilled resident',no,Good
+Texas,20,own,skilled,no,Bad
+Texas,29,rent,'high qualif/self emp/mgmt',yes,Bad
+Texas,40,own,skilled,no,Good
+Arizona,32,own,'unskilled resident',Unknown,Bad
+California,28,own,skilled,Unknown,Good
+California,27,own,skilled,yes,Good
+California,42,'for free',skilled,no,Good
+Georgia,49,own,skilled,no,Bad
+Illinois,38,own,skilled,no,Bad
+Indiana,24,rent,skilled,yes,Good
+Louisiana,27,own,'unskilled resident',no,Good
+Michigan,36,own,skilled,no,Good
+Missouri,34,own,'high qualif/self emp/mgmt',no,Bad
+New Jersey,28,Other,Other,no,Bad
+New Jersey,45,own,Other,no,Good
+Nevada,26,own,skilled,yes,Bad
+New York,31,'for free','high qualif/self emp/mgmt',no,Bad
+Pennsylvania,26,rent,Other,yes,Bad
+Tennessee,20,rent,skilled,yes,Good
+Texas,54,own,skilled,yes,Good
+Texas,37,own,skilled,no,Bad
+Texas,40,Other,'unskilled resident',Unknown,Good
+Arizona,23,rent,skilled,no,Bad
+California,43,own,skilled,no,Good
+California,36,'for free',skilled,Unknown,Good
+California,44,'for free',skilled,yes,Good
+Georgia,24,own,skilled,yes,Bad
+Illinois,31,'for free',skilled,yes,Good
+Indiana,31,own,skilled,no,Bad
+Louisiana,26,own,'unskilled resident',yes,Bad
+Maryland,30,own,skilled,Unknown,Good
+Michigan,31,own,Other,yes,Bad
+Missouri,42,own,Other,no,Good
+New Jersey,31,rent,skilled,no,Bad
+Nevada,41,own,Other,yes,Good
+New York,32,own,skilled,no,Good
+Pennsylvania,28,rent,skilled,yes,Bad
+Tennessee,41,rent,skilled,yes,Good
+Texas,26,own,skilled,Unknown,Good
+Texas,25,own,skilled,no,Bad
+Texas,33,rent,skilled,no,Bad
+Texas,75,own,'high qualif/self emp/mgmt',no,Bad
+California,31,Other,skilled,yes,Good
+California,42,'for free','high qualif/self emp/mgmt',Unknown,Bad
+Georgia,45,own,'unskilled resident',yes,Bad
+Illinois,23,rent,skilled,no,Good
+Indiana,60,'for free',Other,no,Good
+Louisiana,31,own,skilled,no,Good
+Maryland,34,own,'unskilled resident',no,Bad
+Michigan,61,own,'unskilled resident',no,Bad
+Missouri,43,'for free',skilled,yes,Good
+New Jersey,37,own,skilled,Unknown,Bad
+Nevada,32,own,skilled,no,Bad
+New York,24,own,'unskilled resident',yes,Bad
+Pennsylvania,35,'for free',Other,no,Good
+Texas,23,Other,skilled,no,Good
+Texas,45,own,'unskilled resident',Unknown,Good
+Texas,31,own,skilled,yes,Bad
+California,27,own,skilled,Unknown,Good
+California,67,own,'high qualif/self emp/mgmt',yes,Bad
+Illinois,22,own,skilled,yes,Bad
+Indiana,28,own,skilled,yes,Good
+Louisiana,29,own,skilled,no,Good
+Maryland,27,own,skilled,yes,Good
+Michigan,31,own,'unskilled resident',no,Good
+Missouri,49,'for free',skilled,yes,Good
+New Jersey,24,rent,Other,yes,Good
+Nevada,29,own,skilled,no,Good
+New York,37,'for free',skilled,no,Bad
+Pennsylvania,37,own,'high qualif/self emp/mgmt',no,Good
+Texas,23,rent,skilled,yes,Good
+Texas,36,own,skilled,no,Good
+Texas,34,own,skilled,no,Good
+California,41,own,skilled,yes,Good
+Illinois,31,own,skilled,no,Good
+Maryland,23,rent,'unskilled resident',no,Good
+Michigan,38,own,skilled,Unknown,Good
+Missouri,26,rent,'high qualif/self emp/mgmt',no,Good
+Nevada,31,Other,Other,no,Good
+New York,31,own,'unskilled resident',no,Bad
+Pennsylvania,24,own,skilled,yes,Good
+Texas,27,own,skilled,no,Bad
+Texas,33,Other,skilled,yes,Good
+Texas,27,own,skilled,yes,Good
+California,31,own,'unskilled resident',no,Bad
+Illinois,30,own,skilled,yes,Good
+Maryland,49,own,Other,no,Bad
+Michigan,26,rent,skilled,yes,Good
+Missouri,33,rent,'unskilled resident',no,Good
+Nevada,52,'for free','high qualif/self emp/mgmt',no,Bad
+New York,20,rent,skilled,yes,Bad
+Pennsylvania,36,rent,skilled,yes,Good
+Texas,21,own,'unskilled resident',no,Bad
+Texas,47,own,'unskilled resident',no,Bad
+California,60,own,skilled,yes,Good
+Illinois,58,own,'unskilled resident',no,Bad
+Michigan,31,Other,skilled,no,Good
+Missouri,36,own,'unskilled resident',no,Good
+New York,20,Other,'unskilled resident',yes,Bad
+Pennsylvania,40,own,'high qualif/self emp/mgmt',yes,Good
+Texas,32,own,Other,yes,Good
+California,23,rent,skilled,yes,Good
+Illinois,36,own,'unskilled resident',no,Good
+Maryland,31,own,Other,no,Bad
+Michigan,32,'for free',Other,no,Bad
+Missouri,45,Other,skilled,yes,Good
+New York,31,own,skilled,no,Bad
+Pennsylvania,34,'for free','unskilled resident',yes,Good
+Texas,28,Other,'high qualif/self emp/mgmt',yes,Good
+California,23,own,Other,yes,Good
+Illinois,22,own,skilled,yes,Good
+Michigan,74,own,Other,Unknown,Good
+Missouri,50,'for free',skilled,yes,Good
+New York,33,own,skilled,no,Bad
+Pennsylvania,45,'for free',skilled,no,Good
+Texas,22,Other,skilled,no,Good
+Texas,31,'for free','unskilled resident',yes,Good
+California,29,Other,skilled,yes,Good
+Illinois,22,rent,Other,no,Good
+Indiana,31,own,skilled,yes,Bad
+Maryland,48,own,'high qualif/self emp/mgmt',no,Good
+Michigan,27,'for free','high qualif/self emp/mgmt',Unknown,Bad
+Missouri,37,rent,skilled,no,Good
+New York,21,rent,skilled,no,Good
+Pennsylvania,49,own,'unskilled resident',yes,Bad
+Texas,27,own,skilled,yes,Good
+California,32,own,skilled,no,Good
+Illinois,38,own,skilled,yes,Bad
+Michigan,22,Other,skilled,no,Good
+Missouri,65,'for free',skilled,no,Good
+New York,35,own,skilled,yes,Bad
+Pennsylvania,41,Other,skilled,yes,Bad
+Texas,29,own,Other,yes,Bad
+Alabama,36,own,skilled,no,Bad
+California,64,own,'unskilled resident',no,Bad
+Illinois,28,own,skilled,yes,Bad
+Michigan,44,own,skilled,yes,Good
+Missouri,23,own,skilled,Unknown,Bad
+New York,19,rent,skilled,no,Good
+Texas,25,own,'unskilled resident',yes,Bad
+California,47,Other,skilled,yes,Bad
+Florida,31,own,skilled,yes,Bad
+Illinois,21,own,skilled,no,Bad
+Michigan,31,own,skilled,yes,Bad
+New York,26,own,skilled,yes,Bad
+Texas,27,own,'unemp/unskilled non res',yes,Good
+California,38,own,'unskilled resident',yes,Good
+Illinois,40,own,'high qualif/self emp/mgmt',yes,Good
+Michigan,33,own,skilled,no,Good
+New York,32,own,'high qualif/self emp/mgmt',yes,Bad
+Texas,27,rent,skilled,yes,Good
+California,32,Other,skilled,yes,Good
+Illinois,31,own,skilled,yes,Good
+Michigan,38,'for free',Other,no,Good
+New York,40,rent,'unskilled resident',no,Bad
+New York,50,'for free',Other,yes,Good
+Ohio,37,own,'unskilled resident',no,Bad
+Texas,45,own,skilled,yes,Good
+California,42,own,'high qualif/self emp/mgmt',yes,Bad
+Illinois,35,Other,Other,no,Good
+Michigan,31,'for free',skilled,yes,Good
+Michigan,41,own,'unskilled resident',yes,Good
+New York,37,own,skilled,Unknown,Good
+New York,28,own,skilled,yes,Bad
+Ohio,41,own,skilled,no,Good
+Texas,23,rent,skilled,yes,Good
+California,23,own,skilled,no,Good
+Illinois,31,own,skilled,no,Bad
+Michigan,35,own,'high qualif/self emp/mgmt',no,Bad
+Texas,50,own,'unskilled resident',yes,Good
+Illinois,31,own,'high qualif/self emp/mgmt',yes,Bad
+Michigan,34,own,skilled,no,Good
+Texas,31,own,skilled,yes,Good
+Alabama,43,rent,skilled,Unknown,Bad
+Illinois,47,own,skilled,no,Bad
+Michigan,27,own,'unskilled resident',no,Bad
+Texas,31,own,skilled,yes,Bad
+Illinois,42,own,Other,no,Good
+Texas,24,own,skilled,no,Bad
+Illinois,41,own,'unskilled resident',no,Bad
+Texas,26,Other,'high qualif/self emp/mgmt',Unknown,Bad
+Alabama,33,own,skilled,yes,Good
+Alabama,24,own,skilled,Unknown,Good
+Alabama,64,rent,'unskilled resident',Unknown,Good
+Alabama,31,own,skilled,Unknown,Good
+Alabama,56,own,Other,yes,Good
+Alabama,37,'for free',skilled,yes,Good
+Alabama,33,own,skilled,no,Bad
+Alabama,47,'for free',skilled,no,Bad
+Alabama,31,own,'unskilled resident',no,Good
+Alabama,34,'for free',skilled,yes,Bad
+Alabama,27,Other,skilled,yes,Bad
+Alabama,30,'for free',skilled,yes,Good
+Alabama,35,own,skilled,no,Good
+Arkansas,31,own,Other,no,Good
+Arkansas,25,Other,skilled,yes,Good
+Arkansas,25,own,Other,yes,Good
+Arkansas,29,own,Other,no,Good
+Arkansas,44,own,'unskilled resident',no,Good
+Arkansas,28,own,skilled,no,Good
+Arkansas,50,rent,skilled,yes,Good
+Arkansas,31,own,skilled,no,Bad
+Arkansas,38,Other,'unemp/unskilled non res',no,Good
+Arkansas,24,own,Other,yes,Good
+Arkansas,40,rent,'high qualif/self emp/mgmt',Unknown,Good
+Arkansas,29,rent,'unskilled resident',yes,Good
+Arizona,46,'for free',skilled,no,Good
+Arizona,47,'for free',skilled,yes,Good
+Arizona,41,own,skilled,no,Bad
+Arizona,32,own,skilled,Unknown,Bad
+Arizona,31,'for free',skilled,yes,Good
+Arizona,24,own,skilled,yes,Bad
+Arizona,25,rent,skilled,no,Good
+Arizona,25,own,skilled,yes,Bad
+Arizona,37,Other,'unskilled resident',no,Good
+Arizona,31,own,'high qualif/self emp/mgmt',no,Good
+California,35,'for free',skilled,yes,Bad
+California,46,own,'high qualif/self emp/mgmt',no,Bad
+California,25,own,'unskilled resident',no,Good
+California,27,own,'high qualif/self emp/mgmt',yes,Good
+California,63,own,skilled,no,Bad
+California,40,Other,skilled,no,Good
+California,32,'for free','high qualif/self emp/mgmt',no,Good
+California,31,own,skilled,no,Bad
+California,31,own,skilled,yes,Bad
+California,34,Other,'high qualif/self emp/mgmt',no,Bad
+California,24,rent,skilled,no,Bad
+California,24,own,Other,Unknown,Good
+California,66,own,'unskilled resident',no,Good
+California,21,Other,skilled,no,Bad
+California,31,own,'unskilled resident',Unknown,Good
+California,47,own,'unskilled resident',yes,Good
+California,25,rent,skilled,yes,Bad
+California,31,rent,skilled,yes,Good
+California,36,own,skilled,no,Good
+California,33,own,skilled,yes,Good
+California,31,rent,'unskilled resident',yes,Bad
+California,44,own,'unskilled resident',yes,Good
+California,28,Other,skilled,no,Bad
+California,37,own,Other,yes,Good
+California,29,own,'unemp/unskilled non res',yes,Bad
+California,23,Other,'high qualif/self emp/mgmt',yes,Good
+California,35,Other,Other,Unknown,Bad
+California,31,own,'high qualif/self emp/mgmt',no,Good
+California,26,rent,'unskilled resident',no,Good
+California,32,own,skilled,no,Good
+California,23,Other,'unskilled resident',yes,Good
+California,41,own,skilled,no,Bad
+California,22,own,skilled,no,Bad
+California,30,own,'high qualif/self emp/mgmt',yes,Bad
+California,28,own,'unskilled resident',no,Good
+California,23,Other,skilled,yes,Good
+California,37,own,'unskilled resident',yes,Good
+California,26,own,skilled,yes,Good
+California,33,own,skilled,yes,Good
+California,49,Other,skilled,yes,Bad
+California,23,own,'unskilled resident',no,Good
+California,23,rent,'unskilled resident',yes,Good
+California,25,Other,Other,yes,Bad
+California,55,'for free',skilled,Unknown,Good
+California,32,rent,Other,yes,Good
+California,31,Other,'unemp/unskilled non res',yes,Good
+California,39,'for free',skilled,yes,Bad
+California,31,Other,skilled,no,Good
+California,35,Other,skilled,no,Bad
+California,59,own,skilled,yes,Bad
+California,24,rent,skilled,yes,Good
+California,24,own,'unskilled resident',yes,Good
+California,30,'for free','high qualif/self emp/mgmt',yes,Bad
+California,27,Other,Other,no,Bad
+California,40,own,'unskilled resident',yes,Good
+California,31,Other,'unskilled resident',no,Bad
+California,31,rent,skilled,yes,Good
+California,28,rent,skilled,Unknown,Good
+California,31,own,'unskilled resident',no,Good
+California,26,rent,skilled,yes,Good
+California,25,own,'high qualif/self emp/mgmt',yes,Bad
+California,36,own,'high qualif/self emp/mgmt',yes,Good
+California,31,own,skilled,no,Good
+California,31,'for free','unemp/unskilled non res',no,Bad
+California,25,rent,skilled,yes,Good
+California,37,own,skilled,yes,Good
+California,25,own,skilled,no,Bad
+Colorado,38,own,Other,yes,Good
+Colorado,67,own,skilled,no,Bad
+Colorado,25,own,skilled,no,Bad
+Colorado,60,own,skilled,yes,Good
+Connecticut,31,own,'unskilled resident',Unknown,Good
+Connecticut,23,own,'unskilled resident',no,Bad
+District of Columbia,60,own,'high qualif/self emp/mgmt',no,Good
+District of Columbia,35,own,'unskilled resident',yes,Good
+Delaware,40,own,skilled,no,Bad
+Delaware,38,own,skilled,yes,Bad
+Florida,50,'for free',skilled,yes,Good
+Florida,27,own,Other,yes,Bad
+Florida,31,own,skilled,yes,Good
+Florida,41,own,'high qualif/self emp/mgmt',no,Bad
+Florida,27,own,skilled,Unknown,Good
+Florida,51,'for free',skilled,no,Good
+Florida,32,rent,skilled,yes,Bad
+Florida,31,rent,skilled,no,Bad
+Florida,51,'for free',skilled,Unknown,Bad
+Florida,22,rent,'unskilled resident',no,Good
+Florida,54,own,skilled,yes,Good
+Florida,35,own,'unemp/unskilled non res',yes,Good
+Florida,31,'for free',skilled,yes,Bad
+Florida,48,rent,'unskilled resident',no,Good
+Florida,24,own,skilled,no,Bad
+Florida,35,own,skilled,no,Bad
+Florida,31,rent,'unemp/unskilled non res',yes,Good
+Florida,24,own,skilled,no,Good
+Florida,26,own,'unskilled resident',Unknown,Good
+Florida,65,own,skilled,no,Bad
+Florida,55,'for free','high qualif/self emp/mgmt',yes,Good
+Florida,26,rent,'unemp/unskilled non res',yes,Bad
+Florida,26,own,skilled,no,Good
+Florida,28,own,'unskilled resident',no,Bad
+Florida,24,own,Other,no,Good
+Florida,54,own,skilled,no,Bad
+Florida,46,'for free',skilled,no,Good
+Florida,54,rent,skilled,yes,Bad
+Florida,62,own,skilled,no,Bad
+Florida,24,Other,skilled,yes,Bad
+Florida,43,own,'high qualif/self emp/mgmt',no,Good
+Florida,26,Other,Other,Unknown,Bad
+Florida,27,own,skilled,no,Good
+Florida,24,own,skilled,Unknown,Good
+Florida,41,own,skilled,yes,Good
+Florida,31,own,Other,no,Bad
+Florida,35,own,'high qualif/self emp/mgmt',no,Good
+Florida,30,own,skilled,no,Good
+Florida,33,rent,skilled,no,Good
+Florida,36,Other,skilled,no,Good
+Florida,47,'for free',skilled,yes,Good
+Georgia,38,'for free',skilled,yes,Bad
+Georgia,31,own,skilled,Unknown,Bad
+Georgia,23,rent,skilled,yes,Good
+Georgia,29,rent,skilled,yes,Good
+Georgia,42,own,skilled,yes,Good
+Georgia,25,own,'unskilled resident',no,Good
+Georgia,48,own,Other,yes,Good
+Georgia,21,own,skilled,yes,Good
+Georgia,23,rent,'unskilled resident',no,Bad
+Georgia,63,own,skilled,no,Bad
+Georgia,46,own,skilled,no,Good
+Georgia,29,own,skilled,no,Good
+Georgia,28,own,'unskilled resident',yes,Good
+Georgia,23,Other,skilled,yes,Good
+Georgia,50,Other,skilled,no,Good
+Georgia,47,own,skilled,Unknown,Good
+Georgia,35,own,skilled,no,Good
+Georgia,68,rent,skilled,yes,Good
+Georgia,28,own,skilled,yes,Bad
+Georgia,59,own,skilled,no,Good
+Hawaii,57,own,'unskilled resident',Unknown,Good
+Iowa,31,rent,skilled,no,Good
+Iowa,43,own,skilled,no,Good
+Iowa,35,'for free',skilled,yes,Bad
+Iowa,32,'for free','unskilled resident',no,Good
+Iowa,45,own,skilled,no,Bad
+Iowa,33,own,skilled,no,Good
+Iowa,40,own,skilled,yes,Bad
+Idaho,31,'for free',skilled,yes,Good
+Idaho,29,own,skilled,no,Bad
+Illinois,26,rent,skilled,no,Bad
+Illinois,31,own,skilled,Unknown,Bad
+Illinois,31,own,skilled,no,Good
+Illinois,35,own,Other,Unknown,Good
+Illinois,32,own,'unskilled resident',no,Bad
+Illinois,25,Other,'unskilled resident',no,Good
+Illinois,20,rent,skilled,no,Bad
+Illinois,27,own,skilled,yes,Bad
+Illinois,42,own,skilled,Unknown,Bad
+Illinois,37,own,skilled,yes,Good
+Illinois,24,Other,skilled,yes,Bad
+Illinois,40,Other,skilled,no,Bad
+Illinois,46,own,skilled,no,Bad
+Illinois,26,own,skilled,yes,Good
+Illinois,24,own,skilled,no,Good
+Illinois,29,own,'unskilled resident',yes,Bad
+Illinois,40,Other,skilled,no,Good
+Illinois,36,'for free','high qualif/self emp/mgmt',no,Bad
+Illinois,28,own,skilled,no,Good
+Illinois,27,'for free',Other,yes,Good
+Illinois,36,own,skilled,no,Good
+Illinois,38,own,Other,Unknown,Good
+Illinois,48,'for free',skilled,yes,Good
+Illinois,36,own,skilled,no,Bad
+Illinois,65,own,'unemp/unskilled non res',yes,Good
+Illinois,31,own,skilled,no,Bad
+Illinois,53,own,skilled,yes,Bad
+Illinois,34,own,skilled,yes,Bad
+Indiana,23,own,skilled,yes,Bad
+Indiana,34,own,'high qualif/self emp/mgmt',Unknown,Good
+Indiana,40,rent,skilled,yes,Good
+Indiana,43,own,'high qualif/self emp/mgmt',yes,Good
+Indiana,31,Other,skilled,no,Bad
+Indiana,38,own,'unskilled resident',yes,Bad
+Indiana,34,own,skilled,yes,Bad
+Indiana,29,own,skilled,yes,Bad
+Indiana,31,own,'high qualif/self emp/mgmt',no,Good
+Indiana,28,rent,'high qualif/self emp/mgmt',no,Bad
+Indiana,35,Other,skilled,yes,Good
+Indiana,31,rent,'unskilled resident',yes,Bad
+Indiana,42,Other,skilled,no,Good
+Indiana,43,rent,Other,no,Good
+Indiana,44,own,skilled,no,Bad
+Kansas,42,Other,skilled,yes,Good
+Kansas,40,rent,skilled,no,Good
+Kansas,36,own,'high qualif/self emp/mgmt',yes,Bad
+Kansas,20,rent,'high qualif/self emp/mgmt',no,Good
+Kentucky,24,own,'unskilled resident',no,Good
+Kentucky,27,own,skilled,yes,Good
+Kentucky,31,own,'unskilled resident',no,Good
+Kentucky,33,own,'unskilled resident',no,Bad
+Kentucky,34,own,skilled,no,Bad
+Kentucky,25,Other,'unskilled resident',yes,Good
+Kentucky,25,own,skilled,yes,Bad
+Kentucky,28,Other,Other,yes,Good
+Kentucky,31,rent,skilled,yes,Bad
+Kentucky,32,own,'high qualif/self emp/mgmt',yes,Good
+Kentucky,32,own,skilled,no,Bad
+Kentucky,68,own,'high qualif/self emp/mgmt',no,Good
+Kentucky,33,own,skilled,Unknown,Good
+Kentucky,39,rent,'high qualif/self emp/mgmt',yes,Good
+Kentucky,28,own,Other,no,Bad
+Kentucky,37,own,Other,no,Bad
+Kentucky,22,rent,skilled,yes,Good
+Kentucky,30,rent,skilled,no,Bad
+Kentucky,31,own,skilled,no,Bad
+Kentucky,46,own,skilled,yes,Bad
+Kentucky,21,rent,skilled,Unknown,Good
+Kentucky,39,'for free',skilled,yes,Bad
+Kentucky,58,own,skilled,yes,Good
+Kentucky,43,own,Other,no,Good
+Kentucky,24,Other,'unskilled resident',no,Bad
+Kentucky,22,own,skilled,Unknown,Bad
+Kentucky,30,own,skilled,Unknown,Good
+Louisiana,42,own,skilled,no,Good
+Louisiana,23,own,skilled,yes,Good
+Louisiana,30,Other,'high qualif/self emp/mgmt',Unknown,Bad
+Louisiana,28,Other,'unskilled resident',yes,Good
+Louisiana,30,rent,'high qualif/self emp/mgmt',yes,Good
+Louisiana,42,'for free',skilled,yes,Bad
+Louisiana,31,Other,Other,yes,Bad
+Louisiana,31,own,'high qualif/self emp/mgmt',yes,Bad
+Louisiana,31,own,'unskilled resident',yes,Good
+Louisiana,31,own,skilled,no,Good
+Louisiana,42,own,'unskilled resident',no,Good
+Louisiana,46,rent,skilled,yes,Good
+Louisiana,30,own,skilled,yes,Good
+Louisiana,30,'for free',skilled,no,Good
+Louisiana,31,own,'high qualif/self emp/mgmt',Unknown,Good
+Louisiana,31,own,'unskilled resident',no,Good
+Louisiana,31,own,skilled,Unknown,Good
+Louisiana,40,own,'unemp/unskilled non res',yes,Bad
+Louisiana,24,own,Other,no,Good
+Louisiana,28,rent,skilled,yes,Bad
+Louisiana,26,own,'high qualif/self emp/mgmt',no,Good
+Massachusetts,29,own,skilled,yes,Good
+Massachusetts,57,rent,'high qualif/self emp/mgmt',Unknown,Good
+Massachusetts,49,Other,'unskilled resident',yes,Bad
+Massachusetts,31,own,'unskilled resident',no,Good
+Massachusetts,45,own,'unskilled resident',no,Bad
+Massachusetts,30,'for free',skilled,yes,Bad
+Massachusetts,30,rent,skilled,yes,Good
+Massachusetts,47,own,skilled,no,Good
+Massachusetts,29,own,skilled,no,Good
+Massachusetts,35,own,skilled,no,Good
+Massachusetts,22,Other,'unskilled resident',no,Bad
+Massachusetts,26,Other,skilled,Unknown,Good
+Massachusetts,23,own,'unskilled resident',yes,Good
+Maryland,54,rent,'high qualif/self emp/mgmt',Unknown,Good
+Maryland,29,rent,skilled,yes,Bad
+Maryland,40,own,'unskilled resident',yes,Bad
+Maryland,22,own,skilled,yes,Good
+Maryland,31,Other,Other,Unknown,Good
+Maryland,43,Other,'unskilled resident',yes,Good
+Maryland,29,rent,'unemp/unskilled non res',Unknown,Good
+Maryland,31,rent,skilled,yes,Bad
+Maryland,33,own,skilled,Unknown,Bad
+Maine,57,own,'unskilled resident',no,Good
+Michigan,64,own,Other,no,Good
+Michigan,42,own,skilled,yes,Good
+Michigan,47,own,'unskilled resident',Unknown,Bad
+Michigan,25,rent,skilled,Unknown,Good
+Michigan,49,own,skilled,yes,Good
+Michigan,33,rent,'high qualif/self emp/mgmt',yes,Bad
+Michigan,28,own,'high qualif/self emp/mgmt',no,Good
+Michigan,26,own,skilled,yes,Good
+Michigan,30,own,'unskilled resident',Unknown,Good
+New Mexico,25,rent,skilled,yes,Bad
+New Mexico,33,own,skilled,no,Good
+New Mexico,64,own,skilled,yes,Bad
+New Mexico,29,'for free','high qualif/self emp/mgmt',no,Good
+Nevada,48,own,'unskilled resident',no,Good
+Nevada,37,own,'unskilled resident',no,Good
+New York,34,Other,'unskilled resident',no,Good
+New York,23,Other,'unskilled resident',yes,Good
+New York,30,own,'high qualif/self emp/mgmt',no,Bad
+New York,50,own,skilled,no,Good
+New York,31,own,'unskilled resident',no,Bad
+New York,40,own,'high qualif/self emp/mgmt',Unknown,Good
+Ohio,38,own,skilled,no,Good
+Ohio,23,'for free',skilled,yes,Good
+Ohio,27,Other,skilled,yes,Good

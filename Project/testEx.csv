@@ -1,0 +1,1005 @@
+state,checking_amt,duration,credit_history,credit_amount,savings,installment_commitment,other_parties,residence_since,property_magnitude,age,other_payment_plans,housing,existing_credits,foreign_worker,class,works_outside_US
+Pennsylvania,-2589.19,6,'critical/other existing credit',3234,0,0,none,4,'real estate',67,none,own,2,no,Bad,no
+Pennsylvania,53.51,48,'existing paid',5951,2.52,2,none,2,Other,22,none,own,1,no,Bad,no
+Pennsylvania,0,12,'critical/other existing credit',2096,0,2,Unknown,0,'real estate',49,none,Other,1,no,Bad,no
+Pennsylvania,-4695.81,42,'existing paid',7882,92.15,2,guarantor,4,'life insurance',45,none,'for free',1,no,Bad,no
+Pennsylvania,-9540.2,24,'delayed previously',4870,39.81,3,none,4,'no known property',53,none,'for free',2,no,Good,no
+Pennsylvania,0,36,'existing paid',9055,0,0,none,4,'no known property',35,none,'for free',1,yes,Bad,yes
+Pennsylvania,0,24,'existing paid',2835,0,3,none,4,'life insurance',31,none,Other,1,no,Good,no
+Pennsylvania,38.12,36,no credit history,6948,20.69,2,none,2,car,35,none,Other,1,yes,Bad,yes
+Pennsylvania,0,12,'existing paid',3059,0,2,none,4,'real estate',61,none,own,0,yes,Good,yes
+Rhodes Island,101.81,30,'critical/other existing credit',5234,85.64,4,none,2,car,28,none,own,2,no,Bad,no
+South Carolina,130.75,12,'existing paid',1295,99.76,3,none,0,car,31,Other,rent,1,yes,Bad,yes
+South Carolina,-1950.83,48,'existing paid',4308,69.51,3,none,4,'life insurance',24,none,rent,0,Unknown,Good,Unknown
+South Carolina,15.12,12,'existing paid',1567,89.2,1,none,1,car,22,none,own,1,Unknown,Bad,Unknown
+South Carolina,0,24,'critical/other existing credit',1199,0,4,none,0,car,60,none,own,2,no,Good,no
+South Carolina,-6002.72,15,'existing paid',1403,42.11,2,none,4,car,31,none,rent,0,yes,Good,yes
+South Carolina,-787.62,24,'existing paid',1282,247,4,none,0,car,32,none,own,1,Unknown,Good,Unknown
+South Carolina,0,20,'critical/other existing credit',2424,0,4,none,4,'life insurance',31,none,own,2,yes,Good,yes
+South Carolina,-9440.86,30,'no credits/all paid',8072,0,0,none,3,car,25,bank,own,3,yes,Bad,yes
+South Carolina,64.89,24,'existing paid',3234,2.66,4,none,2,'no known property',31,none,'for free',0,Unknown,Bad,Unknown
+South Carolina,0,24,no credit history,3430,0,3,Unknown,2,car,31,none,own,1,yes,Bad,yes
+South Carolina,0,20,'critical/other existing credit',2134,0,4,none,4,car,48,none,own,3,yes,Good,yes
+South Carolina,-864.51,6,'existing paid',2647,742.31,2,none,3,'real estate',44,none,rent,1,yes,Good,yes
+South Carolina,-5730.5,10,'critical/other existing credit',2241,41.19,1,Unknown,3,'real estate',48,none,rent,2,Unknown,Bad,Unknown
+South Carolina,104.66,12,'critical/other existing credit',1804,438.95,3,none,4,Other,44,none,own,1,Unknown,Good,Unknown
+South Carolina,0,10,'critical/other existing credit',2069,0,2,none,1,car,26,none,own,2,yes,Bad,yes
+South Carolina,0,6,'existing paid',3234,0,1,none,0,'real estate',36,bank,own,1,no,Good,no
+South Carolina,0,6,'no credits/all paid',426,0,0,none,4,car,39,none,own,1,no,Good,no
+South Carolina,2577.11,12,'all paid',409,2599.63,3,none,0,'real estate',42,none,rent,2,no,Good,no
+South Carolina,184.53,7,'existing paid',2415,67.24,0,guarantor,2,'real estate',34,none,own,0,no,Good,no
+South Carolina,-3479,60,'delayed previously',6836,26.85,0,none,4,'no known property',63,Other,own,2,yes,Good,yes
+South Carolina,0,18,'existing paid',1913,0,3,Unknown,3,'real estate',36,bank,own,1,no,Good,no
+South Carolina,-5072.05,24,'existing paid',4020,12.54,2,none,2,car,27,stores,own,1,Unknown,Good,Unknown
+South Carolina,65.97,18,'existing paid',5866,265.12,2,none,2,car,31,none,own,2,no,Bad,no
+South Dakota,0,12,'critical/other existing credit',1264,0,4,none,4,Other,57,none,rent,1,yes,Bad,yes
+South Dakota,978.69,12,'existing paid',3234,41.34,4,none,1,'life insurance',33,bank,Other,1,yes,Good,yes
+Tennessee,163,45,'critical/other existing credit',4746,0,4,none,2,'life insurance',25,none,own,2,no,Good,no
+Tennessee,0,48,'critical/other existing credit',6110,0,1,none,3,'no known property',31,bank,'for free',1,yes,Good,yes
+Tennessee,6976.08,18,'existing paid',2100,4.69,4,'co applicant',2,'real estate',37,stores,own,1,yes,Bad,yes
+Tennessee,5588.7,10,'existing paid',1225,0,2,none,0,car,37,none,own,1,yes,Good,yes
+Tennessee,47.76,9,'existing paid',458,0,4,none,3,'real estate',24,none,own,0,no,Good,no
+Tennessee,0,30,'existing paid',2333,0,4,none,2,car,30,bank,own,0,no,Good,no
+Tennessee,150.32,20,'existing paid',1158,0,3,none,1,car,26,none,own,0,no,Bad,no
+Tennessee,158.94,18,'delayed previously',6204,24.41,2,none,4,'real estate',44,none,own,1,yes,Good,yes
+Tennessee,-913.07,30,no credit history,6187,224.1,1,none,0,car,24,none,rent,2,yes,Bad,yes
+Tennessee,-8599.14,48,'critical/other existing credit',6143,14.18,4,none,4,'no known property',58,stores,'for free',2,yes,Bad,yes
+Tennessee,0,11,no credit history,1393,0,4,none,4,car,35,none,own,2,no,Good,no
+Tennessee,0,36,no credit history,3234,0,4,none,4,car,39,none,own,1,Unknown,Good,Unknown
+Tennessee,-1631.58,6,'existing paid',3234,0,1,none,2,Other,23,none,rent,1,yes,Bad,yes
+Texas,0,11,'critical/other existing credit',7228,0,1,none,4,'life insurance',39,none,Other,2,no,Good,no
+Texas,0,12,no credit history,2073,0,4,'co applicant',2,'real estate',28,none,own,1,no,Good,no
+Texas,166.03,24,'delayed previously',2333,0,4,none,2,Other,29,bank,own,1,yes,Good,yes
+Texas,180.59,27,no credit history,5965,42.7,1,none,2,car,30,none,own,0,no,Bad,no
+Texas,0,12,'existing paid',1262,0,3,none,2,car,25,none,own,1,no,Good,no
+Texas,0,20,'existing paid',3378,0,2,none,1,Other,31,none,own,1,no,Good,no
+Texas,127.36,36,'delayed previously',2225,41.6,4,none,4,'no known property',57,bank,'for free',2,yes,Good,yes
+Texas,0,6,'all paid',783,0,1,guarantor,2,'real estate',26,Other,own,1,Unknown,Good,Unknown
+Texas,114.16,12,'existing paid',6468,0,2,none,1,'no known property',52,none,own,1,no,Good,no
+Texas,0,36,'critical/other existing credit',9566,0,2,Unknown,2,car,31,Other,own,2,no,Bad,no
+Texas,3235.45,18,no credit history,1961,65.36,3,none,2,car,23,none,own,1,yes,Good,yes
+Texas,-9972.01,36,'critical/other existing credit',6229,35.8,0,'co applicant',4,'no known property',23,none,rent,2,yes,Good,yes
+Texas,75.44,9,'existing paid',1391,65.13,2,Unknown,1,'real estate',31,bank,own,1,Unknown,Good,Unknown
+Texas,158.6,15,'critical/other existing credit',1537,0,4,guarantor,4,'real estate',50,none,own,2,yes,Bad,yes
+Texas,163.79,36,'no credits/all paid',1953,78.33,4,none,4,'no known property',61,none,'for free',1,no,Good,no
+Texas,139.83,48,'no credits/all paid',14421,25.59,2,none,2,car,25,none,own,1,no,Good,no
+Texas,0,20,'existing paid',3181,0,0,none,0,'life insurance',26,none,own,1,no,Good,no
+Texas,0,27,'existing paid',5190,0,4,none,4,'life insurance',48,none,own,4,yes,Bad,yes
+Texas,0,12,'existing paid',2171,0,2,Unknown,2,car,29,bank,own,1,no,Bad,no
+Texas,59.47,12,'existing paid',1007,0,4,Unknown,1,'real estate',31,none,own,1,yes,Bad,yes
+Texas,0,36,'existing paid',1819,0,4,none,4,'no known property',31,stores,'for free',0,yes,Good,yes
+Texas,0,36,'existing paid',2394,0,4,none,4,car,25,none,own,1,yes,Bad,yes
+Texas,0,20,'existing paid',8133,0,0,none,2,'life insurance',30,Other,own,1,no,Bad,no
+Texas,0,7,'critical/other existing credit',730,0,4,none,2,'life insurance',31,none,rent,2,no,Good,no
+Texas,0,8,'critical/other existing credit',1164,0,3,none,0,'no known property',51,bank,'for free',2,yes,Good,yes
+Texas,0,42,no credit history,5954,0,2,none,1,'real estate',41,bank,own,2,yes,Bad,yes
+Texas,-220.84,36,'existing paid',1977,0,4,none,4,'no known property',40,none,Other,0,yes,Bad,yes
+Texas,-6131.59,12,'critical/other existing credit',1526,53.54,4,none,4,'no known property',66,none,'for free',2,no,Good,no
+Texas,0,42,'existing paid',3234,0,0,none,0,car,34,none,Other,1,yes,Bad,yes
+Texas,160.21,11,'delayed previously',4771,0,2,none,4,'life insurance',51,none,own,1,yes,Bad,yes
+Texas,0,54,'no credits/all paid',9436,0,2,none,2,'life insurance',39,none,own,1,yes,Good,yes
+Texas,161.2,30,'existing paid',3832,8.69,0,Unknown,1,'life insurance',22,none,own,1,yes,Good,yes
+Texas,0,24,'existing paid',3234,0,1,none,0,car,44,Other,own,2,no,Good,no
+Texas,0,15,'existing paid',1213,0,4,none,3,'life insurance',47,stores,Other,1,yes,Good,yes
+Texas,0,18,'existing paid',3234,0,3,none,4,'life insurance',24,none,rent,1,no,Bad,no
+Texas,-5878.49,24,'existing paid',1755,98.16,0,guarantor,4,'real estate',58,none,own,1,yes,Good,yes
+Texas,-1789.61,10,'existing paid',2315,32.77,3,Unknown,4,'real estate',52,none,own,1,no,Good,no
+Texas,0,12,'critical/other existing credit',1412,0,0,guarantor,2,'real estate',29,none,own,2,yes,Good,yes
+Texas,85.74,18,'critical/other existing credit',1295,0,4,none,1,Other,27,none,own,2,yes,Good,yes
+Texas,138.23,36,'existing paid',12612,438.24,0,none,4,'no known property',47,none,'for free',1,no,Good,no
+Texas,0,18,'existing paid',2249,0,4,none,3,Other,30,none,own,1,no,Good,no
+Texas,-9244.18,12,'no credits/all paid',1108,5.74,4,none,3,'real estate',28,none,own,2,no,Good,no
+Texas,0,12,'critical/other existing credit',618,0,4,none,4,Other,56,none,own,1,no,Bad,no
+Texas,-677.41,12,no credit history,1409,1.66,4,none,3,'real estate',31,none,own,1,no,Good,no
+Utah,0,12,'critical/other existing credit',797,0,4,none,3,'life insurance',33,bank,own,1,yes,Good,yes
+Utah,0,24,'critical/other existing credit',3617,0,4,Unknown,4,'no known property',20,none,rent,2,yes,Bad,yes
+Virginia,45.54,12,'existing paid',1318,5987.51,4,none,4,'real estate',54,none,own,1,no,Bad,no
+Virginia,163.33,54,'no credits/all paid',3234,89.6,3,none,4,'no known property',58,none,Other,1,yes,Good,yes
+Virginia,0,12,'critical/other existing credit',2012,0,4,none,2,car,61,none,own,1,no,Good,no
+Virginia,4.36,18,'existing paid',2622,167.17,4,none,4,car,34,none,own,1,yes,Good,yes
+Virginia,0.83,36,'critical/other existing credit',3234,36.75,4,none,4,'real estate',36,none,own,1,no,Good,no
+Virginia,62.41,20,'delayed previously',7057,0,0,none,4,'life insurance',31,bank,rent,2,Unknown,Good,Unknown
+Virginia,0,24,'existing paid',1469,0,4,none,0,'real estate',41,none,rent,1,Unknown,Bad,Unknown
+Virginia,194.24,36,'existing paid',2323,0,4,none,4,car,24,none,rent,1,yes,Bad,yes
+Virginia,0,6,no credit history,932,0,3,none,0,Other,24,none,Other,1,yes,Good,yes
+Virginia,72.61,9,'critical/other existing credit',1919,0,4,Unknown,3,car,35,none,Other,1,yes,Good,yes
+Virginia,0,12,'existing paid',2445,0,2,none,4,car,26,none,rent,1,no,Good,no
+Virginia,150.24,20,'critical/other existing credit',11938,20.15,2,'co applicant',3,car,39,Other,own,2,yes,Bad,yes
+Virginia,0,18,'all paid',6458,0,2,none,4,'no known property',39,bank,own,2,no,Good,no
+Virginia,129.98,12,'existing paid',6078,50.34,2,none,2,car,31,none,Other,1,no,Good,no
+Virginia,0,20,no credit history,3234,0,0,Unknown,0,Other,31,Other,Other,0,Unknown,Good,Unknown
+Virginia,-757.72,20,'existing paid',7721,0,1,none,2,'life insurance',30,none,own,1,no,Good,no
+Virginia,55.89,20,'existing paid',1410,549.75,1,Unknown,2,'real estate',35,none,own,1,yes,Good,yes
+Virginia,80.35,6,'delayed previously',1449,265.76,1,none,2,car,31,bank,own,2,no,Good,no
+Virginia,0,20,'existing paid',392,0,0,none,0,'life insurance',23,none,Other,1,yes,Good,yes
+Virginia,80.71,18,'existing paid',6260,68.22,0,none,3,Other,28,none,rent,1,no,Bad,no
+Virginia,0,36,'critical/other existing credit',7855,0,4,none,2,'real estate',25,stores,own,0,yes,Good,yes
+Virginia,0,12,'existing paid',3234,0,3,none,1,'real estate',35,none,own,1,no,Bad,no
+Virginia,0,48,no credit history,3234,0,4,none,1,'real estate',47,none,own,1,no,Good,no
+Vermont,-7890.14,20,'existing paid',7174,0,4,none,3,car,30,none,own,1,no,Good,no
+Vermont,-308.12,10,'critical/other existing credit',2132,0,2,'co applicant',3,'real estate',31,none,rent,2,no,Good,no
+Washington,-6207.62,33,'critical/other existing credit',4281,777.08,1,none,4,car,23,none,own,2,no,Good,no
+Washington,180.83,12,no credit history,2366,804.96,3,none,3,car,36,none,own,1,Unknown,Good,Unknown
+Washington,-4317.01,21,'existing paid',1835,6.23,3,none,2,'real estate',25,none,own,2,yes,Good,yes
+Washington,0,24,'critical/other existing credit',3234,0,4,none,0,car,41,none,rent,2,no,Good,no
+Washington,0,20,no credit history,1768,0,0,none,2,'real estate',24,none,rent,0,yes,Bad,yes
+Washington,4115.41,10,'critical/other existing credit',781,68.49,0,Unknown,4,'no known property',63,none,'for free',2,yes,Good,yes
+Washington,69.75,18,'existing paid',1924,0,4,none,3,'real estate',31,Other,rent,1,no,Good,no
+Washington,-8633.29,12,'critical/other existing credit',2121,28.28,4,Unknown,2,'life insurance',30,none,own,2,Unknown,Bad,Unknown
+Washington,-7111.18,12,no credit history,3234,1.11,4,none,2,'real estate',40,none,own,1,yes,Good,yes
+Washington,150.56,12,'existing paid',3234,33.47,0,none,2,car,30,none,own,1,no,Bad,no
+Washington,163.65,12,'critical/other existing credit',1860,21.86,4,Unknown,2,car,34,none,own,2,yes,Bad,yes
+Washington,-9688.11,12,'critical/other existing credit',3234,0,3,'co applicant',2,'real estate',29,none,own,2,yes,Good,yes
+Washington,161.19,48,'existing paid',8487,0,1,none,2,car,24,none,own,1,no,Bad,no
+Washington,-4083,36,'delayed previously',6887,11.36,4,none,3,'life insurance',29,stores,own,1,Unknown,Bad,Unknown
+Washington,0,15,'existing paid',3234,0,2,none,3,'life insurance',27,bank,own,2,no,Good,no
+Washington,0,20,'existing paid',1984,0,4,none,4,'no known property',47,bank,'for free',2,yes,Bad,yes
+Washington,0,20,'existing paid',3234,0,2,none,0,'real estate',21,none,own,1,yes,Bad,yes
+Wisconsin,0,12,'critical/other existing credit',1240,0,4,none,2,Other,38,none,own,2,yes,Bad,yes
+Wisconsin,0,27,'delayed previously',8613,0,2,none,2,car,27,none,own,2,no,Bad,no
+Wisconsin,0,20,no credit history,766,0,4,Unknown,3,'real estate',31,none,own,1,no,Good,no
+Wisconsin,51.64,15,'critical/other existing credit',2728,0,4,guarantor,2,'real estate',35,bank,own,3,yes,Good,yes
+Wisconsin,0,12,'existing paid',1881,0,2,none,2,car,44,none,rent,1,no,Bad,no
+Wisconsin,8525.7,6,'existing paid',709,7265.64,2,none,2,'real estate',27,none,own,1,yes,Good,yes
+West Virginia,3.49,36,'existing paid',3234,57.17,4,none,1,'no known property',31,none,own,1,no,Bad,no
+West Virginia,-4570.85,20,'existing paid',3416,15.64,0,Unknown,2,car,27,none,own,1,yes,Bad,yes
+West Virginia,-6400.81,20,'existing paid',2462,74.69,2,none,2,Other,31,none,own,1,no,Good,no
+West Virginia,0,21,'critical/other existing credit',2288,0,4,none,4,'life insurance',23,none,own,1,no,Good,no
+West Virginia,46.06,48,'all paid',3566,240.61,0,none,2,car,30,none,Other,1,yes,Bad,yes
+Wyoming,-9858.79,6,'critical/other existing credit',860,6.1,1,Unknown,4,'no known property',39,none,own,2,yes,Good,yes
+Alaska,0,12,'critical/other existing credit',682,0,4,none,3,car,51,none,own,2,no,Good,no
+Arkansas,0,36,'critical/other existing credit',5371,0,3,Unknown,2,'life insurance',28,none,own,2,no,Good,no
+Arizona,0,18,no credit history,1582,0,4,none,4,car,46,none,own,0,yes,Bad,yes
+Arizona,0,6,'existing paid',1346,0,2,Unknown,4,'no known property',42,bank,Other,1,no,Good,no
+Arizona,0,20,'existing paid',1924,0,1,none,4,'life insurance',38,none,own,1,no,Bad,no
+California,0,36,'existing paid',5848,0,4,none,1,car,24,none,own,1,no,Bad,no
+California,139.47,24,'critical/other existing credit',7758,7369.04,2,Unknown,4,'no known property',29,none,rent,1,yes,Bad,yes
+California,190.98,24,'delayed previously',6967,438.53,4,none,4,car,36,none,rent,1,yes,Bad,yes
+California,-5781.67,12,'existing paid',1282,59.7,2,none,4,Other,20,none,rent,1,no,Good,no
+California,-2884.07,9,'critical/other existing credit',3234,100.46,3,guarantor,4,'real estate',48,none,own,2,yes,Bad,yes
+California,-7930.96,12,'all paid',339,22.56,4,none,1,car,45,bank,own,1,no,Good,no
+California,144.52,20,'existing paid',3512,345.1,2,none,3,car,38,bank,own,2,no,Good,no
+California,0,6,'critical/other existing credit',1898,0,1,none,2,'real estate',34,none,own,2,no,Good,no
+California,0,24,no credit history,2872,0,0,Unknown,0,'real estate',31,none,own,1,no,Good,no
+California,0,18,'critical/other existing credit',1055,0,4,none,1,'life insurance',30,none,own,2,no,Good,no
+California,0,20,'existing paid',1262,0,4,none,3,'life insurance',31,none,own,2,no,Good,no
+California,31.09,10,'existing paid',7308,52.29,2,none,4,'no known property',70,bank,'for free',1,no,Bad,no
+California,0,36,'existing paid',909,0,4,none,4,'life insurance',36,none,own,1,no,Good,no
+California,0,6,'existing paid',2978,0,1,none,2,car,32,none,own,1,no,Bad,no
+California,-3326.98,18,'existing paid',1131,33.43,4,none,0,car,33,none,own,1,no,Good,no
+California,47.93,11,'existing paid',1577,7895.35,4,none,1,'real estate',20,none,own,1,Unknown,Bad,Unknown
+California,0,24,'existing paid',3972,0,2,none,4,'life insurance',25,none,rent,0,no,Good,no
+California,58.87,24,'critical/other existing credit',1935,60,4,none,4,'real estate',31,none,Other,2,yes,Good,yes
+California,-5652,15,'no credits/all paid',950,62.41,4,none,0,car,33,none,rent,2,yes,Bad,yes
+California,0,12,'existing paid',763,0,4,none,1,'real estate',31,Other,own,1,Unknown,Bad,Unknown
+California,64,24,'delayed previously',2064,54.99,3,none,0,'life insurance',34,none,own,1,yes,Good,yes
+California,84.67,8,'existing paid',1414,58.58,4,guarantor,2,'real estate',33,none,own,1,yes,Good,yes
+California,-4199.42,21,'delayed previously',3414,56.73,2,none,0,'life insurance',26,none,own,2,Unknown,Good,Unknown
+California,0,30,'all paid',3234,0,4,none,1,'real estate',53,bank,own,1,yes,Bad,yes
+California,-7153.11,12,'existing paid',2577,26.63,2,none,1,car,31,none,own,1,yes,Good,yes
+California,-3587.09,6,'critical/other existing credit',338,840.74,4,none,4,Other,52,none,own,2,yes,Bad,yes
+California,0,12,'existing paid',1963,0,4,Unknown,2,Other,31,none,Other,2,yes,Bad,yes
+Colorado,0,21,'critical/other existing credit',571,0,0,none,4,'real estate',65,none,own,0,yes,Good,yes
+Colorado,0,36,'delayed previously',9572,0,1,none,1,car,28,none,own,2,no,Good,no
+Connecticut,55.91,36,'delayed previously',4455,21.64,0,Unknown,2,'real estate',30,stores,own,2,yes,Good,yes
+District of Columbia,-4718.69,21,'all paid',1647,0,4,none,2,'life insurance',40,none,Other,2,no,Bad,no
+Delaware,0,24,'critical/other existing credit',3777,0,4,none,4,'real estate',50,none,own,1,yes,Bad,yes
+Georgia,190.69,18,'critical/other existing credit',884,90.53,4,none,4,car,36,bank,own,1,yes,Good,yes
+Georgia,0,15,no credit history,1360,0,4,none,2,'life insurance',31,none,own,2,yes,Bad,yes
+Georgia,0,9,'all paid',5129,0,2,none,0,Other,31,bank,'for free',1,no,Good,no
+Georgia,18.61,16,'critical/other existing credit',1175,95.88,2,Unknown,3,car,68,none,'for free',3,no,Bad,no
+Georgia,-8569.38,12,'existing paid',674,319.57,4,none,0,Other,20,none,own,1,yes,Good,yes
+Georgia,122.36,18,'no credits/all paid',3244,86.38,1,none,0,car,33,bank,own,2,Unknown,Bad,Unknown
+Georgia,0,24,'existing paid',4591,0,2,none,3,Other,54,none,own,3,yes,Bad,yes
+Georgia,5.06,48,'no credits/all paid',3844,0,4,none,4,'no known property',34,none,Other,1,Unknown,Good,Unknown
+Georgia,2.66,27,'existing paid',3915,90.63,4,none,2,Other,36,none,own,1,yes,Good,yes
+Georgia,0,6,'existing paid',2108,0,2,none,2,'real estate',29,none,Other,1,Unknown,Bad,Unknown
+Hawaii,0,45,'existing paid',3031,0,0,guarantor,4,'life insurance',21,none,rent,1,yes,Bad,yes
+Illinois,0,20,'critical/other existing credit',1501,0,2,none,3,car,34,none,own,2,yes,Good,yes
+Indiana,0,6,'critical/other existing credit',1382,0,1,none,1,car,28,none,own,2,yes,Bad,yes
+Indiana,41.55,20,'existing paid',951,145.16,4,none,4,car,27,bank,rent,4,yes,Good,yes
+Kentucky,73.46,24,'existing paid',2760,0,4,none,4,'no known property',36,bank,'for free',1,no,Bad,no
+Kentucky,5.45,18,'delayed previously',4297,38.61,4,none,3,Other,40,none,own,1,no,Good,no
+Kentucky,0,9,'critical/other existing credit',936,0,0,none,2,car,31,none,own,2,yes,Bad,yes
+Louisiana,-1525.5,12,'existing paid',1168,72.61,4,none,3,Other,27,none,own,1,yes,Bad,yes
+Louisiana,0,27,'delayed previously',5117,0,3,none,4,car,31,none,own,2,Unknown,Bad,Unknown
+Louisiana,-4203.08,12,'existing paid',902,72.58,4,Unknown,4,'life insurance',21,none,rent,1,no,Bad,no
+Louisiana,0,12,'critical/other existing credit',1495,0,0,none,1,Other,38,none,own,0,no,Bad,no
+Massachusetts,-497.79,30,'critical/other existing credit',10623,10.76,3,none,4,'no known property',38,none,'for free',3,no,Good,no
+Massachusetts,0,12,'critical/other existing credit',1935,0,4,none,4,'real estate',43,none,Other,3,no,Bad,no
+Maryland,93.51,12,'critical/other existing credit',1424,69.55,0,none,3,'life insurance',26,none,own,1,no,Bad,no
+Maryland,-1515.21,24,'existing paid',6568,9.01,2,none,2,car,21,stores,own,1,Unknown,Good,Unknown
+Maryland,0,12,'existing paid',1413,0,3,Unknown,2,'life insurance',55,none,own,0,no,Good,no
+Michigan,0,9,'critical/other existing credit',3074,0,1,none,2,'real estate',33,none,Other,2,no,Bad,no
+Michigan,0,36,'existing paid',3835,0,2,none,4,'real estate',45,none,own,1,yes,Bad,yes
+Michigan,-2297.6,27,'no credits/all paid',5293,25.73,2,none,0,Other,31,stores,Other,2,no,Good,no
+Michigan,7044.86,30,'delayed previously',1908,57.07,4,none,4,'real estate',66,none,own,1,no,Bad,no
+Missouri,0,36,no credit history,3342,0,4,none,0,car,31,none,own,0,yes,Good,yes
+Missouri,119.36,6,'critical/other existing credit',932,0,1,none,3,'life insurance',39,none,own,2,no,Good,no
+Missouri,0,18,'no credits/all paid',3104,0,0,none,1,'life insurance',31,bank,own,1,no,Good,no
+Missouri,8427.47,36,'existing paid',3913,94.68,2,Unknown,0,'real estate',23,none,own,1,no,Bad,no
+Missouri,-5135.08,24,'existing paid',3021,0,2,none,2,'real estate',24,none,rent,1,no,Good,no
+Missouri,0,10,'existing paid',1364,0,2,none,4,Other,64,Other,own,1,yes,Bad,yes
+Missouri,41.29,12,'existing paid',625,27.59,4,guarantor,1,'real estate',26,bank,own,1,yes,Bad,yes
+Mississippi,-2287.81,12,no credit history,1200,0,4,none,4,Other,23,bank,rent,0,yes,Good,yes
+Mississippi,0,12,'existing paid',707,0,4,none,2,'real estate',30,bank,own,2,yes,Good,yes
+North Carolina,0,24,'delayed previously',2978,0,4,none,4,'real estate',32,none,own,2,yes,Good,yes
+North Carolina,0,15,'existing paid',4657,0,3,none,2,car,30,Other,own,1,yes,Good,yes
+North Carolina,0,36,'no credits/all paid',2613,0,4,Unknown,2,car,27,none,own,0,no,Bad,no
+North Carolina,149.22,20,'existing paid',10961,2648.91,1,'co applicant',2,'no known property',27,bank,own,2,no,Bad,no
+North Carolina,-4808.4,12,'existing paid',7865,0,0,none,0,'no known property',53,none,Other,1,no,Good,no
+New Hampshire,0,9,'existing paid',1478,0,4,none,2,car,22,none,own,1,no,Bad,no
+New Jersey,0,24,'existing paid',3149,0,4,none,1,'no known property',22,bank,'for free',1,no,Bad,no
+New Jersey,7308.81,36,'existing paid',4210,7.28,4,none,2,car,26,Other,own,1,no,Good,no
+New Jersey,0,9,'existing paid',2507,0,2,Unknown,4,'no known property',51,none,'for free',0,no,Good,no
+New Jersey,0,12,no credit history,2141,0,3,none,1,'no known property',35,none,own,1,no,Bad,no
+New Jersey,154.16,18,no credit history,866,86.28,4,guarantor,2,'real estate',25,none,own,1,no,Good,no
+New Jersey,0,4,'critical/other existing credit',1544,0,2,none,1,'real estate',42,none,own,3,yes,Bad,yes
+New Jersey,-9256.59,24,'existing paid',1823,53.53,4,none,2,car,30,stores,Other,1,yes,Good,yes
+New Jersey,69.73,6,'existing paid',14555,0,1,none,2,'life insurance',23,none,own,1,no,Bad,no
+New Mexico,57.58,21,'existing paid',2767,0,4,none,2,car,61,bank,rent,0,no,Bad,no
+New Mexico,0,12,'critical/other existing credit',1291,0,4,none,2,'life insurance',31,none,own,2,yes,Good,yes
+New Mexico,-4641.13,30,'existing paid',2522,71.17,1,Unknown,3,'life insurance',39,none,own,1,no,Good,no
+Nevada,-4772.2,24,'existing paid',915,0,4,none,2,car,31,bank,own,0,no,Good,no
+California,0,20,no credit history,3234,0,0,Unknown,0,Other,31,Other,Other,0,Unknown,Good,Unknown
+New York,0,6,'existing paid',1595,0,3,none,2,Other,51,none,own,1,no,Bad,no
+New York,-6913.58,48,'no credits/all paid',4605,82.93,3,none,4,Other,24,none,'for free',2,yes,Good,yes
+New York,0,12,'critical/other existing credit',1185,0,3,none,2,Other,27,none,own,2,Unknown,Good,Unknown
+New York,0,12,'all paid',3447,0,4,none,3,'real estate',35,none,own,1,no,Bad,no
+New York,0,24,'existing paid',1258,0,4,none,1,'real estate',25,none,own,1,no,Bad,no
+Ohio,0,12,'critical/other existing credit',717,0,4,none,4,'real estate',52,none,Other,3,Unknown,Bad,Unknown
+Ohio,0,6,'no credits/all paid',1204,0,0,none,1,'no known property',35,bank,rent,1,no,Good,no
+Ohio,4844.17,24,'existing paid',1925,84.16,2,none,2,'real estate',26,none,own,1,yes,Good,yes
+Ohio,0,18,'existing paid',433,0,3,'co applicant',4,'real estate',22,none,rent,1,yes,Good,yes
+Ohio,-350.28,6,'critical/other existing credit',666,2438.92,3,none,0,'real estate',39,none,own,2,Unknown,Good,Unknown
+Ohio,2323.65,12,'existing paid',2251,9.33,1,none,2,car,46,none,own,0,no,Good,no
+Ohio,84.68,30,'existing paid',2150,47.59,4,guarantor,2,'no known property',24,bank,own,0,yes,Bad,yes
+Ohio,0,24,'delayed previously',4151,0,2,none,3,'life insurance',35,none,own,0,yes,Bad,yes
+Ohio,39.8,9,'existing paid',2030,0,2,Unknown,1,car,24,none,Other,1,no,Good,no
+Ohio,49.03,20,'delayed previously',7418,0,1,none,1,'real estate',27,none,own,1,yes,Bad,yes
+Oregon,0,24,'critical/other existing credit',2684,0,0,none,2,'real estate',35,none,own,2,no,Good,no
+Pennsylvania,-255.77,12,'all paid',2149,14.98,4,none,1,'no known property',29,none,'for free',1,yes,Bad,yes
+Pennsylvania,0,15,'existing paid',3812,0,1,Unknown,4,car,23,none,own,0,no,Good,no
+Pennsylvania,0,11,'critical/other existing credit',1154,0,0,none,4,'real estate',57,Other,own,3,no,Good,no
+Pennsylvania,-5536.22,12,no credit history,1657,45.58,2,none,2,'real estate',31,none,own,1,yes,Good,yes
+Rhodes Island,-1579.52,24,'existing paid',1603,74.65,4,none,0,car,55,none,own,1,yes,Bad,yes
+South Carolina,-1502.18,18,'critical/other existing credit',5302,83.75,2,none,4,'no known property',36,none,'for free',3,no,Good,no
+South Carolina,0,12,'critical/other existing credit',3234,0,2,none,4,'no known property',57,bank,'for free',3,yes,Good,yes
+South Carolina,0,10,'critical/other existing credit',1231,0,3,none,0,'real estate',32,none,own,2,no,Bad,no
+South Carolina,135.62,15,'existing paid',802,73.76,4,none,3,Other,37,none,own,1,no,Good,no
+South Carolina,0,36,'critical/other existing credit',6304,0,4,none,4,'real estate',36,none,own,2,no,Good,no
+South Carolina,0,24,'existing paid',1533,0,4,none,3,car,38,stores,own,1,yes,Good,yes
+South Carolina,-517.47,14,'existing paid',8978,85.21,1,none,4,'life insurance',45,none,own,1,no,Bad,no
+South Dakota,0,24,'existing paid',999,0,0,none,2,car,31,none,own,2,yes,Good,yes
+South Dakota,0,18,'existing paid',2662,0,4,none,0,'life insurance',32,none,Other,1,yes,Bad,yes
+South Dakota,0,12,'critical/other existing credit',3234,0,3,none,4,car,37,none,rent,1,no,Bad,no
+Tennessee,171.45,48,'all paid',12169,0,4,'co applicant',4,'no known property',36,none,'for free',1,no,Good,no
+Tennessee,187.45,48,'existing paid',3060,67.23,0,none,4,'real estate',28,none,Other,0,yes,Good,yes
+Tennessee,-5525.31,30,no credit history,11998,38.84,0,none,0,Other,34,none,own,1,no,Good,no
+Tennessee,0,9,'existing paid',3234,0,0,none,2,'real estate',32,none,own,1,yes,Good,yes
+Texas,0,18,'critical/other existing credit',3234,0,0,none,2,car,26,none,own,2,no,Good,no
+Texas,-6825.17,12,no credit history,1262,0,2,Unknown,4,'life insurance',49,none,own,1,no,Good,no
+Texas,0,6,'existing paid',4611,0,1,Unknown,0,'life insurance',32,none,own,1,no,Good,no
+Texas,0,24,no credit history,1901,0,4,Unknown,4,car,29,none,rent,1,no,Bad,no
+Texas,0,15,'critical/other existing credit',3234,0,3,none,4,'no known property',23,none,rent,2,yes,Good,yes
+Texas,0,12,'existing paid',1574,0,4,none,2,'real estate',50,none,own,1,no,Bad,no
+Texas,0,18,'all paid',1445,0,4,none,4,car,31,Other,own,1,no,Good,no
+Texas,0,15,'critical/other existing credit',1520,0,4,none,4,'life insurance',63,none,own,1,no,Good,no
+Texas,19.48,24,no credit history,3878,384.02,4,none,2,car,31,Other,Other,1,yes,Good,yes
+Texas,-5888.3,20,'existing paid',3234,58.62,1,Unknown,1,'real estate',35,none,own,1,no,Good,no
+Texas,-7579.53,48,'existing paid',3234,24.62,4,none,3,'life insurance',26,none,own,1,yes,Bad,yes
+Texas,130.14,48,'delayed previously',3234,376.5,2,none,0,'no known property',31,none,'for free',1,no,Good,no
+Texas,169.03,12,'existing paid',1092,26.55,4,Unknown,4,'real estate',31,none,own,2,no,Good,no
+Texas,-7872.78,24,no credit history,1024,0,4,none,4,'real estate',48,stores,own,1,Unknown,Bad,Unknown
+Texas,0,12,'existing paid',1076,0,2,none,2,'real estate',26,Other,own,1,no,Bad,no
+Texas,155.74,36,'existing paid',9398,93.87,1,none,4,car,28,none,rent,1,yes,Good,yes
+Utah,-9594.86,24,'critical/other existing credit',6419,16.26,2,none,4,'no known property',44,none,'for free',2,no,Bad,no
+Virginia,7720.46,20,'critical/other existing credit',3234,40.81,4,none,4,'no known property',56,none,'for free',1,no,Good,no
+Virginia,0,48,'critical/other existing credit',7629,0,4,none,2,car,46,bank,own,2,no,Bad,no
+Virginia,61.96,48,'existing paid',9960,64.33,1,none,2,car,26,none,own,1,yes,Good,yes
+Virginia,0,12,'existing paid',4675,0,1,none,4,car,20,none,rent,1,no,Bad,no
+Virginia,0,10,'existing paid',1287,0,4,'co applicant',2,'life insurance',45,none,Other,1,yes,Good,yes
+Virginia,0,18,no credit history,2515,0,3,none,4,'real estate',43,none,own,0,yes,Bad,yes
+Virginia,0.31,21,'critical/other existing credit',2745,1787.08,3,none,2,car,32,none,own,2,Unknown,Good,Unknown
+Washington,0,6,'existing paid',672,0,1,none,4,'real estate',54,none,own,1,no,Good,no
+Washington,192.02,36,no credit history,3804,0,4,none,1,car,42,none,own,1,yes,Good,yes
+Washington,5659.69,20,'critical/other existing credit',1344,0,4,none,0,'real estate',37,bank,own,2,no,Good,no
+Wisconsin,-8464.44,10,'critical/other existing credit',1038,38.82,4,'co applicant',0,Other,49,none,Other,2,yes,Bad,yes
+Alaska,0,48,'critical/other existing credit',3234,0,2,none,2,'no known property',44,bank,Other,1,yes,Bad,yes
+Arizona,0,6,no credit history,1543,0,4,none,2,'real estate',33,none,own,1,yes,Good,yes
+Arizona,0,20,'existing paid',4811,0,2,none,0,'life insurance',24,stores,rent,1,no,Good,no
+Arizona,-8135.03,12,'existing paid',727,473.67,4,none,3,'no known property',33,none,own,1,yes,Bad,yes
+California,0,8,no credit history,1237,0,3,none,4,'real estate',24,none,own,1,no,Bad,no
+California,0,9,'existing paid',276,0,4,none,4,'real estate',31,none,rent,0,no,Bad,no
+California,192.16,48,no credit history,5381,0,3,none,4,'no known property',40,bank,'for free',1,no,Good,no
+California,0,24,'existing paid',5511,0,4,none,1,car,25,stores,Other,1,no,Good,no
+California,797.21,24,no credit history,3234,98.87,2,none,4,car,26,none,own,1,yes,Bad,yes
+California,137.41,12,'existing paid',685,38.95,2,none,3,car,25,bank,own,1,yes,Good,yes
+California,4365.37,4,'existing paid',1494,0,1,none,0,Other,29,none,own,1,yes,Good,yes
+California,-5992.61,36,'all paid',2746,27.23,4,Unknown,4,car,31,bank,own,1,no,Good,no
+California,-3145.9,12,'existing paid',708,0,2,guarantor,3,'life insurance',38,Other,own,1,no,Good,no
+California,77.88,24,'existing paid',3234,0,1,none,4,'life insurance',48,none,own,1,Unknown,Good,Unknown
+California,0,12,no credit history,701,0,4,none,2,car,32,none,own,2,yes,Bad,yes
+Colorado,-3417.74,15,'delayed previously',3643,16.7,1,none,0,'life insurance',27,none,own,2,yes,Bad,yes
+Colorado,122,30,'critical/other existing credit',4249,90.83,4,none,2,car,28,none,Other,2,yes,Good,yes
+Connecticut,-4562.14,24,'existing paid',1938,17.04,4,none,3,'life insurance',32,none,Other,1,yes,Bad,yes
+District of Columbia,-3923.01,24,'existing paid',2910,74.32,2,Unknown,1,'no known property',34,none,'for free',1,no,Good,no
+Georgia,-7400.92,18,no credit history,2659,5806.39,4,none,2,car,28,none,Other,1,yes,Good,yes
+Georgia,0,18,'critical/other existing credit',1028,0,4,Unknown,3,'real estate',36,none,own,2,no,Bad,no
+Georgia,-3324.64,8,'critical/other existing credit',3398,61.33,1,none,4,'real estate',39,none,own,2,no,Bad,no
+Georgia,0,12,'critical/other existing credit',3234,0,2,none,4,'life insurance',49,none,rent,1,no,Bad,no
+Georgia,0,24,'existing paid',1525,0,4,Unknown,3,car,34,none,own,1,yes,Good,yes
+Illinois,6300.38,36,'existing paid',4473,46.6,4,none,2,car,31,none,own,1,yes,Good,yes
+Indiana,0,20,no credit history,3234,0,0,Unknown,0,Other,31,Other,Other,0,Unknown,Good,Unknown
+Kentucky,94.48,6,'existing paid',1068,73.19,4,none,4,car,28,none,own,1,yes,Good,yes
+Louisiana,-8908.55,24,'critical/other existing credit',6615,58.88,2,none,4,'no known property',75,none,Other,2,no,Bad,no
+Louisiana,0,18,'critical/other existing credit',1864,0,4,none,2,'real estate',30,none,own,2,yes,Good,yes
+Louisiana,106.45,60,'existing paid',7408,479.08,4,none,2,Other,24,none,own,1,no,Good,no
+Louisiana,0,48,'critical/other existing credit',11590,0,2,none,4,car,24,bank,rent,0,yes,Good,yes
+Massachusetts,-596.17,24,'no credits/all paid',4110,95.01,3,none,0,'no known property',31,bank,Other,2,no,Bad,no
+Maryland,-1018.74,6,'critical/other existing credit',3384,98.78,1,none,4,'real estate',44,none,rent,1,yes,Bad,yes
+Maryland,145.59,13,'existing paid',2101,66.57,2,guarantor,4,'life insurance',23,none,own,1,yes,Good,yes
+Michigan,-6090.13,15,'existing paid',3234,0,4,none,2,car,24,Other,rent,1,no,Bad,no
+Michigan,-5498.76,24,'existing paid',4169,68.48,4,Unknown,0,'life insurance',28,Other,own,1,no,Good,no
+Missouri,103.39,10,'existing paid',3234,93.87,4,none,2,car,31,Other,own,1,yes,Good,yes
+Missouri,163.9,24,'critical/other existing credit',5743,45.64,2,none,4,'no known property',31,none,'for free',2,yes,Bad,yes
+Missouri,-6405.45,21,'existing paid',3234,59.79,1,none,4,car,31,none,rent,1,no,Good,no
+Mississippi,193.31,18,'existing paid',3213,0,1,none,3,'real estate',25,none,rent,1,no,Good,no
+Mississippi,116.75,18,'existing paid',4439,65.84,1,'co applicant',1,'real estate',33,bank,own,1,yes,Good,yes
+North Carolina,2557.93,10,'existing paid',3949,0.75,1,Unknown,0,'life insurance',37,none,own,1,no,Good,no
+North Carolina,0,15,'critical/other existing credit',1459,0,4,none,2,car,43,none,own,1,yes,Good,yes
+North Carolina,134.6,20,'critical/other existing credit',882,0,4,Unknown,4,'real estate',23,none,own,2,yes,Bad,yes
+New Hampshire,155.32,24,'existing paid',3758,623.93,1,none,0,'no known property',23,none,rent,1,no,Bad,no
+New Jersey,0,6,'delayed previously',1743,0,0,none,2,'real estate',34,none,Other,2,yes,Good,yes
+New Jersey,68.16,9,'critical/other existing credit',1136,0,4,none,3,Other,32,none,'for free',0,no,Good,no
+New Jersey,0,9,'existing paid',1236,0,1,none,4,'real estate',23,none,rent,1,yes,Bad,yes
+New Jersey,9.39,9,'existing paid',3234,83.12,1,none,0,Other,29,none,own,1,yes,Bad,yes
+New Jersey,0,18,'critical/other existing credit',3229,0,2,none,0,'no known property',38,none,Other,1,yes,Good,yes
+New Mexico,-5039.28,12,'no credits/all paid',3234,84.14,4,none,2,Other,28,none,rent,0,no,Good,no
+Nevada,0,10,'existing paid',727,0,4,none,4,'no known property',31,none,'for free',1,yes,Good,yes
+Nevada,0,24,'existing paid',1246,0,4,none,2,'real estate',23,stores,own,1,yes,Good,yes
+New York,0,12,'critical/other existing credit',2331,0,1,Unknown,4,'real estate',49,none,own,1,no,Good,no
+New York,0,36,'delayed previously',3234,0,4,none,2,Other,31,none,own,2,no,Good,no
+New York,0,12,'existing paid',776,0,4,none,2,'real estate',28,none,Other,1,no,Bad,no
+New York,-4887.82,30,'existing paid',2406,32.57,4,none,4,'real estate',23,none,Other,1,no,Good,no
+New York,85.71,18,'existing paid',1239,0,4,none,4,'no known property',61,Other,Other,1,no,Bad,no
+New York,0,12,'existing paid',3399,0,2,none,3,Other,37,none,own,1,Unknown,Good,Unknown
+Ohio,9712.82,12,no credit history,2247,5.02,2,none,2,car,36,stores,own,2,no,Bad,no
+Ohio,0,6,'existing paid',1766,0,0,Unknown,2,'life insurance',21,none,rent,0,yes,Good,yes
+Ohio,-3712.31,18,'existing paid',2473,0,4,none,0,car,25,none,Other,1,yes,Good,yes
+Ohio,0,12,no credit history,1542,0,2,none,4,car,36,Other,own,1,no,Good,no
+Ohio,0,18,'critical/other existing credit',3850,0,3,none,1,Other,27,none,own,2,Unknown,Good,Unknown
+Ohio,0,18,'existing paid',3650,0,1,none,4,car,31,none,rent,1,no,Good,no
+Pennsylvania,-1319.16,36,'existing paid',3446,35.38,4,Unknown,2,car,31,none,own,0,yes,Good,yes
+Pennsylvania,94.62,18,'existing paid',3001,0,0,Unknown,4,'real estate',40,none,rent,1,no,Bad,no
+South Carolina,0,36,'existing paid',3079,0,4,none,4,'real estate',36,none,own,1,yes,Good,yes
+South Carolina,0,18,'critical/other existing credit',6070,0,3,none,4,car,33,none,own,2,no,Bad,no
+South Carolina,0,10,'critical/other existing credit',2146,0,0,none,3,'real estate',23,Other,rent,2,no,Good,no
+South Carolina,0,60,'critical/other existing credit',13756,0,2,none,4,'no known property',63,bank,'for free',1,Unknown,Good,Unknown
+South Carolina,17.17,60,'all paid',14782,179.18,3,none,0,'no known property',60,bank,'for free',0,yes,Good,yes
+Tennessee,-1282.34,48,'all paid',7685,17.26,2,guarantor,4,car,37,none,rent,1,no,Bad,no
+Tennessee,0,18,'delayed previously',3234,0,2,Unknown,3,'real estate',34,none,own,0,Unknown,Bad,Unknown
+Texas,0,7,'delayed previously',3234,0,3,none,4,'no known property',36,none,'for free',1,Unknown,Bad,Unknown
+Texas,40.41,36,'existing paid',14318,19.21,0,none,0,'no known property',57,Other,'for free',1,yes,Bad,yes
+Texas,0,6,'critical/other existing credit',362,0,4,none,4,car,31,none,own,2,yes,Good,yes
+Texas,-4951.09,20,'existing paid',2212,0,4,none,0,car,39,none,own,1,no,Good,no
+Texas,16.25,18,'existing paid',12976,15.8,0,Unknown,4,Other,38,none,'for free',1,no,Bad,no
+Texas,0,22,'existing paid',1283,0,4,none,4,'life insurance',25,none,rent,1,Unknown,Bad,Unknown
+Texas,6548.27,12,'existing paid',1330,41.97,4,none,1,'real estate',26,none,own,1,no,Good,no
+Texas,0,30,'delayed previously',4272,0,2,Unknown,2,'life insurance',26,none,own,2,no,Good,no
+Virginia,0,18,'critical/other existing credit',2238,0,2,none,1,car,25,Other,own,2,Unknown,Good,Unknown
+Virginia,0,18,'existing paid',1126,0,4,none,2,'real estate',21,none,rent,1,no,Bad,no
+Virginia,5.42,18,'critical/other existing credit',3234,35.21,4,none,4,Other,40,stores,own,0,yes,Bad,yes
+Wisconsin,7.52,15,'critical/other existing credit',2326,0,2,none,4,car,27,bank,own,1,yes,Bad,yes
+Arizona,0,9,'existing paid',1449,0,3,none,2,car,27,none,own,2,no,Good,no
+California,0,18,'existing paid',1820,0,2,none,0,Other,30,none,own,1,no,Good,no
+California,94.64,12,'existing paid',983,7709.45,1,none,4,'real estate',19,none,rent,1,yes,Bad,yes
+California,-4316.81,36,'existing paid',3249,58.43,2,none,4,'no known property',39,bank,'for free',1,yes,Good,yes
+California,-9454.08,6,'critical/other existing credit',1957,33.62,1,none,4,car,31,Other,own,1,yes,Bad,yes
+California,0,9,'critical/other existing credit',2406,0,2,none,3,car,31,none,own,0,Unknown,Good,Unknown
+California,83.64,39,'delayed previously',11760,450.89,2,none,3,'no known property',32,none,rent,1,yes,Good,yes
+California,-6338.95,12,'existing paid',2578,83.42,3,none,4,'no known property',55,none,'for free',1,yes,Good,yes
+California,-6143.29,36,'critical/other existing credit',2348,28.22,3,Unknown,0,'life insurance',46,none,own,2,no,Good,no
+California,115.65,12,'existing paid',1223,29.79,1,none,1,'real estate',46,Other,rent,2,yes,Bad,yes
+District of Columbia,0,20,'critical/other existing credit',1516,0,0,none,1,'real estate',43,none,own,2,no,Good,no
+Georgia,0,18,'existing paid',1473,0,3,Unknown,4,'real estate',39,none,own,1,yes,Good,yes
+Georgia,22.83,18,'critical/other existing credit',3234,0,0,none,4,'real estate',28,Other,own,2,no,Good,no
+Georgia,0,20,'delayed previously',8648,0,2,none,0,car,31,Other,Other,2,no,Good,no
+Georgia,0,14,'delayed previously',802,0,4,none,2,car,27,none,own,2,yes,Good,yes
+Georgia,195.71,18,'delayed previously',2899,0,4,none,4,car,43,none,own,1,yes,Good,yes
+Illinois,195.91,24,no credit history,2039,0,1,none,1,'life insurance',22,none,own,1,no,Good,no
+Indiana,0,20,'critical/other existing credit',2197,0,4,none,4,car,43,Other,own,2,no,Bad,no
+Kentucky,-2070.55,15,'existing paid',3234,76.64,4,none,0,'real estate',27,Other,own,1,no,Good,no
+Louisiana,0,24,'existing paid',3235,0,3,none,2,car,26,none,own,1,no,Bad,no
+Louisiana,5427.63,12,'critical/other existing credit',939,671.95,4,none,2,Other,28,none,own,3,yes,Bad,yes
+Massachusetts,192.07,24,'existing paid',1967,37.69,4,none,4,Other,20,Other,own,1,yes,Good,yes
+Maryland,0,33,'critical/other existing credit',7253,0,3,none,2,car,31,Other,own,2,no,Bad,no
+Michigan,0,12,'critical/other existing credit',2292,0,4,none,2,car,42,stores,own,2,no,Bad,no
+Missouri,0,20,'existing paid',1597,0,3,none,2,'no known property',40,none,Other,1,yes,Bad,yes
+Missouri,-5613.36,24,no credit history,1381,0,4,Unknown,2,'life insurance',35,none,own,1,no,Good,no
+Mississippi,0,36,'critical/other existing credit',3234,0,2,none,2,'life insurance',35,none,own,2,no,Bad,no
+North Carolina,-1850.94,12,'existing paid',2579,37.56,4,none,1,'real estate',33,Other,own,1,no,Bad,no
+New Jersey,-4803.59,18,'delayed previously',8471,0,1,Unknown,2,car,23,none,rent,2,yes,Bad,yes
+New Jersey,0,21,'existing paid',2782,0,1,none,2,car,31,bank,own,1,no,Good,no
+New Jersey,75.95,18,'existing paid',1042,0,4,none,0,'life insurance',33,Other,own,1,no,Good,no
+New Jersey,0,15,'existing paid',3186,0,2,none,3,car,20,none,rent,1,Unknown,Good,Unknown
+Nevada,141.44,12,'existing paid',2028,0,4,none,2,car,31,Other,own,1,yes,Good,yes
+New York,24.74,12,'critical/other existing credit',3234,7.07,2,none,3,'real estate',47,none,own,2,no,Good,no
+New York,0,20,'delayed previously',1591,0,4,none,3,'real estate',34,none,own,2,no,Good,no
+Ohio,30,12,'existing paid',2762,0,1,none,2,'life insurance',25,bank,own,1,yes,Bad,yes
+Ohio,183.33,18,'existing paid',2779,87.39,1,none,3,car,21,Other,rent,1,Unknown,Good,Unknown
+Oregon,0,28,'critical/other existing credit',2743,0,4,none,2,car,29,none,Other,2,yes,Good,yes
+Pennsylvania,0,18,no credit history,1149,0,4,none,3,'real estate',46,Other,own,2,no,Bad,no
+Pennsylvania,0,9,'existing paid',1313,0,1,none,4,car,20,none,own,1,yes,Bad,yes
+South Carolina,-3788.1,18,'critical/other existing credit',1190,13.37,2,none,4,Other,55,none,'for free',3,Unknown,Good,Unknown
+South Carolina,0,5,'existing paid',3234,0,1,none,0,'real estate',74,none,own,1,no,Bad,no
+Tennessee,168.65,24,'existing paid',11328,56.29,2,'co applicant',3,car,29,bank,own,2,no,Good,no
+Tennessee,-2941.81,6,'critical/other existing credit',1872,47.8,4,none,4,'no known property',36,none,'for free',3,no,Good,no
+Texas,0,24,'critical/other existing credit',2058,0,4,Unknown,2,'real estate',33,none,own,2,no,Good,no
+Texas,-9463.67,9,'existing paid',2136,0,3,Unknown,2,'real estate',25,none,own,1,no,Good,no
+Texas,1.11,12,'existing paid',1484,0,2,Unknown,1,'real estate',25,none,own,1,no,Bad,no
+Texas,0,6,'existing paid',660,0,2,none,4,'real estate',23,none,rent,1,yes,Bad,yes
+Texas,0,24,'critical/other existing credit',1287,0,4,none,4,'real estate',37,none,own,2,no,Good,no
+Virginia,-862.49,42,'critical/other existing credit',3394,96.37,4,'co applicant',4,car,65,none,own,2,yes,Bad,yes
+Virginia,8529.36,12,'all paid',609,65.35,4,none,0,'real estate',26,none,own,1,yes,Bad,yes
+Wisconsin,0,12,'existing paid',1884,0,4,none,4,car,39,none,own,1,Unknown,Good,Unknown
+Arizona,-3497.13,12,'existing paid',3234,62.94,2,'co applicant',3,Other,30,none,own,1,yes,Bad,yes
+California,105.82,20,'delayed previously',2629,51.43,2,none,3,car,29,bank,own,2,no,Good,no
+California,0,12,'existing paid',719,0,4,none,4,car,41,bank,own,1,no,Bad,no
+California,197.33,48,'critical/other existing credit',5096,66.53,2,none,3,car,30,none,own,1,yes,Bad,yes
+California,0,9,'critical/other existing credit',1244,0,4,none,4,'life insurance',31,none,rent,2,no,Good,no
+California,-616.99,36,'existing paid',1842,39.36,4,none,4,car,34,none,own,1,yes,Good,yes
+California,44.66,7,'existing paid',2576,70,2,guarantor,2,'real estate',35,none,own,1,no,Bad,no
+District of Columbia,4343.18,12,'existing paid',1424,0,3,none,4,'real estate',31,none,own,1,yes,Good,yes
+Georgia,61.71,20,'delayed previously',1512,5269.98,3,none,3,'life insurance',61,stores,Other,2,no,Good,no
+Georgia,0,36,'critical/other existing credit',11054,0,0,none,2,car,30,Other,own,1,yes,Bad,yes
+Georgia,0,20,'existing paid',518,0,3,none,1,'real estate',29,none,own,1,yes,Good,yes
+Illinois,0,12,'no credits/all paid',2759,0,2,none,4,'life insurance',34,none,own,2,yes,Good,yes
+Indiana,0,24,'existing paid',2670,0,4,none,4,car,35,Other,Other,1,no,Good,no
+Louisiana,-8908.17,24,'existing paid',4817,50.51,2,'co applicant',3,'life insurance',31,none,own,1,no,Good,no
+Maryland,0,24,no credit history,2679,0,4,none,1,'no known property',29,none,own,1,yes,Bad,yes
+Michigan,-6832.38,11,'critical/other existing credit',3234,0,2,none,2,'real estate',31,none,rent,2,yes,Bad,yes
+Missouri,-6919.2,12,'existing paid',3386,33.9,0,none,4,'no known property',35,none,'for free',1,no,Bad,no
+Missouri,-4746.34,6,'existing paid',343,39.12,0,none,1,'real estate',27,none,own,1,yes,Good,yes
+Mississippi,0,18,'existing paid',4594,0,3,none,2,car,32,none,own,1,yes,Bad,yes
+North Carolina,-2858.08,36,'existing paid',3620,9.41,1,guarantor,2,'life insurance',37,none,own,1,yes,Bad,yes
+New Jersey,-8901.73,15,'existing paid',3234,0,2,none,3,'real estate',36,none,own,0,yes,Good,yes
+New Jersey,113.17,12,'existing paid',3017,0,3,none,1,'real estate',34,none,rent,1,yes,Good,yes
+Nevada,195.88,12,'existing paid',3234,0,4,none,4,'life insurance',38,none,own,2,yes,Good,yes
+New York,0,18,'existing paid',1950,0,4,none,1,car,34,stores,own,2,no,Good,no
+New York,-3581.55,24,'existing paid',2924,25.66,3,Unknown,4,'no known property',63,bank,Other,0,no,Bad,no
+Oregon,-2336.07,24,'delayed previously',1659,92.06,4,none,2,car,29,none,rent,1,no,Bad,no
+Pennsylvania,0,48,'delayed previously',7238,0,3,none,3,car,32,Other,own,2,yes,Good,yes
+Tennessee,0,20,no credit history,2764,0,2,none,2,car,26,none,own,0,Unknown,Good,Unknown
+Tennessee,0,24,no credit history,4679,0,0,none,3,car,35,none,own,2,yes,Good,yes
+Texas,46.31,24,'existing paid',3234,324.97,3,none,2,car,22,none,rent,1,yes,Good,yes
+Texas,-9963.11,20,'existing paid',448,37.26,4,none,4,'life insurance',23,Other,own,1,no,Good,no
+Texas,0,20,'existing paid',654,0,4,Unknown,3,car,28,none,own,1,no,Good,no
+Texas,0,6,'existing paid',1238,0,4,none,0,'life insurance',36,none,own,1,no,Bad,no
+Wisconsin,0,18,'critical/other existing credit',1245,0,4,none,0,car,33,none,Other,1,no,Good,no
+Arizona,-4938.47,18,'no credits/all paid',3114,28.84,1,Unknown,4,'life insurance',26,none,Other,1,Unknown,Bad,Unknown
+California,0,39,'existing paid',2569,0,4,none,4,car,31,none,own,1,yes,Good,yes
+California,1525.11,24,'existing paid',5152,12.95,4,none,0,car,25,bank,own,1,Unknown,Bad,Unknown
+California,137.94,12,'existing paid',1037,446.02,3,none,4,'real estate',31,none,own,1,yes,Good,yes
+California,-1277.22,15,'critical/other existing credit',1478,0,4,Unknown,4,car,31,none,own,2,yes,Bad,yes
+California,28.6,12,no credit history,3573,0,1,none,0,'real estate',23,none,own,1,yes,Bad,yes
+Georgia,35.33,24,'existing paid',1201,98.3,4,none,1,'life insurance',26,none,Other,1,yes,Bad,yes
+Illinois,-429.47,30,'existing paid',3622,3227.17,4,Unknown,4,Other,57,none,rent,2,no,Good,no
+Indiana,0,15,'delayed previously',960,0,3,none,2,'life insurance',30,none,own,2,yes,Bad,yes
+Louisiana,0,12,'critical/other existing credit',1163,0,4,Unknown,4,'real estate',44,none,own,1,Unknown,Good,Unknown
+Maryland,6.78,6,no credit history,1209,78.37,4,none,4,'life insurance',47,none,own,1,no,Good,no
+Michigan,0,12,'existing paid',3077,0,2,none,4,car,52,none,own,1,yes,Good,yes
+Missouri,0,20,no credit history,3757,0,4,'co applicant',0,'no known property',62,none,'for free',1,no,Good,no
+New Jersey,0,10,'existing paid',1418,0,3,none,0,'real estate',35,none,rent,1,yes,Bad,yes
+New Jersey,0,6,'existing paid',3518,0,2,guarantor,3,'life insurance',26,none,rent,1,no,Bad,no
+Nevada,0,12,'critical/other existing credit',1934,0,2,none,2,'no known property',31,none,own,2,yes,Good,yes
+New York,156.83,20,no credit history,8318,84.15,2,none,4,'no known property',31,none,'for free',2,no,Bad,no
+Pennsylvania,0,6,'critical/other existing credit',1237,0,1,none,1,'life insurance',27,none,own,2,no,Good,no
+Tennessee,19.96,6,'existing paid',368,0,4,none,4,'life insurance',38,none,own,1,yes,Good,yes
+Texas,-9227.53,12,'critical/other existing credit',2122,55.13,3,none,2,'real estate',31,none,rent,2,no,Good,no
+Texas,-7638.04,24,'existing paid',2996,0,2,Unknown,4,car,20,none,own,1,no,Bad,no
+Texas,180.86,20,'existing paid',9034,242.99,4,'co applicant',1,'no known property',29,none,rent,1,yes,Bad,yes
+Texas,0,24,'critical/other existing credit',1585,0,4,none,0,'life insurance',40,none,own,2,no,Good,no
+Arizona,85.67,18,'existing paid',3234,14.86,4,guarantor,2,'real estate',32,Other,own,1,Unknown,Bad,Unknown
+California,3311.7,6,'critical/other existing credit',1323,442.18,2,none,4,car,28,Other,own,2,Unknown,Good,Unknown
+California,-5229.05,24,no credit history,3123,17.05,4,none,1,'life insurance',27,none,own,1,yes,Good,yes
+California,-5239,36,'existing paid',5493,0,2,none,4,'no known property',42,none,'for free',0,no,Good,no
+Georgia,6307.46,9,no credit history,3234,238.87,0,none,4,Other,49,none,own,1,no,Bad,no
+Illinois,58.57,24,'critical/other existing credit',1216,354.18,4,none,4,'no known property',38,bank,own,2,no,Bad,no
+Indiana,-7648.53,24,'existing paid',1207,35.15,4,none,4,'life insurance',24,none,rent,0,yes,Good,yes
+Louisiana,0,10,'existing paid',1309,0,4,guarantor,4,'life insurance',27,none,own,1,no,Good,no
+Michigan,6026.68,15,'critical/other existing credit',2360,651.95,2,none,2,car,36,none,own,1,no,Good,no
+Missouri,131.74,15,'all paid',3234,207.23,1,none,2,'life insurance',34,Other,own,1,no,Bad,no
+New Jersey,0,24,'existing paid',3234,0,4,none,2,'life insurance',28,Other,Other,1,no,Bad,no
+New Jersey,0,39,'existing paid',8588,0,4,none,2,car,45,none,own,1,no,Good,no
+Nevada,-113.48,12,'existing paid',759,0,4,none,2,'real estate',26,none,own,1,yes,Bad,yes
+New York,0,36,'existing paid',4686,0,2,none,2,'no known property',31,none,'for free',0,no,Bad,no
+Pennsylvania,7770.45,15,'existing paid',2687,49.54,2,none,4,'life insurance',26,Other,rent,1,yes,Bad,yes
+Tennessee,139.31,12,'delayed previously',585,55.52,4,'co applicant',4,'real estate',20,none,rent,2,yes,Good,yes
+Texas,0,24,'existing paid',3234,0,4,none,1,'life insurance',54,none,own,1,yes,Good,yes
+Texas,-1828.56,6,'critical/other existing credit',609,0,4,none,3,'life insurance',37,none,own,2,no,Bad,no
+Texas,-8733.45,6,'critical/other existing credit',1361,36.33,2,none,4,'real estate',40,none,Other,1,Unknown,Good,Unknown
+Arizona,0,36,'critical/other existing credit',7127,0,2,none,4,'life insurance',23,Other,rent,2,no,Bad,no
+California,-2118.37,6,'existing paid',1203,432.97,3,none,2,'life insurance',43,none,own,1,no,Good,no
+California,0,6,'critical/other existing credit',700,0,4,none,4,'no known property',36,none,'for free',2,Unknown,Good,Unknown
+California,0,24,'critical/other existing credit',3234,0,3,Unknown,4,'no known property',44,none,'for free',2,yes,Good,yes
+Georgia,-8455.84,20,'existing paid',3190,45.05,2,none,2,'real estate',24,none,own,1,yes,Bad,yes
+Illinois,-8255.57,48,'no credits/all paid',7119,97.02,3,none,4,'no known property',31,none,'for free',0,yes,Good,yes
+Indiana,0,24,'existing paid',3488,0,3,none,4,car,31,none,own,1,no,Bad,no
+Louisiana,1.57,20,'existing paid',1113,47.41,4,guarantor,4,'real estate',26,none,own,1,yes,Bad,yes
+Maryland,190.77,26,'existing paid',7966,6.71,2,none,3,Other,30,none,own,2,Unknown,Good,Unknown
+Michigan,0,15,'critical/other existing credit',1532,0,4,none,3,car,31,Other,own,1,yes,Bad,yes
+Missouri,0,4,'critical/other existing credit',1503,0,2,none,0,'real estate',42,none,own,2,no,Good,no
+New Jersey,-9898.01,36,'existing paid',2302,10.58,4,none,4,car,31,none,rent,1,no,Bad,no
+Nevada,-1149.77,6,'existing paid',662,32.76,3,none,4,'real estate',41,none,own,1,yes,Good,yes
+New York,17.19,36,'existing paid',2273,6.47,3,none,1,Other,32,none,own,2,no,Good,no
+Pennsylvania,97.6,15,'existing paid',2631,183.61,2,none,0,car,28,none,rent,2,yes,Bad,yes
+Tennessee,0,12,'delayed previously',1503,0,4,none,4,'real estate',41,none,rent,1,yes,Good,yes
+Texas,0,24,'existing paid',1311,0,4,none,3,'life insurance',26,none,own,1,Unknown,Good,Unknown
+Texas,0,24,'existing paid',3105,0,4,none,2,car,25,none,own,2,no,Bad,no
+Texas,6101.43,21,'critical/other existing credit',2319,1.47,2,none,1,Other,33,none,rent,1,no,Bad,no
+Texas,-114.64,6,'existing paid',1374,0,0,none,0,'life insurance',75,Other,own,1,no,Bad,no
+California,125.78,18,'critical/other existing credit',3612,28.3,3,none,4,'life insurance',31,none,Other,1,yes,Good,yes
+California,-8788.57,48,no credit history,7763,30.91,4,none,4,'no known property',42,bank,'for free',1,Unknown,Bad,Unknown
+Georgia,2754.09,18,'existing paid',3049,30.99,1,none,1,'life insurance',45,stores,own,1,yes,Bad,yes
+Illinois,137.2,12,'existing paid',1534,4.99,1,none,1,'real estate',23,none,rent,0,no,Good,no
+Indiana,0,24,'delayed previously',2032,0,4,none,4,'no known property',60,none,'for free',2,no,Good,no
+Louisiana,-4007.13,30,'existing paid',6350,0,4,none,4,'life insurance',31,none,own,1,no,Good,no
+Maryland,9351.05,18,'existing paid',2864,18.37,2,none,1,Other,34,none,own,1,no,Bad,no
+Michigan,0,12,'critical/other existing credit',1255,0,4,none,4,'real estate',61,none,own,2,no,Bad,no
+Missouri,-643.65,24,'delayed previously',1333,27.22,4,none,2,'real estate',43,none,'for free',2,yes,Good,yes
+New Jersey,0,20,'critical/other existing credit',2022,0,4,none,4,car,37,none,own,1,Unknown,Bad,Unknown
+Nevada,0,24,'existing paid',1552,0,0,Unknown,1,car,32,bank,own,1,no,Bad,no
+New York,0,12,'all paid',626,0,4,none,0,'real estate',24,bank,own,1,yes,Bad,yes
+Pennsylvania,0,48,'critical/other existing credit',8858,0,2,none,1,'no known property',35,none,'for free',2,no,Good,no
+Texas,0,12,'critical/other existing credit',996,0,4,none,4,'real estate',23,none,Other,2,no,Good,no
+Texas,0,6,'all paid',1750,0,2,none,4,'life insurance',45,bank,own,1,Unknown,Good,Unknown
+Texas,-8206.97,48,'existing paid',3234,36.37,1,guarantor,1,'real estate',31,none,own,2,yes,Bad,yes
+California,187.52,12,'critical/other existing credit',1995,214.45,4,none,1,car,27,Other,own,1,Unknown,Good,Unknown
+California,104.1,9,'existing paid',1199,90.98,4,none,4,'life insurance',67,none,own,2,yes,Bad,yes
+Illinois,32.01,12,no credit history,1331,3.87,2,none,1,car,22,stores,own,1,yes,Bad,yes
+Indiana,4.96,18,'no credits/all paid',2278,245.49,3,none,3,car,28,none,own,2,yes,Good,yes
+Louisiana,0,21,'no credits/all paid',3234,0,1,none,4,'life insurance',29,bank,own,2,no,Good,no
+Maryland,-7703.31,24,'all paid',3552,34.27,3,none,4,Other,27,bank,own,1,yes,Good,yes
+Michigan,150.22,18,'critical/other existing credit',1928,98.59,0,none,0,'real estate',31,none,own,2,no,Good,no
+Missouri,-6115.25,24,no credit history,2964,0,4,none,0,'no known property',49,bank,'for free',1,yes,Good,yes
+New Jersey,-565.62,24,no credit history,1546,34.47,4,guarantor,4,car,24,bank,rent,1,yes,Good,yes
+Nevada,2165.21,6,'delayed previously',683,76.88,2,none,1,'life insurance',29,bank,own,1,no,Good,no
+New York,16.83,36,'existing paid',12389,0,1,none,4,'no known property',37,none,'for free',1,no,Bad,no
+Pennsylvania,45.62,20,'delayed previously',4712,0,4,Unknown,2,'life insurance',37,Other,own,2,no,Good,no
+Texas,105.1,24,'delayed previously',1553,427.25,3,none,2,'life insurance',23,none,rent,2,yes,Good,yes
+Texas,-4731.97,12,'existing paid',1372,73.59,2,Unknown,0,Other,36,none,own,1,no,Good,no
+Texas,0,24,'critical/other existing credit',3234,0,2,none,2,car,34,none,own,1,no,Good,no
+California,141.77,48,'existing paid',3979,0,4,Unknown,1,car,41,none,own,2,yes,Good,yes
+Illinois,-8505.01,48,'existing paid',6758,79.62,3,none,2,car,31,none,own,1,no,Good,no
+Maryland,-1076.42,20,'existing paid',3234,32.53,4,Unknown,4,'real estate',23,none,rent,1,no,Good,no
+Michigan,0,30,no credit history,5954,0,0,'co applicant',2,car,38,none,own,1,Unknown,Good,Unknown
+Missouri,0,20,'existing paid',5433,0,2,none,0,'life insurance',26,none,rent,1,no,Good,no
+Nevada,-7798.75,20,'existing paid',806,56.13,4,none,4,'life insurance',31,none,Other,1,no,Good,no
+New York,34.86,9,'existing paid',1082,75.33,4,none,4,Other,31,none,own,2,no,Bad,no
+Pennsylvania,0,15,'critical/other existing credit',2788,0,2,'co applicant',3,Other,24,bank,own,2,yes,Good,yes
+Texas,177.2,12,'existing paid',2930,85.34,2,none,1,'real estate',27,none,own,1,no,Bad,no
+Texas,0,24,'critical/other existing credit',1927,0,3,none,2,car,33,none,Other,2,yes,Good,yes
+Texas,198.94,36,'critical/other existing credit',2820,19.45,0,none,0,Other,27,none,own,2,yes,Good,yes
+California,0,24,'existing paid',937,0,4,none,0,car,31,none,own,2,no,Bad,no
+Illinois,15.62,20,'critical/other existing credit',1056,14.8,3,guarantor,3,'real estate',30,bank,own,2,yes,Good,yes
+Maryland,11.12,12,'critical/other existing credit',3124,52.67,1,none,3,'real estate',49,bank,own,2,no,Bad,no
+Michigan,0,9,'existing paid',1388,0,4,none,2,'real estate',26,none,rent,1,yes,Good,yes
+Missouri,158.08,36,'existing paid',2384,59.98,4,none,1,'no known property',33,none,rent,1,no,Good,no
+Nevada,0,12,'existing paid',2133,0,4,none,4,'no known property',52,none,'for free',1,no,Bad,no
+New York,-7660.79,18,'existing paid',2039,66.73,1,none,4,Other,20,bank,rent,1,yes,Bad,yes
+Pennsylvania,-2109.83,9,'critical/other existing credit',2799,52.78,2,none,2,'real estate',36,none,rent,2,yes,Good,yes
+Texas,-8493.58,12,'existing paid',1289,33.14,4,Unknown,1,'life insurance',21,none,own,1,no,Bad,no
+Texas,-4419.02,20,'existing paid',1217,0,4,none,0,'real estate',47,none,own,1,no,Bad,no
+California,-7550.63,12,'critical/other existing credit',2246,2.68,0,none,3,'life insurance',60,none,own,2,yes,Good,yes
+Illinois,-7837.91,12,'critical/other existing credit',3234,72.73,4,none,3,'real estate',58,none,own,4,no,Bad,no
+Michigan,23.86,20,'delayed previously',1965,0,4,none,4,car,31,none,Other,2,no,Good,no
+Missouri,0,21,'existing paid',3234,0,4,none,4,'real estate',36,bank,own,1,no,Good,no
+New York,51.5,24,'existing paid',2718,64.05,3,none,4,'life insurance',20,none,Other,0,yes,Bad,yes
+Pennsylvania,-6474.5,24,'all paid',1358,0,0,none,3,car,40,stores,own,1,yes,Good,yes
+Texas,137.68,6,no credit history,931,324.58,1,none,1,'life insurance',32,stores,own,1,yes,Good,yes
+California,-7808.18,24,'existing paid',1442,25.48,4,none,0,car,23,none,rent,2,yes,Good,yes
+Illinois,100.19,24,'no credits/all paid',4241,13.53,1,none,4,'real estate',36,none,own,3,no,Good,no
+Maryland,0,18,'critical/other existing credit',3234,0,2,none,2,'life insurance',31,bank,own,2,no,Bad,no
+Michigan,0,24,'delayed previously',3863,0,1,none,0,'no known property',32,none,'for free',1,no,Bad,no
+Missouri,141.17,7,'existing paid',2329,76.66,1,guarantor,1,'real estate',45,none,Other,1,yes,Good,yes
+New York,48.14,9,'existing paid',918,84.97,4,none,0,'life insurance',31,none,own,1,no,Bad,no
+Pennsylvania,10.4,24,'all paid',1837,53.92,4,none,4,'no known property',34,bank,'for free',1,yes,Good,yes
+Texas,0,36,'existing paid',3349,0,4,none,2,car,28,none,Other,1,yes,Good,yes
+California,1789.83,10,'existing paid',1275,58.68,4,none,2,'life insurance',23,none,own,1,yes,Good,yes
+Illinois,-4763.99,24,'all paid',3234,776.87,0,none,4,'real estate',22,stores,own,1,yes,Good,yes
+Michigan,0,24,'critical/other existing credit',4526,0,3,Unknown,2,'real estate',74,none,own,1,Unknown,Good,Unknown
+Missouri,168.77,36,'existing paid',2671,0,4,Unknown,4,'no known property',50,Other,'for free',1,yes,Good,yes
+New York,0,20,'existing paid',3234,0,4,none,1,'real estate',33,none,own,1,no,Bad,no
+Pennsylvania,0,15,'existing paid',1300,0,4,none,4,'no known property',45,bank,'for free',1,no,Good,no
+Texas,-6772.88,12,'existing paid',741,280.59,0,none,3,'life insurance',22,none,Other,1,no,Good,no
+Texas,3206.06,20,'existing paid',1240,191.82,1,none,4,'no known property',31,Other,'for free',1,yes,Good,yes
+California,-1041.19,21,'existing paid',3357,8629.45,4,none,2,car,29,bank,Other,1,yes,Good,yes
+Illinois,-2735.83,24,'all paid',3632,58.25,1,guarantor,4,car,22,bank,rent,1,no,Good,no
+Indiana,0,18,'delayed previously',1808,0,4,none,1,'real estate',31,none,own,1,yes,Bad,yes
+Maryland,141.49,48,'no credits/all paid',12204,0,2,none,2,car,48,Other,own,1,no,Good,no
+Michigan,162.45,60,'delayed previously',3234,0,2,none,2,'no known property',27,none,'for free',1,Unknown,Bad,Unknown
+Missouri,-3041.24,6,'critical/other existing credit',3676,29.16,1,none,3,'real estate',37,none,rent,3,no,Good,no
+New York,132.49,30,'existing paid',3441,0,0,'co applicant',4,car,21,none,rent,1,no,Good,no
+Pennsylvania,0,12,'existing paid',640,0,0,none,2,'real estate',49,none,own,1,yes,Bad,yes
+Texas,19.98,21,'critical/other existing credit',3652,51.81,2,none,3,'life insurance',27,Other,own,2,yes,Good,yes
+California,0,18,'critical/other existing credit',1530,0,3,none,2,'life insurance',32,bank,own,2,no,Good,no
+Illinois,0,48,'existing paid',3914,0,4,none,2,'real estate',38,bank,own,1,yes,Bad,yes
+Michigan,-5290.04,12,'existing paid',3234,60.63,4,none,1,car,22,none,Other,1,no,Good,no
+Missouri,-663.09,18,'existing paid',2600,20.07,4,none,4,'no known property',65,none,'for free',2,no,Good,no
+New York,0,15,'existing paid',1979,0,4,Unknown,2,car,35,none,own,1,yes,Bad,yes
+Pennsylvania,7470.59,6,no credit history,3234,28.02,2,none,2,'real estate',41,none,Other,1,yes,Bad,yes
+Texas,0,9,'all paid',1437,0,2,none,3,'no known property',29,none,own,1,yes,Bad,yes
+Alabama,0,42,'critical/other existing credit',4042,0,4,none,4,'real estate',36,none,own,2,no,Bad,no
+California,0,9,'existing paid',3832,0,1,none,4,'real estate',64,none,own,1,no,Bad,no
+Illinois,-1681.76,20,'existing paid',3660,89.73,2,none,4,car,28,none,own,1,yes,Bad,yes
+Michigan,-5831.23,18,'all paid',3234,77.99,4,Unknown,3,car,44,Other,own,0,yes,Good,yes
+Missouri,41.2,15,'existing paid',3234,0,4,none,0,'life insurance',23,none,own,1,Unknown,Bad,Unknown
+New York,0,9,'existing paid',1980,0,2,'co applicant',2,car,19,none,rent,2,no,Good,no
+Texas,184.6,24,'existing paid',1355,30.24,3,none,0,car,25,none,own,1,yes,Bad,yes
+California,0,12,'existing paid',1393,0,4,none,4,'life insurance',47,bank,Other,3,yes,Bad,yes
+Florida,0,24,'existing paid',1376,0,4,none,1,Other,31,none,own,1,yes,Bad,yes
+Illinois,0,60,'delayed previously',15653,0,2,none,4,Other,21,none,own,2,no,Bad,no
+Michigan,0,12,'existing paid',1493,0,0,none,3,car,31,none,own,1,yes,Bad,yes
+New York,-583.41,42,'delayed previously',4370,96.22,3,none,2,'life insurance',26,bank,own,2,yes,Bad,yes
+Texas,-2290.21,18,'existing paid',750,65.14,4,none,1,'real estate',27,none,own,1,yes,Good,yes
+California,72.58,15,'existing paid',1308,76.14,4,none,4,car,38,none,own,2,yes,Good,yes
+Illinois,0,15,'existing paid',4623,0,3,none,2,'life insurance',40,none,own,1,yes,Good,yes
+Michigan,0,20,'critical/other existing credit',1851,0,4,guarantor,2,car,33,none,own,2,no,Good,no
+New York,-4262.11,18,'critical/other existing credit',1880,86.87,4,none,0,'life insurance',32,none,own,2,yes,Bad,yes
+Texas,0,36,'delayed previously',7980,0,4,none,4,car,27,none,rent,2,yes,Good,yes
+California,-9608.79,30,no credit history,4583,89.41,2,guarantor,0,'real estate',32,none,Other,2,yes,Good,yes
+Illinois,0,12,'existing paid',1386,0,2,none,2,'life insurance',31,none,own,1,yes,Good,yes
+Michigan,5218.31,24,'existing paid',3234,99.04,4,none,3,'no known property',38,bank,'for free',0,no,Good,no
+New York,-9112.68,12,'existing paid',684,98.28,4,none,4,Other,40,none,rent,1,no,Bad,no
+New York,-2145.27,48,'existing paid',7476,31.97,4,none,1,'no known property',50,none,'for free',1,yes,Good,yes
+Ohio,67.5,12,'existing paid',1922,94.12,4,none,2,'life insurance',37,none,own,1,no,Bad,no
+Texas,-5275.22,24,'existing paid',2303,75.09,4,'co applicant',1,'real estate',45,none,own,1,yes,Good,yes
+California,99.84,36,'delayed previously',8086,125.55,0,none,4,car,42,none,own,4,yes,Bad,yes
+Illinois,0,24,'critical/other existing credit',2346,0,4,Unknown,3,car,35,none,Other,2,no,Good,no
+Michigan,0,14,'existing paid',3973,0,1,none,4,'no known property',31,none,'for free',1,yes,Good,yes
+Michigan,79.58,12,'existing paid',888,10.02,4,none,4,car,41,bank,own,1,yes,Good,yes
+New York,0,48,'existing paid',10222,0,4,none,3,car,37,stores,own,1,Unknown,Good,Unknown
+New York,43.97,30,no credit history,4221,80.29,2,Unknown,1,car,28,none,own,2,yes,Bad,yes
+Ohio,0,18,'critical/other existing credit',6361,0,2,none,1,'no known property',41,none,own,1,no,Good,no
+Texas,5584.53,12,'existing paid',1297,15.37,3,none,4,'real estate',23,none,rent,1,yes,Good,yes
+California,-6047.48,12,'existing paid',900,0,4,none,2,car,23,none,own,1,no,Good,no
+Illinois,0,21,'existing paid',2241,0,4,none,2,Other,31,none,own,2,no,Bad,no
+Michigan,186.02,6,'delayed previously',1050,90.78,4,none,1,'life insurance',35,stores,own,2,no,Bad,no
+Texas,2609.44,6,'critical/other existing credit',3234,8.9,2,none,0,'life insurance',50,none,own,1,yes,Good,yes
+Illinois,0,24,'critical/other existing credit',3234,0,4,'co applicant',0,'no known property',31,bank,own,0,yes,Bad,yes
+Michigan,152.49,30,'all paid',3496,8297.56,4,none,2,Other,34,stores,own,1,no,Good,no
+Texas,0,48,'all paid',3609,0,1,none,0,'real estate',31,stores,own,1,yes,Good,yes
+Alabama,-746.1,12,'critical/other existing credit',4843,14.57,3,'co applicant',4,'life insurance',43,none,rent,0,Unknown,Bad,Unknown
+Illinois,5885.96,30,'critical/other existing credit',3017,3.8,0,Unknown,4,'life insurance',47,none,own,1,no,Bad,no
+Michigan,0,24,'critical/other existing credit',4139,0,3,none,3,'life insurance',27,none,own,0,no,Bad,no
+Texas,0,36,'existing paid',5742,0,0,Unknown,0,car,31,none,own,2,yes,Bad,yes
+Illinois,0,60,'existing paid',10366,0,2,none,4,'life insurance',42,none,own,1,no,Good,no
+Texas,0,6,'critical/other existing credit',2080,0,1,none,2,car,24,Other,own,0,no,Bad,no
+Illinois,0,21,'delayed previously',2580,0,4,none,2,Other,41,bank,own,1,no,Bad,no
+Texas,0,30,'critical/other existing credit',4530,0,4,none,4,car,26,none,Other,1,Unknown,Bad,Unknown
+Alabama,0,24,'critical/other existing credit',5150,0,4,none,4,car,33,none,own,1,yes,Good,yes
+Alabama,31.31,72,'existing paid',5595,309.29,2,none,2,car,24,none,own,1,Unknown,Good,Unknown
+Alabama,-5102.86,24,'existing paid',2384,93.62,4,none,4,'real estate',64,bank,rent,0,Unknown,Good,Unknown
+Alabama,0,18,'existing paid',1453,0,3,none,1,Other,31,none,own,1,Unknown,Good,Unknown
+Alabama,0,6,'existing paid',1538,0,1,none,2,'no known property',56,none,own,1,yes,Good,yes
+Alabama,0,12,'existing paid',2279,0,4,Unknown,4,'no known property',37,none,'for free',1,yes,Good,yes
+Alabama,0,15,'delayed previously',1478,0,0,none,3,'real estate',33,bank,own,2,no,Bad,no
+Alabama,0,24,'critical/other existing credit',5103,0,0,Unknown,3,Other,47,none,'for free',3,no,Bad,no
+Alabama,118.46,36,no credit history,9857,159.43,1,none,3,'life insurance',31,Other,own,2,no,Good,no
+Alabama,0,60,'existing paid',6527,0,4,Unknown,4,'no known property',34,none,'for free',1,yes,Bad,yes
+Alabama,4535.68,10,'critical/other existing credit',1347,0,4,none,2,'life insurance',27,none,Other,2,yes,Bad,yes
+Alabama,165.23,36,'delayed previously',2862,189.81,4,none,3,'no known property',30,none,'for free',1,yes,Good,yes
+Alabama,0,9,'existing paid',2753,0,3,'co applicant',4,Other,35,none,own,1,no,Good,no
+Arkansas,-925.22,12,'existing paid',3651,3414.88,1,none,3,'life insurance',31,none,own,1,no,Good,no
+Arkansas,0,15,'critical/other existing credit',975,0,2,none,3,'life insurance',25,none,Other,2,yes,Good,yes
+Arkansas,99.58,15,'existing paid',2631,271.2,0,none,2,'real estate',25,none,own,1,yes,Good,yes
+Arkansas,78.73,24,'existing paid',2896,184.01,2,none,1,car,29,none,own,1,no,Good,no
+Arkansas,-1364.07,6,'critical/other existing credit',4716,0,1,Unknown,3,'real estate',44,none,own,2,no,Good,no
+Arkansas,0,24,'existing paid',2284,0,4,none,2,car,28,none,own,1,no,Good,no
+Arkansas,0,6,'existing paid',3234,0,2,none,4,'life insurance',50,none,rent,1,yes,Good,yes
+Arkansas,24.28,12,'existing paid',1103,0,4,guarantor,3,'real estate',31,none,own,2,no,Bad,no
+Arkansas,0,20,'critical/other existing credit',926,0,0,none,2,'life insurance',38,Other,Other,1,no,Good,no
+Arkansas,0,18,'critical/other existing credit',3234,0,4,none,2,car,24,none,own,2,yes,Good,yes
+Arkansas,2644.05,15,no credit history,1905,94.84,4,none,0,car,40,none,rent,1,Unknown,Good,Unknown
+Arkansas,0,12,'existing paid',1123,0,0,none,4,car,29,none,rent,1,yes,Good,yes
+Arizona,0,48,'critical/other existing credit',6331,0,4,none,4,'no known property',46,none,'for free',2,no,Good,no
+Arizona,2392.34,24,'existing paid',1377,287.97,4,none,2,'no known property',47,none,'for free',1,yes,Good,yes
+Arizona,124.56,30,'delayed previously',2503,429.73,4,none,2,'life insurance',41,stores,own,2,no,Bad,no
+Arizona,175.12,27,'existing paid',2528,96.82,4,none,1,'life insurance',32,Other,own,1,Unknown,Bad,Unknown
+Arizona,0,15,'existing paid',5324,0,1,none,4,Other,31,none,'for free',1,yes,Good,yes
+Arizona,43.03,48,'existing paid',3234,254.32,0,none,2,'life insurance',24,none,own,1,yes,Bad,yes
+Arizona,187.67,20,'no credits/all paid',2969,9.09,4,none,3,'life insurance',25,none,rent,2,no,Good,no
+Arizona,59.61,9,'existing paid',1206,22.92,4,none,4,'real estate',25,none,own,1,yes,Bad,yes
+Arizona,0,20,'existing paid',2118,0,2,none,2,'real estate',37,Other,Other,1,no,Good,no
+Arizona,0,18,'critical/other existing credit',629,0,4,none,3,'life insurance',31,bank,own,2,no,Good,no
+California,0,6,'all paid',1198,0,4,none,4,'no known property',35,none,'for free',1,yes,Bad,yes
+California,0,21,'existing paid',2476,0,4,none,4,'real estate',46,none,own,1,no,Bad,no
+California,-7949.53,9,'critical/other existing credit',1138,65.06,4,none,4,'real estate',25,none,own,2,no,Good,no
+California,189.81,60,'existing paid',14027,1.59,4,none,2,'no known property',27,none,own,1,yes,Good,yes
+California,0,30,'critical/other existing credit',7596,0,1,none,4,car,63,none,own,0,no,Bad,no
+California,0,30,'critical/other existing credit',3077,0,3,Unknown,2,car,40,none,Other,2,no,Good,no
+California,0,18,'existing paid',1505,0,4,Unknown,2,Other,32,none,'for free',1,no,Good,no
+California,8048.88,24,'critical/other existing credit',3148,0,0,none,2,Other,31,none,own,2,no,Bad,no
+California,163.16,20,'no credits/all paid',6148,364.78,0,none,0,car,31,bank,own,2,yes,Bad,yes
+California,7880.65,9,'no credits/all paid',1337,66.11,4,none,2,car,34,none,Other,2,no,Bad,no
+California,0,6,'all paid',433,0,0,none,2,'life insurance',24,bank,rent,1,no,Bad,no
+California,-7075.13,12,no credit history,1228,10.4,0,none,2,Other,24,none,own,1,Unknown,Good,Unknown
+California,106.93,20,'existing paid',790,893.64,4,none,3,'real estate',66,none,own,1,no,Good,no
+California,0,27,'existing paid',2570,0,3,none,3,'real estate',21,none,Other,1,no,Bad,no
+California,0,6,no credit history,250,0,0,none,2,'real estate',31,bank,own,2,Unknown,Good,Unknown
+California,0,15,'critical/other existing credit',1316,0,2,none,2,'life insurance',47,none,own,2,yes,Good,yes
+California,-1726.33,18,'existing paid',1882,39.45,4,none,0,car,25,bank,rent,0,yes,Bad,yes
+California,71.62,48,'all paid',6416,99.84,0,none,3,'no known property',31,none,rent,0,yes,Good,yes
+California,3063.5,24,'critical/other existing credit',1275,3355.15,2,none,4,'real estate',36,none,own,2,no,Good,no
+California,47.73,24,'delayed previously',6403,0,1,none,2,car,33,none,own,1,yes,Good,yes
+California,-1458.47,20,no credit history,1987,47.43,2,none,4,'real estate',31,none,rent,1,yes,Bad,yes
+California,33.27,8,'existing paid',3234,43.74,4,guarantor,2,'real estate',44,none,own,1,yes,Good,yes
+California,0,20,'existing paid',3234,0,2,none,4,car,28,none,Other,1,no,Bad,no
+California,0,4,'critical/other existing credit',3380,0,1,none,1,'real estate',37,none,own,1,yes,Good,yes
+California,71,36,'all paid',3990,0,0,Unknown,2,'no known property',29,Other,own,1,yes,Bad,yes
+California,37.8,24,'existing paid',11560,91.89,1,none,4,car,23,none,Other,2,yes,Good,yes
+California,-4024.01,18,'existing paid',4380,411.17,3,none,4,car,35,none,Other,1,Unknown,Bad,Unknown
+California,0,6,'critical/other existing credit',3234,0,1,Unknown,3,'no known property',31,none,own,2,no,Good,no
+California,126.63,30,'no credits/all paid',4280,374.88,4,none,0,car,26,none,rent,2,no,Good,no
+California,-210.65,24,'all paid',2325,355.29,2,none,3,Other,32,bank,own,1,no,Good,no
+California,138.02,10,'all paid',3234,60.77,4,none,4,Other,23,stores,Other,1,yes,Good,yes
+California,0,21,'existing paid',3160,0,4,none,3,'life insurance',41,none,own,1,no,Bad,no
+California,-5175.66,24,'all paid',2483,899.82,0,none,4,'real estate',22,stores,own,1,no,Bad,no
+California,-9114.34,39,'critical/other existing credit',14179,0,0,none,4,'life insurance',30,Other,own,2,yes,Bad,yes
+California,-1569.65,20,'critical/other existing credit',1797,51.04,3,none,1,'life insurance',28,bank,own,2,no,Good,no
+California,-206,15,'existing paid',2511,0,1,none,4,car,23,none,Other,1,yes,Good,yes
+California,-1128.82,20,'existing paid',1274,31.64,3,none,1,'real estate',37,none,own,1,yes,Good,yes
+California,0,20,'existing paid',5248,0,1,none,0,car,26,none,own,1,yes,Good,yes
+California,0,15,'existing paid',3029,0,2,none,2,car,33,none,own,1,yes,Good,yes
+California,-1907.79,6,'existing paid',3234,0,2,none,1,'life insurance',49,Other,Other,1,yes,Bad,yes
+California,-4959.02,18,'existing paid',976,41.22,1,none,2,car,23,none,own,1,no,Good,no
+California,169.84,12,'existing paid',841,406.75,0,none,4,'real estate',23,none,rent,1,yes,Good,yes
+California,0,30,'critical/other existing credit',5771,0,4,none,2,car,25,none,Other,2,yes,Bad,yes
+California,0,20,'delayed previously',1555,0,4,none,4,'no known property',55,none,'for free',2,Unknown,Good,Unknown
+California,-7700.17,24,'existing paid',1285,0,4,none,4,Other,32,none,rent,1,yes,Good,yes
+California,9099.65,6,'critical/other existing credit',1299,98.73,1,none,1,'real estate',31,none,Other,3,yes,Good,yes
+California,9437.28,15,'critical/other existing credit',1271,0,3,none,0,'no known property',39,none,'for free',2,yes,Bad,yes
+California,0,24,'existing paid',1393,0,0,guarantor,2,'real estate',31,none,Other,1,no,Good,no
+California,-114.67,12,'critical/other existing credit',691,15.15,4,none,3,'life insurance',35,none,Other,2,no,Bad,no
+California,0,15,'critical/other existing credit',3234,0,1,Unknown,4,car,59,none,own,1,yes,Bad,yes
+California,-4560.48,18,'critical/other existing credit',2124,34.4,4,none,4,'real estate',24,none,rent,2,yes,Good,yes
+California,-1694.38,12,'existing paid',2214,0,4,none,3,'life insurance',24,none,own,1,yes,Good,yes
+California,0,21,'critical/other existing credit',3234,0,4,none,4,'no known property',30,none,'for free',1,yes,Bad,yes
+California,0,24,'critical/other existing credit',2463,0,4,none,3,'life insurance',27,none,Other,2,no,Bad,no
+California,121.72,12,no credit history,3234,15.47,3,Unknown,3,'real estate',40,bank,own,2,yes,Good,yes
+California,0,30,no credit history,3108,0,2,none,4,'life insurance',31,none,Other,1,no,Bad,no
+California,0,20,'existing paid',2901,0,1,Unknown,0,Other,31,none,rent,1,yes,Good,yes
+California,95.13,12,'critical/other existing credit',3617,92.79,0,Unknown,4,Other,28,none,rent,3,Unknown,Good,Unknown
+California,0,12,'critical/other existing credit',1655,0,2,none,4,'real estate',31,none,own,2,no,Good,no
+California,-5367.96,24,'existing paid',2812,0,2,none,4,'real estate',26,none,rent,1,yes,Good,yes
+California,-1433.67,36,no credit history,8065,52.31,3,none,2,'no known property',25,none,own,2,yes,Bad,yes
+California,0,21,'critical/other existing credit',3275,0,1,none,4,car,36,none,own,1,yes,Good,yes
+California,0,24,'critical/other existing credit',2223,0,4,none,4,'life insurance',31,Other,own,2,no,Good,no
+California,4970.39,20,'critical/other existing credit',1480,818.86,2,Unknown,4,Other,31,Other,'for free',3,no,Bad,no
+California,-7880.14,24,'existing paid',3234,0,4,none,0,'real estate',25,none,rent,1,yes,Good,yes
+California,0,36,'critical/other existing credit',3535,0,4,none,4,car,37,none,own,2,yes,Good,yes
+California,-5787.14,18,'existing paid',3509,5.6,0,guarantor,1,'real estate',25,none,own,1,no,Bad,no
+Colorado,0,20,'critical/other existing credit',5711,0,4,none,0,car,38,none,own,2,yes,Good,yes
+Colorado,0,18,'existing paid',3872,0,2,none,4,car,67,none,own,1,no,Bad,no
+Colorado,143.98,39,'critical/other existing credit',4933,27.57,2,guarantor,2,'real estate',25,none,own,2,no,Bad,no
+Colorado,0,20,'critical/other existing credit',1940,0,4,none,4,'real estate',60,none,own,1,yes,Good,yes
+Connecticut,124.22,12,'no credits/all paid',1410,39.88,2,none,2,'real estate',31,none,own,1,Unknown,Good,Unknown
+Connecticut,18.9,12,'existing paid',836,197.77,4,none,2,'life insurance',23,bank,own,1,no,Bad,no
+District of Columbia,92.6,20,'existing paid',6468,0,1,none,4,'real estate',60,none,own,1,no,Good,no
+District of Columbia,20.17,18,'existing paid',1941,9298.08,4,none,2,'life insurance',35,none,own,1,yes,Good,yes
+Delaware,0,22,'existing paid',2675,0,3,none,4,car,40,none,own,1,no,Bad,no
+Delaware,0,48,no credit history,3234,0,4,none,3,car,38,none,own,2,yes,Bad,yes
+Florida,22.41,48,'delayed previously',3234,88.44,4,none,4,'no known property',50,none,'for free',1,yes,Good,yes
+Florida,0,40,'critical/other existing credit',5998,0,4,Unknown,3,'no known property',27,bank,own,1,yes,Bad,yes
+Florida,49.35,21,'existing paid',1188,39.92,2,none,4,'life insurance',31,none,own,1,yes,Good,yes
+Florida,0,24,'existing paid',6313,0,0,none,4,car,41,none,own,1,no,Bad,no
+Florida,0,20,'critical/other existing credit',1221,0,1,none,2,'life insurance',27,none,own,2,Unknown,Good,Unknown
+Florida,5071.29,20,'existing paid',2892,40.12,3,none,4,'no known property',51,none,'for free',1,no,Good,no
+Florida,0,24,'existing paid',3062,0,4,none,3,'no known property',32,none,rent,1,yes,Bad,yes
+Florida,0,9,no credit history,2301,0,2,none,4,'life insurance',31,none,rent,1,no,Bad,no
+Florida,-3171.02,18,'existing paid',3234,0,1,none,4,'life insurance',51,Other,'for free',1,Unknown,Bad,Unknown
+Florida,0,12,'critical/other existing credit',1258,0,0,none,4,'life insurance',22,none,rent,2,no,Good,no
+Florida,0,20,'delayed previously',717,0,4,none,4,car,54,none,own,2,yes,Good,yes
+Florida,67.27,9,'existing paid',3234,0,0,none,2,'real estate',35,none,own,0,yes,Good,yes
+Florida,0,24,'critical/other existing credit',3234,0,4,none,4,'no known property',31,none,'for free',2,yes,Bad,yes
+Florida,193.43,18,'critical/other existing credit',1795,34.86,3,guarantor,4,'real estate',48,bank,rent,0,no,Good,no
+Florida,-8219.36,20,'critical/other existing credit',4272,94.81,1,none,4,'life insurance',24,Other,own,2,no,Bad,no
+Florida,0,12,no credit history,976,0,4,Unknown,4,car,35,none,own,2,no,Bad,no
+Florida,44.41,12,'existing paid',7472,0,1,none,2,'real estate',31,none,rent,1,yes,Good,yes
+Florida,-7911.06,36,no credit history,9271,10.91,2,Unknown,1,car,24,none,own,1,no,Good,no
+Florida,3.64,6,'existing paid',590,69.14,3,none,3,'real estate',26,none,own,1,Unknown,Good,Unknown
+Florida,0,12,'critical/other existing credit',930,0,4,none,4,'real estate',65,Other,own,4,no,Bad,no
+Florida,0,42,'all paid',9283,0,1,none,2,'no known property',55,bank,'for free',1,yes,Good,yes
+Florida,0,15,'no credits/all paid',1778,0,2,none,1,'real estate',26,none,rent,2,yes,Bad,yes
+Florida,69.88,8,'existing paid',907,6.83,3,none,2,'real estate',26,none,own,1,no,Good,no
+Florida,98.29,6,'existing paid',484,82.59,3,guarantor,3,'real estate',28,bank,own,1,no,Bad,no
+Florida,-4383.35,36,'critical/other existing credit',9629,80,4,none,4,car,24,none,own,2,no,Good,no
+Florida,-6144.69,48,'existing paid',3051,61.85,3,none,0,car,54,none,own,1,no,Bad,no
+Florida,-5706.25,48,'existing paid',3931,99.46,0,Unknown,0,'no known property',46,none,'for free',1,no,Good,no
+Florida,28.13,36,'delayed previously',7432,17.52,0,none,2,'life insurance',54,Other,rent,1,yes,Bad,yes
+Florida,0,6,'existing paid',1338,0,1,none,4,'real estate',62,none,own,1,no,Bad,no
+Florida,0,6,no credit history,1554,0,0,none,2,car,24,none,Other,2,yes,Bad,yes
+Florida,0,36,'existing paid',15857,0,2,'co applicant',3,car,43,none,own,0,no,Good,no
+Florida,-581.77,18,'existing paid',1345,54.46,0,none,3,'real estate',26,bank,Other,1,Unknown,Bad,Unknown
+Florida,0,12,'existing paid',1101,0,3,none,2,'real estate',27,none,own,0,no,Good,no
+Florida,0,12,'existing paid',3016,0,3,none,1,car,24,none,own,1,Unknown,Good,Unknown
+Florida,-8804.85,36,'existing paid',2712,21.59,2,none,2,'life insurance',41,bank,own,1,yes,Good,yes
+Florida,-7039.13,8,'critical/other existing credit',731,45.93,4,none,4,'real estate',31,none,own,2,no,Bad,no
+Florida,0,18,'critical/other existing credit',3780,0,3,none,2,car,35,none,own,2,no,Good,no
+Florida,-6845.84,21,'critical/other existing credit',1602,64.4,4,none,3,car,30,none,own,2,no,Good,no
+Florida,-4028.09,18,'critical/other existing credit',3966,89.91,1,none,4,'real estate',33,Other,rent,3,no,Good,no
+Florida,0,18,no credit history,4165,0,2,none,2,car,36,stores,Other,2,no,Good,no
+Florida,-2327.2,36,'existing paid',8335,0,3,none,4,'no known property',47,none,'for free',1,yes,Good,yes
+Georgia,45.9,48,'delayed previously',6681,0,4,none,4,'no known property',38,none,'for free',1,yes,Bad,yes
+Georgia,0,24,no credit history,2375,0,4,none,2,car,31,Other,own,2,Unknown,Bad,Unknown
+Georgia,-9116.85,18,'existing paid',1216,0,4,none,3,car,23,none,rent,1,yes,Good,yes
+Georgia,-6919.96,45,'no credits/all paid',11816,80.7,2,Unknown,4,car,29,Other,rent,2,yes,Good,yes
+Georgia,94.26,24,'existing paid',3234,0,2,none,0,car,42,none,own,1,yes,Good,yes
+Georgia,5440.88,15,'existing paid',2327,94.96,2,none,3,'real estate',25,none,own,1,no,Good,no
+Georgia,-6123.97,12,'no credits/all paid',1082,0,4,none,4,Other,48,bank,own,2,yes,Good,yes
+Georgia,0,12,'existing paid',886,0,4,Unknown,2,car,21,Other,own,0,yes,Good,yes
+Georgia,0,4,'existing paid',601,0,1,Unknown,3,'real estate',23,Other,rent,1,no,Bad,no
+Georgia,-8713.84,20,'critical/other existing credit',3234,71.17,4,none,4,'life insurance',63,none,own,2,no,Bad,no
+Georgia,0,24,'critical/other existing credit',2611,0,4,'co applicant',0,'real estate',46,none,own,2,no,Good,no
+Georgia,-2075.66,36,'existing paid',5179,28.73,4,none,2,'life insurance',29,none,own,1,no,Good,no
+Georgia,0,21,'delayed previously',2993,0,3,none,2,'real estate',28,stores,own,2,yes,Good,yes
+Georgia,0,18,'existing paid',1943,0,4,none,4,'real estate',23,none,Other,1,yes,Good,yes
+Georgia,0,24,'all paid',1559,0,4,none,4,car,50,bank,Other,1,no,Good,no
+Georgia,0,18,'existing paid',3422,0,4,none,4,'life insurance',47,bank,own,0,Unknown,Good,Unknown
+Georgia,164.54,21,no credit history,3976,0,2,none,3,Other,35,none,own,1,no,Good,no
+Georgia,0,18,'existing paid',6761,0,2,none,4,car,68,none,rent,2,yes,Good,yes
+Georgia,0,20,no credit history,1249,0,0,none,2,'real estate',28,none,own,1,yes,Bad,yes
+Georgia,-5400.65,9,'existing paid',1364,27.79,0,none,4,'real estate',59,none,own,1,no,Good,no
+Hawaii,-9276.51,12,'existing paid',709,16.33,4,none,4,'real estate',57,stores,own,1,Unknown,Good,Unknown
+Iowa,-2942.19,20,'critical/other existing credit',2235,1.49,4,guarantor,2,'life insurance',31,bank,rent,2,no,Good,no
+Iowa,0,24,'critical/other existing credit',4042,0,3,none,4,'life insurance',43,none,own,2,no,Good,no
+Iowa,0,15,'critical/other existing credit',1471,0,4,none,4,'no known property',35,none,'for free',2,yes,Bad,yes
+Iowa,-4157.57,18,'all paid',1442,94.88,4,none,4,Other,32,none,'for free',2,no,Good,no
+Iowa,0,36,'delayed previously',10875,0,2,none,2,car,45,Other,own,2,no,Bad,no
+Iowa,0,24,'existing paid',1474,0,4,none,0,'real estate',33,none,own,1,no,Good,no
+Iowa,0,20,'existing paid',894,0,4,none,3,'life insurance',40,none,own,1,yes,Bad,yes
+Idaho,0,20,'critical/other existing credit',3343,0,4,none,2,'no known property',31,Other,'for free',1,yes,Good,yes
+Idaho,-4513.12,15,'existing paid',3959,18.68,3,none,2,Other,29,none,own,1,no,Bad,no
+Illinois,0,9,'existing paid',3577,0,1,guarantor,2,'real estate',26,none,rent,1,no,Bad,no
+Illinois,0,24,'critical/other existing credit',5804,0,4,none,2,'real estate',31,none,own,2,Unknown,Bad,Unknown
+Illinois,0,18,'delayed previously',2169,0,4,none,2,car,31,none,own,1,no,Good,no
+Illinois,-2638.38,24,'existing paid',2439,0,0,none,0,'real estate',35,none,own,1,Unknown,Good,Unknown
+Illinois,0,27,'critical/other existing credit',4526,0,4,none,2,'real estate',32,stores,own,2,no,Bad,no
+Illinois,0,10,'existing paid',2210,0,2,Unknown,2,'real estate',25,Other,Other,1,no,Good,no
+Illinois,0,15,no credit history,2221,0,2,none,4,car,20,none,rent,1,no,Bad,no
+Illinois,-8906.05,18,'existing paid',2389,88.27,4,none,1,car,27,stores,own,1,yes,Bad,yes
+Illinois,0,12,'critical/other existing credit',3331,0,2,none,4,'life insurance',42,stores,own,1,Unknown,Bad,Unknown
+Illinois,0,36,'existing paid',7409,0,3,none,2,Other,37,none,own,2,yes,Good,yes
+Illinois,-542.44,12,'existing paid',652,94.47,4,none,4,'life insurance',24,none,Other,1,yes,Bad,yes
+Illinois,0,36,'delayed previously',3234,0,2,none,4,car,40,none,Other,2,no,Bad,no
+Illinois,6044.46,6,'critical/other existing credit',1343,18.82,1,none,4,'real estate',46,none,own,2,no,Bad,no
+Illinois,-34.79,24,'critical/other existing credit',3234,146.38,0,none,0,'real estate',26,none,own,2,yes,Good,yes
+Illinois,0,15,'existing paid',874,0,4,none,1,'real estate',24,none,own,1,no,Good,no
+Illinois,-7372.45,12,'existing paid',3234,0,2,'co applicant',2,'life insurance',29,none,own,1,yes,Bad,yes
+Illinois,51.27,11,'critical/other existing credit',1322,7453.33,4,none,0,car,40,none,Other,2,no,Good,no
+Illinois,-974,18,'all paid',1940,65.2,3,'co applicant',4,'no known property',36,bank,'for free',1,no,Bad,no
+Illinois,0,36,'existing paid',3595,0,4,none,2,car,28,none,own,1,no,Good,no
+Illinois,-8311.39,9,'existing paid',1422,84.41,3,none,2,'no known property',27,none,'for free',0,yes,Good,yes
+Illinois,0,30,'critical/other existing credit',3234,0,2,none,3,'life insurance',36,none,own,2,no,Good,no
+Illinois,0,24,'existing paid',7814,0,3,none,3,car,38,none,own,1,Unknown,Good,Unknown
+Illinois,0,24,'existing paid',9277,0,2,none,4,'no known property',48,none,'for free',1,yes,Good,yes
+Illinois,0,30,'critical/other existing credit',2181,0,4,none,4,'real estate',36,none,own,2,no,Bad,no
+Illinois,0,18,'critical/other existing credit',1098,0,4,none,4,car,65,none,own,0,yes,Good,yes
+Illinois,39.31,24,'existing paid',4057,16.75,3,none,3,car,31,none,own,0,no,Bad,no
+Illinois,-5589.96,12,'existing paid',795,12.55,4,none,4,'life insurance',53,none,own,1,yes,Bad,yes
+Illinois,140.73,24,'critical/other existing credit',2825,0,4,none,3,Other,34,none,own,2,yes,Bad,yes
+Indiana,0,20,'existing paid',15672,0,2,Unknown,2,car,23,none,own,1,yes,Bad,yes
+Indiana,0,36,'critical/other existing credit',6614,0,4,none,4,car,34,none,own,2,Unknown,Good,Unknown
+Indiana,0,28,'all paid',7824,0,3,guarantor,4,'real estate',40,bank,rent,2,yes,Good,yes
+Indiana,-7869.21,27,'critical/other existing credit',2442,78.37,4,none,4,car,43,stores,own,0,yes,Good,yes
+Indiana,0,15,'critical/other existing credit',1829,0,4,none,0,car,31,none,Other,2,no,Bad,no
+Indiana,-9686.49,12,'critical/other existing credit',2171,80.14,4,none,4,'life insurance',38,bank,own,2,yes,Bad,yes
+Indiana,71.39,36,'critical/other existing credit',5800,44.36,3,none,4,car,34,none,own,2,yes,Bad,yes
+Indiana,0,18,'critical/other existing credit',1169,0,4,none,3,'life insurance',29,none,own,2,yes,Bad,yes
+Indiana,0,36,no credit history,8947,0,3,none,0,car,31,stores,own,0,no,Good,no
+Indiana,-3213.79,21,no credit history,2606,25.37,4,Unknown,4,Other,28,none,rent,1,no,Bad,no
+Indiana,0,12,'critical/other existing credit',3234,0,3,none,2,'life insurance',35,none,Other,1,yes,Good,yes
+Indiana,0,15,'existing paid',2186,0,1,none,4,'real estate',31,bank,rent,1,yes,Bad,yes
+Indiana,-5178.11,18,'existing paid',4153,65.95,2,'co applicant',3,car,42,none,Other,1,no,Good,no
+Indiana,-9384.89,20,'critical/other existing credit',2625,25,2,guarantor,4,'life insurance',43,bank,rent,1,no,Good,no
+Indiana,0,20,'critical/other existing credit',3485,0,2,none,4,'real estate',44,none,own,2,no,Bad,no
+Kansas,0,20,'critical/other existing credit',3234,0,2,none,4,Other,42,Other,Other,2,yes,Good,yes
+Kansas,0,15,'existing paid',1386,0,4,Unknown,2,'real estate',40,none,rent,0,no,Good,no
+Kansas,0,24,'existing paid',3234,0,4,none,1,'real estate',36,none,own,1,yes,Bad,yes
+Kansas,-4424.42,20,no credit history,1107,65.46,2,none,2,'real estate',20,none,rent,1,no,Good,no
+Kentucky,-8003.56,21,'existing paid',3763,0,2,'co applicant',2,'real estate',24,none,own,1,no,Good,no
+Kentucky,124.56,36,'existing paid',3711,0,2,none,2,car,27,none,own,1,yes,Good,yes
+Kentucky,0,15,'delayed previously',3594,0,1,none,2,'life insurance',31,none,own,2,no,Good,no
+Kentucky,152.88,9,'existing paid',3195,0,1,none,2,'real estate',33,none,own,1,no,Bad,no
+Kentucky,0,36,'delayed previously',4454,0,4,none,4,'real estate',34,none,own,2,no,Bad,no
+Kentucky,53.13,20,'critical/other existing credit',4736,73.55,2,none,4,car,25,bank,Other,1,yes,Good,yes
+Kentucky,136.67,30,no credit history,2991,0,0,none,4,car,25,none,own,1,yes,Bad,yes
+Kentucky,0,11,'existing paid',2142,0,1,none,2,'real estate',28,none,Other,1,yes,Good,yes
+Kentucky,0,24,'all paid',3161,0,4,none,2,Other,31,none,rent,1,yes,Bad,yes
+Kentucky,0,48,'no credits/all paid',18424,0,1,none,2,'life insurance',32,bank,own,1,yes,Good,yes
+Kentucky,0,20,'existing paid',2848,0,1,'co applicant',2,'real estate',32,none,own,1,no,Bad,no
+Kentucky,-2248.12,6,'existing paid',14896,47.22,1,none,4,'no known property',68,bank,own,1,no,Good,no
+Kentucky,-9881.63,24,'existing paid',2359,465.33,0,none,1,'life insurance',33,none,own,1,Unknown,Good,Unknown
+Kentucky,-5723.26,24,'existing paid',3345,58.66,4,none,2,'life insurance',39,none,rent,1,yes,Good,yes
+Kentucky,0,20,'critical/other existing credit',1817,0,4,none,2,'no known property',28,none,own,2,no,Bad,no
+Kentucky,0,20,'delayed previously',12749,0,4,none,1,car,37,none,own,1,no,Bad,no
+Kentucky,-5558.63,9,'existing paid',1366,8.58,3,none,4,'life insurance',22,none,rent,1,yes,Good,yes
+Kentucky,50.65,12,'existing paid',2002,78.56,3,none,4,'life insurance',30,none,rent,1,no,Bad,no
+Kentucky,-860.04,24,'all paid',6872,0,2,none,1,'life insurance',31,bank,own,1,no,Bad,no
+Kentucky,-493.93,12,'all paid',697,41.84,4,Unknown,2,car,46,bank,own,2,yes,Bad,yes
+Kentucky,-139.76,18,'critical/other existing credit',1049,44.33,4,none,4,'life insurance',21,none,rent,1,Unknown,Good,Unknown
+Kentucky,-6957.68,20,'existing paid',10297,96.63,4,none,4,'no known property',39,stores,'for free',0,yes,Bad,yes
+Kentucky,0,20,'existing paid',1867,0,0,none,4,car,58,none,own,0,yes,Good,yes
+Kentucky,-6014.9,12,'delayed previously',3234,77.78,4,none,2,'real estate',43,none,own,2,no,Good,no
+Kentucky,-6433.26,24,'existing paid',3234,49.11,4,'co applicant',1,'life insurance',24,Other,Other,1,no,Bad,no
+Kentucky,76.55,9,'existing paid',1670,11.79,4,none,2,car,22,none,own,1,Unknown,Bad,Unknown
+Kentucky,0,9,'critical/other existing credit',1224,0,3,none,1,'real estate',30,none,own,2,Unknown,Good,Unknown
+Louisiana,0,12,'critical/other existing credit',3234,0,4,none,4,'life insurance',42,none,own,0,no,Good,no
+Louisiana,-7689.68,20,'existing paid',1498,54.57,4,Unknown,1,car,23,bank,own,1,yes,Good,yes
+Louisiana,152.56,30,'delayed previously',1919,239.05,0,none,3,'no known property',30,Other,Other,2,Unknown,Bad,Unknown
+Louisiana,6883.16,9,'existing paid',745,54.04,3,none,2,Other,28,none,Other,1,yes,Good,yes
+Louisiana,63.46,6,'existing paid',2063,82.56,4,none,3,car,30,none,rent,1,yes,Good,yes
+Louisiana,150.94,60,'existing paid',6288,77.15,4,none,4,Other,42,none,'for free',1,yes,Bad,yes
+Louisiana,0,24,'critical/other existing credit',6842,0,0,none,4,'life insurance',31,none,Other,2,yes,Bad,yes
+Louisiana,0,12,'existing paid',3527,0,2,none,3,'life insurance',31,none,own,1,yes,Bad,yes
+Louisiana,0,10,'existing paid',1546,0,0,none,2,'real estate',31,none,own,1,yes,Good,yes
+Louisiana,0,24,no credit history,929,0,4,none,2,car,31,stores,own,1,no,Good,no
+Louisiana,0,4,'critical/other existing credit',1455,0,2,none,0,'real estate',42,none,own,3,no,Good,no
+Louisiana,-6930.31,15,'existing paid',3234,22.67,4,Unknown,1,'life insurance',46,none,rent,0,yes,Good,yes
+Louisiana,68.8,48,'no credits/all paid',8358,586.68,1,none,1,Other,30,none,own,2,yes,Good,yes
+Louisiana,-1377.54,24,'all paid',3349,672.43,4,Unknown,4,'no known property',30,none,'for free',1,no,Good,no
+Louisiana,0,12,'existing paid',2859,0,4,none,4,'no known property',31,none,own,1,Unknown,Good,Unknown
+Louisiana,0,18,'existing paid',1533,0,4,'co applicant',1,'life insurance',31,none,own,1,no,Good,no
+Louisiana,0,24,'existing paid',3621,0,2,Unknown,4,car,31,none,own,2,Unknown,Good,Unknown
+Louisiana,111.5,18,'critical/other existing credit',3590,14.04,3,none,3,car,40,none,own,3,yes,Bad,yes
+Louisiana,-4965.47,36,'delayed previously',2145,47.97,2,none,1,car,24,none,own,2,no,Good,no
+Louisiana,0,24,no credit history,4113,0,0,none,4,Other,28,none,rent,1,yes,Bad,yes
+Louisiana,0,36,'existing paid',10974,0,0,none,2,car,26,none,own,2,no,Good,no
+Massachusetts,-8272.23,12,'existing paid',1893,95.08,4,guarantor,4,'life insurance',29,none,own,0,yes,Good,yes
+Massachusetts,-6700.86,24,'critical/other existing credit',1231,2176.54,4,none,4,'life insurance',57,none,rent,2,Unknown,Good,Unknown
+Massachusetts,3586.3,30,'critical/other existing credit',3656,0,4,none,4,'life insurance',49,stores,Other,2,yes,Bad,yes
+Massachusetts,193.78,9,'critical/other existing credit',1154,1.28,2,none,4,'real estate',31,none,own,3,no,Good,no
+Massachusetts,-6792.8,28,'existing paid',4006,29.47,3,none,2,car,45,none,own,1,no,Bad,no
+Massachusetts,169.67,24,'existing paid',3069,286.74,4,none,4,'no known property',30,Other,'for free',1,yes,Bad,yes
+Massachusetts,0,6,no credit history,1740,0,2,none,2,'real estate',30,none,rent,2,yes,Good,yes
+Massachusetts,192.9,21,'delayed previously',2353,73.52,1,none,4,'life insurance',47,none,own,2,no,Good,no
+Massachusetts,0,15,'existing paid',3556,0,3,none,2,'no known property',29,none,own,1,no,Good,no
+Massachusetts,0,24,'existing paid',2397,0,3,none,2,car,35,Other,own,2,no,Good,no
+Massachusetts,0,6,'existing paid',3234,0,3,none,1,'life insurance',22,Other,Other,1,no,Bad,no
+Massachusetts,55.87,30,'existing paid',1715,0,4,none,1,car,26,none,Other,1,Unknown,Good,Unknown
+Massachusetts,132.11,27,'critical/other existing credit',2520,774.26,4,none,2,'life insurance',23,Other,own,2,yes,Good,yes
+Maryland,0,15,no credit history,3568,0,4,Unknown,0,Other,54,bank,rent,1,Unknown,Good,Unknown
+Maryland,0,42,'existing paid',7166,0,2,none,4,'life insurance',29,none,rent,1,yes,Bad,yes
+Maryland,-9201.17,11,'critical/other existing credit',3939,82.17,1,none,2,'real estate',40,none,own,2,yes,Bad,yes
+Maryland,0,15,'existing paid',1514,0,0,guarantor,2,'real estate',22,Other,own,1,yes,Good,yes
+Maryland,,,,3234,0,0,Unknown,0,Other,31,Other,Other,0,Unknown,Good,Unknown
+Maryland,0,24,'existing paid',7393,0,1,none,4,'life insurance',43,none,Other,1,yes,Good,yes
+Maryland,-3817.21,24,'all paid',1193,7.35,1,'co applicant',4,'no known property',29,none,rent,2,Unknown,Good,Unknown
+Maryland,-5030.05,60,'existing paid',3234,0,0,'co applicant',4,'no known property',31,none,rent,1,yes,Bad,yes
+Maryland,0,30,'critical/other existing credit',3234,0,0,none,2,car,33,none,own,1,Unknown,Bad,Unknown
+Maine,9492.3,24,'existing paid',3234,732.13,3,none,3,Other,57,none,own,1,no,Good,no
+Michigan,161.73,6,'existing paid',753,0,2,guarantor,0,'real estate',64,none,own,1,no,Good,no
+Michigan,137.22,18,'delayed previously',2427,0,4,none,2,'life insurance',42,none,own,2,yes,Good,yes
+Michigan,0,24,'delayed previously',2538,0,4,none,4,car,47,none,own,2,Unknown,Bad,Unknown
+Michigan,8.44,15,'all paid',1264,119.45,2,none,0,'life insurance',25,none,rent,1,Unknown,Good,Unknown
+Michigan,84.87,30,'critical/other existing credit',8386,1.92,2,none,2,'life insurance',49,none,own,1,yes,Good,yes
+Michigan,0,48,'existing paid',4844,0,3,Unknown,2,car,33,bank,rent,1,yes,Bad,yes
+Michigan,7338.22,21,'existing paid',2923,174.71,1,none,1,car,28,bank,own,1,no,Good,no
+Michigan,-3300.97,36,'existing paid',8229,32.32,2,none,2,'life insurance',26,none,own,1,yes,Good,yes
+Michigan,0,24,'critical/other existing credit',2028,0,2,none,2,'life insurance',30,none,own,2,Unknown,Good,Unknown
+New Mexico,-6188.9,15,'critical/other existing credit',1433,15.71,4,none,3,'life insurance',25,none,rent,2,yes,Bad,yes
+New Mexico,3071.02,42,no credit history,6289,20.05,2,none,1,'life insurance',33,none,own,2,no,Good,no
+New Mexico,0,13,'existing paid',1409,0,2,none,0,'real estate',64,none,own,1,yes,Bad,yes
+New Mexico,-5107.89,24,'existing paid',6579,21.65,4,Unknown,0,'no known property',29,none,'for free',1,no,Good,no
+Nevada,96.89,24,'critical/other existing credit',3234,29.55,4,none,2,'life insurance',48,none,own,0,no,Good,no
+Nevada,0,12,'critical/other existing credit',3565,0,2,none,1,'life insurance',37,none,own,2,no,Good,no
+New York,0,15,'all paid',1569,0,4,none,4,car,34,bank,Other,1,no,Good,no
+New York,0,18,'existing paid',1936,0,2,none,4,car,23,none,Other,0,yes,Good,yes
+New York,-9599.81,36,'existing paid',3959,25.06,0,none,3,'life insurance',30,none,own,1,no,Bad,no
+New York,0,12,'existing paid',2390,0,4,none,3,car,50,none,own,1,no,Good,no
+New York,0,12,'existing paid',1736,0,3,none,4,'real estate',31,none,own,1,no,Bad,no
+New York,-3296.07,30,'existing paid',3857,88.42,4,none,4,'life insurance',40,none,own,1,Unknown,Good,Unknown
+Ohio,0,20,'existing paid',804,0,4,Unknown,4,car,38,none,own,1,no,Good,no
+Ohio,-7050.13,45,'existing paid',1845,66.53,4,Unknown,0,'no known property',23,none,'for free',1,yes,Good,yes
+Ohio,32.57,45,'critical/other existing credit',4576,227.77,3,Unknown,4,car,27,none,Other,1,yes,Good,yes
